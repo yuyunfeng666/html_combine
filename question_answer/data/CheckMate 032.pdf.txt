@@ -1,0 +1,466 @@
+Articles
+Nivolumab alone and nivolumab plus ipilimumab in recurrent  small-cell lung cancer (CheckMate 032): a multicentre,  open-label, phase 1/2 trial
+Scott J Antonia, José A López-Martin, Johanna Bendell, Patrick A Ott, Matthew Taylor, Joseph Paul Eder, Dirk Jäger, M Catherine Pietanza,  Dung T Le, Filippo de Braud, Michael A Morse, Paolo A Ascierto, Leora Horn, Asim Amin, Rathi N Pillai, Jeffry Evans, Ian Chau, Petri Bono,  Akin Atmaca, Padmanee Sharma, Christopher T Harbison, Chen-Sheng Lin, Olaf Christensen, Emiliano Calvo
+Summary
+Background Treatments for small-cell lung cancer (SCLC) after failure of platinum-based chemotherapy are limited.  We assessed safety and activity of nivolumab and nivolumab plus ipilimumab in patients with SCLC who progressed  after one or more previous regimens.
+Methods The SCLC cohort of this phase 1/2 multicentre, multi-arm, open-label trial was conducted at 23 sites  (academic centres and hospitals) in six countries. Eligible patients were 18 years of age or older, had limited-stage or  extensive-stage SCLC, and had disease progression after at least one previous platinum-containing regimen. Patients  received nivolumab (3 mg/kg bodyweight intravenously) every 2 weeks (given until disease progression or  unacceptable toxicity), or nivolumab plus ipilimumab (1 mg/kg plus 1 mg/kg, 1 mg/kg plus 3 mg/kg, or 3 mg/kg  plus 1 mg/kg, intravenously) every 3 weeks for four cycles, followed by nivolumab 3 mg/kg every 2 weeks.  Patients were either assigned to nivolumab monotherapy or assessed in a dose-escalating safety phase for the  nivolumab/ipilimumab combination beginning at nivolumab 1 mg/kg plus ipilimumab 1 mg/kg. Depending on  tolerability, patients were then assigned to nivolumab 1 mg/kg plus ipilimumab 3 mg/kg or nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg. The primary endpoint was objective response by investigator assessment. All analyses included  patients who were enrolled at least 90 days before database lock. This trial is ongoing; here, we report an interim  analysis of the SCLC cohort. This study is registered with ClinicalTrials.gov, number NCT01928394.
+Findings Between Nov 18, 2013, and July 28, 2015, 216 patients were enrolled and treated (98 with nivolumab 3 mg/kg,  three with nivolumab 1 mg/kg plus ipilimumab 1 mg/kg, 61 with nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, and  54 with nivolumab 3 mg/kg plus ipilimumab 1 mg/kg). At database lock on Nov 6, 2015, median follow-up for patients  continuing in the study (including those who had died or discontinued treatment) was 198·5 days (IQR 163·0–464·0) for  nivolumab 3 mg/kg, 302 days (IQR not calculable) for nivolumab 1 mg/kg plus ipilimumab 1 mg/kg, 361·0 days  (273·0–470·0) for nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, and 260·5 days (248·0–288·0) for nivolumab 3 mg/kg  plus ipilimumab 1 mg/kg. An objective response was achieved in ten (10%) of 98 patients receiving nivolumab 3 mg/kg,   one (33%) of three patients receiving nivolumab 1 mg/kg plus ipilimumab 1 mg/kg, 14 (23%) of 61 receiving nivolumab  1 mg/kg plus ipilimumab 3 mg/kg, and ten (19%) of 54 receiving nivolumab 3 mg/kg plus ipilimumab 1 mg/kg. Grade 3  or 4 treatment-related adverse events occurred in 13 (13%) patients in the nivolumab 3 mg/kg cohort, 18 (30%) in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort, and ten (19%) in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  cohort; the most commonly reported grade 3 or 4 treatment-related adverse events were increased lipase (none vs 5 [8%]  vs none) and diarrhoea (none vs 3 [5%] vs 1 [2%]). No patients in the nivolumab 1 mg/kg plus ipilimumab 1 mg/kg cohort  had a grade 3 or 4 treatment-related adverse event. Six (6%) patients in the nivolumab 3 mg/kg group, seven (11%) in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg group, and four (7%) in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  group discontinued treatment due to treatment-related adverse events. Two patients who received nivolumab 1 mg/kg  plus ipilimumab 3 mg/kg died from treatment-related adverse events (myasthenia gravis and worsening of renal failure),  and one patient who received nivolumab 3 mg/kg plus ipilimumab 1 mg/kg died from treatment-related pneumonitis.
+Interpretation Nivolumab monotherapy and nivolumab plus ipilimumab showed antitumour activity with durable  responses and manageable safety profiles in previously treated patients with SCLC. These data suggest a potential  new treatment approach for a population of patients with limited treatment options and support the evaluation of  nivolumab and nivolumab plus ipilimumab in phase 3 randomised controlled trials in SCLC.
+Funding Bristol-Myers Squibb.
+Introduction
+Small-cell lung cancer (SCLC), which accounts for roughly  14% of all lung cancers, is strongly associated with tobacco 
+www.thelancet.com/oncology   Vol 17   July 2016 
+use and has high mutation rates without known oncogenic  drivers.1,2 Most patients present with extensive-stage  disease characterised by widespread metastases and poor 
+Lancet Oncol 2016; 17: 883–95 Published Online  June 4, 2016  http://dx.doi.org/10.1016/ S1470-2045(16)30098-5 This online publication has  been corrected. The corrected  version first appeared at  thelancet.com/oncology on  June 28, 2016 and further  corrections were made on  February 1, 2019 See Comment page 846 H Lee Moffitt Cancer Center &  Research Institute, Tampa, FL,  USA (Prof S J Antonia MD);  Hospital Universitario 12 de  Octubre, Madrid, Spain  ( J A López-Martin MD);  Sarah Cannon Research  Institute/Tennessee Oncology,  PLLC, Nashville, TN, USA  ( J Bendell MD); Dana-Farber  Cancer Institute, Boston, MA,  USA (P A Ott MD); Oregon  Health & Science University,  Portland, OR, USA  (M Taylor MD); Yale  Comprehensive Cancer Center,  New Haven, CT, USA  ( J P Eder MD); Nationales  Centrum für  Tumorerkrankungen (NCT),  University Medical Center,  Heidelberg, Germany  (D Jäger MD); Memorial Sloan  Kettering Cancer Center,  New York, NY, USA  (M C Pietanza MD); The Sidney  Kimmel Comprehensive Cancer  Center at Johns Hopkins  University, Baltimore, MD, USA  (D T Le MD); Fondazione IRCCS  Istituto Nazionale dei Tumori  Milano, Milan, Italy  (Prof F de Braud MD); Duke  University Medical Center,  Durham, NC, USA  (Prof M A Morse MD); Istituto  Nazionale Tumori Fondazione  Pascale, Naples, Italy  (P A Ascierto MD);  Vanderbilt-Ingram Cancer  Center, Nashville, TN, USA  (L Horn MD); Levine Cancer  Institute, Carolinas Medical 
+883
+Center, Charlotte, NC, USA  (A Amin MD); Winship Cancer  Institute of Emory University,  Atlanta, GA, USA  (R N Pillai MD); University of  Glasgow, Glasgow, UK  (Prof J Evans MD); Royal  Marsden Hospital, Sutton, UK  (I Chau MD); Comprehensive  Cancer Center, Helsinki  University Hospital and  University of Helsinki, Helsinki,  Finland (P Bono MD);  Krankenhaus Nordwest  UCT-University Cancer Center,  Frankfurt, Germany  (A Atmaca MD); The University  of Texas MD Anderson Cancer  Center, Houston, TX, USA  (Prof P Sharma MD);  Bristol-Myers Squibb,  Princeton, NJ, USA  (C T Harbison PhD, C-S Lin PhD,  O Christensen MD); and START  Madrid, Centro Integral  Oncológico Clara Campal,  Madrid, Spain (E Calvo MD) Correspondence to:  Dr Emiliano Calvo,  START Madrid, Centro Integral  Oncológico Clara Campal,  Calle Oña, 10 28050,  Madrid, Spain  emiliano.calvo@start.stoh.com
+Research in context
+Evidence before this study We searched the scientific literature for outcomes following  failure of first-line treatment in patients with small-cell lung  cancer (SCLC) and available subsequent treatment options.  The search terms “SCLC”, “recurrent”, “relapsed”, “second-line”,  “third-line”, “phase 1”, “phase 2” and/or “phase 3” were used in  PubMed focusing on reports and meta-analyses during the  10-year period before the start of the trial from Jan 1, 2003, to  Jan 1, 2013. To investigate the potential for immunotherapy in  SCLC, the terms “SCLC” and “immune response”,  “immunotherapy”, “PD-1”, “CTLA-4”, “NSCLC”, “PD-L1”,  “nivolumab”, “ipilimumab”, “MK3475”, “lambrolizumab”,  “MPDL3280A”, “MEDI4736”, and “tremelimumab” were used to  search PubMed, congress abstracts from the annual meetings of  the American Association of Cancer Research, American Society  of Clinical Oncology, European Cancer Congress, and World  Conference on Lung Cancer, and for ongoing trials in  ClinicalTrials.gov. The searches revealed poor survival outcomes for patients with  recurrent or relapsed SCLC and no treatment options beyond  second line. The following pieces of evidence underscored the  rationale for investigating nivolumab and nivolumab plus  ipilimumab in SCLC: SCLC is immunogenic, ipilimumab in 
+combination with chemotherapy was active in  extensive-disease SCLC, and nivolumab and nivolumab plus  ipilimumab showed encouraging activity in non-small-cell lung  cancer in phase 1/2 trials.
+Added value of this study Nivolumab alone and in combination with ipilimumab  demonstrated durable objective responses, encouraging overall  survival, and manageable safety in patients with advanced SCLC  who had progressed after one or more previous regimens. To our  knowledge, this is the first trial showing activity of nivolumab  and nivolumab plus ipilimumab in SCLC, in a hard-to-treat  population of patients with limited treatment options.
+Implications of all the available evidence Based on the notable objective responses, the duration of the  responses, and the median overall survival seen with  nivolumab plus ipilimumab treatment in this patient  population, phase 3 studies for nivolumab and nivolumab plus  ipilimumab as maintenance therapy (in non-progressing  patients) after first-line chemotherapy (CheckMate 451,  NCT02538666), and for nivolumab versus chemotherapy as  second-line therapy (CheckMate 331, NCT02481830) in SCLC  are ongoing.
+survival.2 Although 35–86% of patients respond to first- line chemotherapy, disease progresses rapidly, and  outcomes with second-line treatment are poor.3–6 Standard first-line chemotherapy for SCLC  is a  platinum–etoposide doublet, with topotecan as second-line  therapy in the USA and European Union1 and amrubicin  as second-line therapy in Japan.7 Although response with  topotecan is achieved in 23% of platinum-sensitive  patients and 9% of platinum-resistant or refractory  patients, these responses are not durable.8 Nivolumab, a fully human IgG4 PD-1  immune- checkpoint inhibitor antibody, significantly improved  overall survival and had a favourable safety profile  compared with docetaxel in two phase 3 studies of patients  with non-small-cell lung cancer (NSCLC) who progressed  after first-line platinum-based doublet chemotherapy,9,10  leading to its approval in the USA and the European  Union for treatment of patients with locally advanced or  metastatic NSCLC.11  Ipilimumab, a  fully human  IgG1 CTLA-4 immune-checkpoint inhibitor antibody,  significantly improved overall survival compared with  glycoprotein peptide 100 vaccine  in patients with  metastatic melanoma,12 and ipilimumab plus dacarbazine  improved survival over dacarbazine alone in patients with  metastatic melanoma.13 Ipilimumab is approved in the  USA and the European Union for this indication. Preclinical data suggest that the combination of PD-1  and CTLA-4 receptor blockade might improve antitumour  activity,14 and the combination of nivolumab plus 
+ipilimumab has demonstrated deep and durable  responses in several tumour types.15–17 The combination  of nivolumab plus ipilimumab is approved in the USA   and the European Union for treatment of advanced  melanoma. On the basis of efficacy of combination  treatment in melanoma, CheckMate 032 was designed as  a phase 1/2 trial to investigate the activity and safety of  nivolumab as monotherapy or in combination with  ipilimumab in several advanced or metastatic solid  tumour types. The evaluation of nivolumab monotherapy  and the combination of nivolumab and ipilimumab in  patients with advanced or metastatic tumours for which  no standard of care in advanced lines of treatment exists  will potentially generate evidence of antitumour activity  as a basis for further clinical development in these  tumour types. Here, we report activity, safety, and  biomarker analyses for the SCLC cohort.
+Methods
+Study design and participants
+This was a multicentre, open-label, two-stage, multi-arm  phase 1/2 trial. Patients with SCLC were enrolled at  23 sites (academic centres and hospitals) in six countries  (Finland, Germany,  Italy, Spain, UK, and USA;  appendix p 19). Eligible patients had histologically or  cytologically confirmed, limited-stage or extensive-stage  SCLC, with progressive disease after at least one platinum- based chemotherapy regimen. Patients with platinum- sensitive (relapse ≥90 days after chemotherapy) or 
+See Online for appendix
+884 
+www.thelancet.com/oncology   Vol 17   July 2016
+Articlesplatinum-resistant (relapse <90 days after or during  chemotherapy) disease were eligible irrespective of PD-L1  expression. Patients were 18 years of age or older,  with an Eastern Cooperative Oncology Group (ECOG)  performance status of 0 or 1 and had adequate organ  function. Patients were required to have measurable  disease per the Response Evaluation Criteria in Solid  Tumors (RECIST), version 1.1,18 and baseline tumour  biopsy or archival tumour material available for biomarker  analyses. Tumour material was acceptable from biopsies  performed before the screening period if the biopsy was  done up to 3 months before start of treatment and no  other systemic cancer therapy was administered in that  time. Baseline laboratory tests required to assess eligibility  included white blood cell counts, neutrophils, platelets,  haemoglobin, serum creatinine, alanine aminotransferase,  aspartate amino transferase, total bilirubin, albumin,  lipase, and amylase. Key exclusion criteria included  active brain or leptomeningeal metastases, a history of  autoimmune disease (except for vitiligo, type 1 diabetes  mellitus, residual hypothyroidism due to autoimmune  thyroiditis only requiring hormone replacement, or  conditions not expected to recur in the absence of an  external trigger), the need for immunosuppressive doses  of systemic corticosteroids (>10 mg per day prednisone  equivalents) 2 weeks before study drug administration,  and previous treatment with antibodies that modulate  T-cell function or checkpoint pathways. Patients were also  excluded if they tested positive for hepatitis B virus or HIV,  or had unresolved toxic effects from previous anticancer  therapies. Patient selection was not based on estimated  survival. Median survival for patients with relapsed SCLC  has been reported as approximately 3·5–12 months.4 The study protocol was approved by an institutional  review board or ethics committee at each participating  centre. The study was conducted in accordance with the  Declaration of Helsinki and Good Clinical Practice  guidelines, as defined by the International Conference  on Harmonisation. Before performing any study-specific  procedures, written informed consent was obtained from  all patients.
+Procedures
+Using an interactive voice response system, patients with  SCLC were enrolled in one of the following four cohorts  in a sequential manner, or assigned if more than  one cohort was open for enrolment: nivolumab alone  3 mg/kg bodyweight (nivolumab 3 mg/kg) intravenously  every 2 weeks until disease progression or unacceptable  toxicity, or combination treatment with nivolumab plus  ipilimumab intravenously every 3 weeks for four cycles,  at dose level 1 (nivolumab 1 mg/kg plus ipilimumab  1 mg/kg), dose level 2 (nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg), or dose level 2b (nivolumab  3 mg/kg plus ipilimumab 1 mg/kg); all combination  regimens were followed by 3 mg/kg of nivolumab every  2 weeks until disease progression or unacceptable toxicity. 
+Although the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg and nivolumab 3 mg/kg plus ipilimumab  1 mg/kg regimens were expected to be tolerable on the  basis of previous evidence in other tumour types,15–17,19,20  an initial dose-escalating safety evaluation for the  combination groups was done. The first dose cohort  (nivolumab 1 mg/kg plus ipilimumab 1 mg/kg) was  level 1; we used this dose to confirm the safety of the  combination in this patient population. If this was  deemed tolerable, we then initiated enrolment and  allocation to level 2 (nivolumab 1 mg/kg plus ipilimumab  3 mg/kg). If dose level 2 was deemed not tolerable,  enrolment and allocation to dose level 2b (nivolumab  3 mg/kg plus ipilimumab 1 mg/kg) was investigated.  Patients on active treatment needed to be followed up for  at least 6 weeks after the start of study treatment before  tolerability of a dose level was determined based on  prespecified tolerability assessment criteria, which are  detailed in the appendix pp 3, 20. However, tolerability  beyond 6 weeks was also taken into consideration. After  the highest dose level for further investigation was  confirmed in the dose-escalating safety evaluation phase,  the combination arms continued enrolling patients. Considerations for the dosing in the combination  cohorts were as follows: the 1 mg/kg nivolumab plus  3 mg/kg ipilimumab regimen is the approved dose for  the treatment of advanced melanoma;11,21 the 3 mg/kg  nivolumab plus 1 mg/kg ipilimumab regimen was  chosen to maximise the nivolumab dose based on  nivolumab exposure response data  (1 mg/kg vs  3 mg/kg).22 The safety of the 1 mg/kg nivolumab plus  3 mg/kg ipilimumab and the 3 mg/kg nivolumab plus  1 mg/kg ipilimumab regimens have been previously  assessed in studies of other tumour types.15–17,19,20 For combination treatment, nivolumab was given first  (60 min infusion), followed by ipilimumab (90 min  infusion), as per previous studies evaluating nivolumab  plus  ipilimumab.19,20 Patients  received open-label  treatment until disease progression or occurrence of  unacceptable  toxicity. Treatment beyond RECIST  (version 1.1)-defined progression was permitted if the  patient was tolerating and benefiting from treatment,  based on investigator assessment. Patients assigned to  the nivolumab 3 mg/kg group and who progressed could  cross over to combination cohorts. No dose reductions or modifications were permitted  for nivolumab or ipilimumab. The criteria for dose delay  (until resolution of the treatment-related adverse event to  grade 1 or lower) of nivolumab, ipilimumab, or both  include the following treatment-related adverse events:  grade 2 or worse non-skin events (except for grade 2  fatigue), grade 3 skin events, and grade 3 laboratory  abnormalities (except for asymptomatic amylase and  lipase increases). If the patient had normal aspartate  aminotransferase, alanine aminotransferase, or total  bilirubin concentrations at baseline, then the dose would  be delayed for grade 2 or worse adverse events; if these 
+www.thelancet.com/oncology   Vol 17   July 2016 
+885
+Articleslaboratory parameters were at grade 1 at baseline, the  dose would be delayed for grade 3 or worse adverse  events. Criteria for permanent treatment discontinuation  include the following treatment-related adverse events:  grade 2 uveitis, grade 3 non-skin events lasting 7 days or  more, grade 3 laboratory abnormalities of thrombo- cytopenia or liver function test, and all grade 4 events, as  well as laboratory abnormalities, except for asymptomatic  amylase or lipase elevations. Tumour assessments by  radiographic  imaging  (CT and MRI) were done at baseline, every 6 weeks for  the first 24 weeks, and every 12 weeks thereafter until  disease progression (investigator-assessed per RECIST)  or treatment discontinuation. Survival was monitored  continuously while patients were on treatment and  every 3 months after treatment discontinuation. Safety  was evaluated throughout the study (appendix p 20),  and adverse events were graded according to the  National Cancer Institute’s Common Terminology  Criteria for Adverse Events (CTCAE), version 4.0. Tumour PD-L1 protein expression was assessed  retrospectively in pretreatment (archival or fresh) tumour  biopsy specimens with the use of a validated, automated  immunohistochemical assay (Dako North America,  Carpinteria, CA, USA) using a rabbit anti-human PD-L1  antibody (clone 28-8; Epitomics Inc, Burlingame, CA,  USA).23 Tumour PD-L1 expression was categorised as  positive when staining of tumour-cell membranes (at any  intensity) was observed at prespecified expression levels  (≥1% or ≥5% of tumour cells in a section that included  ≥100 evaluable tumour cells). In the initial study protocol,  analysis of the specimen was not required in advance of  patient allocation; the protocol was later revised and this  was made a requirement via a study amendment on  Aug 6, 2015 (for all cohorts of the study).
+Outcomes
+The primary endpoint of this study was the proportion of  patients with a confirmed objective response (defined as  the number of patients with a best overall response of  complete response or partial response as per investigator- assessed RECIST divided by the number of assigned  patients). Objective response was the primary endpoint  because the trial objective was to evaluate antitumour  activity of nivolumab alone or in combination with  ipilimumab. The secondary endpoints included overall survival,  progression-free survival, duration of response, and the  occurrence of treatment-related adverse events leading to  treatment discontinuation. Overall survival was defined  as the time between the date of treatment assignment  and the date of death due to any cause. Progression-free  survival was defined as the time from treatment  assignment to the date of the first documented tumour  progression, as determined by the investigator, or death  due to any cause, whichever occurred first. Duration of  response was defined as the time from a best overall 
+response of partial or complete response until the date  progressive disease was documented or death due to any  cause. The correlation between PD-L1 expression by  tumour cells and antitumour activity was a prespecified  exploratory endpoint.
+Statistical analysis
+In parallel to the safety evaluation phase for the  combination arms, enrolment of patients followed a  Simon two-stage design.24 Stage 1 of the study was  intended to assess the efficacy of nivolumab and  ipilimumab in 18 patients per treatment group, to  determine whether enrolment should continue to stage 2.  However, enrolment and treatment of 18 individuals in  the nivolumab monotherapy group could begin while the  initial dose cohort of the combination cohorts was  ongoing. This design was used to test whether nivolumab,  or the combination of nivolumab and ipilimumab, or  both, yielded an objective response in a sufficient  proportion of patients to be of clinical interest in each of  the tumour types; it also limited the expected number of  patients who would receive treatment if the true  proportion of patients achieving a response was not of  clinical value. The  two-stage  test was conducted  independently in each treatment cohort. For each treatment cohort, the modified Simon design  required 18 treated patients for the first stage and called  for termination at this stage if only one patient or no  patients in the cohort had a confirmed partial or  complete response. If two or more patients responded in  the first stage, additional patients were assigned in  stage 2, to a total of 40 treated patients in that cohort.  The treatment was considered of clinical interest if, at  the end of the second stage, there were eight or more  patients with a response among 40 treated patients.  Enrolment in stage 2 in a particular treatment cohort  could continue even if the other treatment cohorts were  still in stage 1. The modified Simon design tested the  null hypothesis that the true proportion of patients  achieving a response was ≤10% versus the alternative  hypothesis that the true proportion of patients achieving  a response was >10%. The two-stage testing within each  cohort targeted a type I error rate of 5% and had 80%  power to reject the null hypothesis if the true proportion  of patients achieving a response was 25%. The tests did  not adjust for multiplicity across the cohorts. For stage 2, after completion of enrolment for the  initial 40 patients, additional patients could be assigned  into the nivolumab monotherapy and combination  cohorts up to a total of 100 patients in each cohort  (including those assigned in stage 1). When nivolumab  3 mg/kg or nivolumab 1 mg/kg plus ipilimumab 3 mg/kg  proceeded to stage 2, assessment of dose level 2b in  stage 2 (nivolumab 3 mg/kg plus ipilimumab 1 mg/kg)  was initiated. If all prespecified safety and efficacy criteria  to proceed to stage 2 were met for each tumour type and  treatment group, those regimens were continued.
+886 
+www.thelancet.com/oncology   Vol 17   July 2016
+ArticlesThe date of the database lock for all activity and safety  data (except overall survival) was Nov 6, 2015. The date  of database  lock  for overall survival data was  March 24, 2016. All analyses included treated patients  who were enrolled at least 90 days before database lock.  All activity analyses were performed on the basis of the  original treatment assignment, not by crossover status. Objective response was summarised by a binomial  response rate and corresponding two-sided 95% exact CIs  using the Clopper-Pearson method. Progression-free  survival and overall survival were summarised descriptively  using the Kaplan-Meier method; median values were  estimated with two-sided 95% CIs, calculated using the  Brookmeyer-Crowley method. Only treatment cohorts with  more than six patients are represented in Kaplan-Meier  plots. Patients with less than 12 weeks of follow-up were  excluded  from Kaplan-Meier plots. Progression-free  survival and overall survival were also estimated with  two-sided 95% CIs, calculated using the Greenwood  formula. Duration of response was summarised using the  Kaplan-Meier product-limit method. For PD-L1 biomarker  analysis, best overall response was summarised for each  cohort by baseline PD-L1 expression and objective  response, with exact 95% CIs computed using the  Clopper-Pearson method. All statistical analyses were done  with SAS software (version 9.02).
+This study is registered with ClinicalTrials.gov, number  NCT01928394.
+Role of the funding source
+The funder provided the study drug and worked with the  investigators to design the study, and to collect, analyse,  and interpret the data. All drafts of the report were  prepared by the corresponding author with input from  all coauthors and editorial assistance from professional  medical writers, funded by the sponsor. Raw data were  made accessible to the authors and professional medical  writers. All authors made the decision to submit the  report for publication.
+Results
+We enrolled and treated 216 patients with SCLC between  Nov 18, 2013, and July 28, 2015: 98 patients in the  nivolumab 3 mg/kg cohort, three patients in the  nivolumab 1 mg/kg plus ipilimumab 1 mg/kg cohort,  61 patients in the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg cohort, and 54 in the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg cohort (figure 1). Three patients in  the nivolumab 3 mg/kg group, two patients in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg group,  and four patients in the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg group did not receive first-line 
+216 patients enrolled
+98 patients allocated to nivolumab 3 mg/kg
+3 patients allocated to nivolumab  1 mg/kg, ipilimumab 1 mg/kg
+61 patients allocated to nivolumab 1 mg/kg, ipilimumab 3 mg/kg
+54 patients allocated to nivolumab  3 mg/kg, ipilimumab 1 mg/kg
+98 received treatment and evaluable for  primary endpoint 77 discontinued 57 due to disease progression 6 due to adverse events related to study drug* 10 due to adverse events unrelated to study drug 4 requested to discontinue treatment 1 withdrew consent 1 for other reasons
+3 received treatment and evaluable for  primary endpoint 2 discontinued 1 due to adverse event unrelated to study drug 1 due to disease progression
+61 received treatment and evaluable for primary endpoint 42 discontinued 26 due to disease progression 7 due to adverse events related to study drug 2 died 5 due to adverse events unrelated to study drug 1 withdrew consent 1 for other reasons
+54 received treatment and evaluable for  primary endpoint 43 discontinued 36 due to disease progression 4 due to adverse events related to  study drug 1 due to adverse event unrelated to study drug 1 requested to discontinue  treatment 1 withdrew consent
+9 crossed over upon  progression 1 to nivolumab 1 mg/kg,  ipilimumab 3 mg/kg 8 to nivolumab 3 mg/kg, ipilimumab 1 mg/kg
+98 included in eﬃcacy and safety analyses†
+3 included in eﬃcacy and safety analyses
+61 included in eﬃcacy and safety analyses
+54 included in eﬃcacy and safety analyses
+Figure 1: Study design Nivolumab 1 mg/kg plus ipilimumab 1 mg/kg: first patient enrolled on Nov 20, 2013; last patient enrolled on Dec 19, 2013. Nivolumab 3 mg/kg: first patient enrolled on Nov 18, 2013; last patient  enrolled on July 28, 2015. Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg: first patient enrolled on Feb 3, 2014; last patient enrolled on July 17, 2015. Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg:  first patient enrolled on Oct 20, 2014; last patient enrolled on April 9, 2015. Data are based on a Nov 6, 2015, database lock. *Including one patient with disease progression and one patient who  requested to discontinue treatment. †Not including adverse events in patients who received combination therapies after crossover. 
+www.thelancet.com/oncology   Vol 17   July 2016 
+887
+Articlesplatinum therapy and did not meet eligibility criteria, but  received treatment. None of the three patients in the  nivolumab 1 mg/kg plus ipilimumab 1 mg/kg cohort  permanently discontinued due to treatment-related  adverse events within the first 6 weeks, allowing for  enrolment in the other two combination cohorts:  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, and  nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg.  At database lock, all patients had at least 12 weeks of  follow-up; median follow-up for patients continuing in  the study (including those who had died or discontinued  treatment) was 198·5 days (IQR 163·0–464·0) in the  nivolumab 3 mg/kg cohort, 302 days (IQR not calculable)  in the nivolumab 1 mg/kg plus ipilimumab 1 mg/kg  cohort, 361·0 days (273·0–470·0) in the nivolumab  1 mg/kg plus ipilimumab 3 mg/kg cohort, and 260·5 days 
+Nivolumab  3 mg/kg (n=98)
+Nivolumab 1 mg/kg  plus ipilimumab  3 mg/kg (n=61)
+63 (57–68) 9 (9%)
+66 (58–71) 7 (11%)
+Nivolumab  3 mg/kg plus  ipilimumab  1 mg/kg (n=54)
+61 (56–65) 0
+61 (62%) 37 (38%)
+91 (93%) 3 (3%) 4 (4%) 0
+40 (41%) 55 (56%) 3 (3%)
+55 (56%) 30 (31%) 10 (10%)
+95 (97%) 3 (3%) 0
+10 (14%) 59 (86%) 4 (6%) 65 (94%) 29 (30%)
+35 (57%) 26 (43%)
+60 (98%) 1 (2%) 0 0
+32 (52%) 23 (38%) 6 (10%)
+25 (41%) 23 (38%) 11 (18%)
+57 (93%) 4 (7%) 0
+9 (24%) 28 (76%) 2 (5%) 35 (95%) 24 (39%)
+32 (59%) 22 (41%)
+52 (96%) 0 1 (2%) 1 (2%)
+23 (43%) 28 (52%) 3 (6%)
+21 (39%) 21 (39%) 8 (15%)
+48 (89%) 5 (9%) 1 (2%)
+5 (13%) 35 (88%) 1 (3%) 39 (98%) 14 (26%)
+Median age (years) Age ≥75 years Sex Male Female Race White Black or African American Other Not reported Previous treatment regimens 1 2–3 >3 First-line platinum-treated patients* Platinum-sensitive Platinum-resistant† Unknown Smoking status Current or former smoker Never smoked Unknown PD-L1 expression level‡ ≥1% <1% ≥5% <5% Indeterminate, not evaluable, or  missing
+Data presented as n (%) or median (IQR) unless otherwise stated. *Three patients in the nivolumab 3 mg/kg group,  two patients in the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg group, and four patients in the nivolumab 3 mg/kg  plus ipilimumab 1 mg/kg group did not receive first-line platinum therapy and did not meet eligibility criteria,  although they were treated and included in the analysis. †Defined as a patient who relapsed <90 days after  chemotherapy. ‡Percentage of PD-L1 evaluable patients; may exceed 100% due to rounding.
+Table 1: Baseline patient characteristics
+(248·0–288·0)  in  the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg cohort (appendix p 24). Median  follow-up for the overall survival data is shown in the  appendix (p 24). Baseline characteristics are shown in  table 1 and the appendix (p 21); roughly half of patients  had been treated with two or more previous regimens,  and about a third had platinum-resistant disease. Patients received a median of 3·5 infusions of  nivolumab (IQR 2·0–6·0) in the nivolumab 3 mg/kg  cohort, 9·0 infusions of nivolumab (IQR not calculable)  and 4·0 infusions of ipilimumab (IQR not calculable) in  the nivolumab 1 mg/kg plus ipilimumab 1 mg/kg cohort,  3·0  infusions each of nivolumab (2·0–14·0) and  ipilimumab (2·0–4·0) in the nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg cohort, and 2·0 infusions each of  nivolumab (2·0–6·0) and ipilimumab (2·0–4·0) in the  nivolumab 3 mg/kg plus ipilimumab 1 mg/kg cohort.  At the time of analysis, 77 (79%) patients had discontinued  nivolumab 3 mg/kg, 42  (69%) had discontinued  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, and  43 (80%) had discontinued nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg; the most common reason was  disease progression (figure 1; appendix p 24). Two patients  discontinued nivolumab 1 mg/kg plus ipilimumab  1 mg/kg (one due to disease progression, and one due to  adverse event not related to study drug). By  investigator-assessed  RECIST,  ten  (10%  [95% CI 5–18]) of 98 patients achieved a confirmed  objective response with nivolumab 3 mg/kg, 14 (23%  [13–36]) of 61 with nivolumab 1 mg/kg plus ipilimumab  3 mg/kg, and ten (19% [9–31]) of 54 with nivolumab  3 mg/kg plus ipilimumab 1 mg/kg (table 2; figure 2).  One (33%) of three patients receiving nivolumab 1 mg/kg  plus ipilimumab 1 mg/kg achieved an objective response  (appendix p 22). The predefined threshold that two or  more of 18 patients in a particular group must have  confirmed partial or complete response before continued  enrolment for that group in stage 2 was met. In the  nivolumab 3 mg/kg cohort, seven patients died before  disease assessment, four patients dis continued early  (one due to toxicity, three due to clinical progression),  and one patient withdrew consent before completing the  protocol; in the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg cohort, five patients died before disease  assessment, one patient discontinued early due to clinical  progression, one patient was not evaluable because the  first assessment was not performed, and one patient  withdrew consent for scans and follow-up visits; and in  the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  cohort, two patients died before disease assessment,  three patients discontinued early (two due to clinical  progression and one due to toxicity), and a CT scan was  not performed on one patient. The median duration of  response was not reached (95% CI 4·4–not reached) with  nivolumab 3 mg/kg, 7·7 months (4·0–not reached) with  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, and  4·4 months (3·7–not reached) with nivolumab 3 mg/kg 
+888 
+www.thelancet.com/oncology   Vol 17   July 2016
+Articleswww.thelancet.com/oncology   Vol 17   July 2016 
+889
+plus ipilimumab 1 mg/kg. 16 patients had a duration of  response longer than 6 months: six patients in the  nivolumab 3 mg/kg group, one patient in the nivolumab  1 mg/kg plus ipilimumab 1 mg/kg group, eight patients  in the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg  group, and one patient in the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg group (median 9·6 months  [IQR 7·1–14·3]). Median time to response is shown in  table 2. Tumour response data in the nivolumab 1 mg/kg  plus ipilimumab 1 mg/kg cohort are shown in the  appendix (p 22). At the time of database lock, eight (80%)  of ten responses in the nivolumab 3 mg/kg group, one of  three responses  in the nivolumab 1 mg/kg plus  ipilimumab 1 mg/kg group, seven (50%) of 14 responses  in the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg  group, and seven (70%) of ten responses in the nivolumab  3 mg/kg plus ipilimumab 1 mg/kg group were ongoing.  30 patients in the nivolumab 3 mg/kg cohort, 15 in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort,  and six in the nivolumab 3 mg/kg plus ipilimumab  1 mg/kg cohort continued treatment beyond progression. As of the database lock on March 24, 2016, 60 (61%) of  98 patients in the nivolumab 3 mg/kg cohort, 36 (59%) of  61 in the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg,  and 35 (64%) of 55 in the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg had died. Median overall survival  was 4·4 months (95% CI 3·0–9·3) in the nivolumab  3 mg/kg cohort, 7·7 months (3·6–18·0) in the nivolumab  1 mg/kg plus  ipilimumab 3 mg/kg cohort, and  6·0 months (3·6–11·0) in the nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg cohort. 1-year overall survival was  33% (95% CI 22–45) for the nivolumab 3 mg/kg cohort,  43% (30–56) for the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg cohort, and 35% (22–48) for the nivolumab  3 mg/g plus ipilimumab 1 mg/kg cohort (figure 3A). 
+Nivolumab  3 mg/kg  (n=98)
+Nivolumab  1 mg/kg plus  ipilimumab  3 mg/kg  (n=61)
+Nivolumab  3 mg/kg plus  ipilimumab  1 mg/kg  (n=54)
+Objective response;  95% CI Best overall response Complete response Partial response Stable disease Progressive disease Unable to determine Not reported Time to objective  response (IQR),  months
+10 (10%; 5–18) 14 (23%; 13–36) 10 (19%; 9–31)
+0 10 (10%) 22 (22%) 52 (53%) 12 (12%) 2 (2%) 2·0 (1·3–2·8)
+1 (2%) 13 (21%) 13 (21%) 23 (38%) 8 (13%) 3 (5%) 2·1 (1·4–2·8)
+0 10 (19%) 9 (17%) 29 (54%) 6 (11%) 0 1·4 (1·3–2·7)
+Data are n (%) unless otherwise stated. All patients were enrolled at least 90 days  prior to database lock.
+Table 2: Tumour response
+Figure 2: Changes in tumour burden in individual patients Tumour burden (assessed as the longest linear dimension) in patients receiving nivolumab 3 mg/kg (A),  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg (B), and nivolumab 3 mg/kg plus ipilimumab 1 mg/kg (C).  Only patients with target lesions at baseline and with at least one on-treatment tumour assessment were included  (nivolumab 3 mg/kg, n=80; nivolumab 1 mg/kg plus ipilimumab 3 mg/kg, n=46; nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg, n=47). Horizontal grey line indicates the 30% reduction consistent with a RECIST  (version 1.1) objective response. RECIST=Response Evaluation Criteria in Solid Tumors.
+0
+12
+6
+18
+24
+30
+36
+42
+48
+54
+60
+66
+72
+78
+84
+90
+–100
+–75
+–50
+–25
+0
+25
+50
+75
+100
+a h C
+e g n
+i
+n
+t
+a
+r
+e g
+t
+l
+e
+s
+i
+n o
+r f
+o
+m
+s a b
+e
+i l
+e n
+(
+%
+)
+A
+Nivolumab 3 mg/kg Conﬁrmed partial response or complete response First documented occurrence of new lesion Patients oﬀ treatment % change truncated to 100%
+0
+12
+6
+18
+24
+30
+36
+42
+48
+54
+60
+66
+72
+78
+84
+90
+–100
+–75
+–50
+–25
+0
+25
+50
+75
+100
+a h C
+e g n
+i
+n
+t
+a
+r
+e g
+t
+l
+e
+s
+i
+n o
+r f
+o
+m
+s a b
+e
+i l
+e n
+(
+%
+)
+B
+0
+12
+6
+18
+24
+30 36 42 48 54 60 Time since start of treatment (weeks)
+66
+72
+78
+84
+90
+–100
+–75
+–50
+–25
+0
+25
+50
+75
+100
+a h C
+e g n
+i
+n
+t
+a
+r
+e g
+t
+l
+e
+s
+i
+n o
+r f
+o
+m
+s a b
+e
+i l
+e n
+(
+%
+)
+C
+Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Conﬁrmed partial response or complete response First documented occurrence of new lesion Patients oﬀ treatment % change truncated to 100%
+Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg Conﬁrmed partial response or complete response First documented occurrence of new lesion Patients oﬀ treatment % change truncated to 100%
+Articles                                    890 
+www.thelancet.com/oncology   Vol 17   July 2016
+76 (78%) patients in the nivolumab 3 mg/kg cohort,  44 (72%) in the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg cohort, and 42 (78%) in the nivolumab 3 mg/kg  plus ipilimumab 1 mg/kg cohort had disease pro- gression or died; median progression-free survival  was 1·4 months (95% CI 1·4–1·9), 2·6 months (1·4–4·1),  and  1·4 months  (1·3–2·2),  respectively.  1-year  progression-free survival was 11% (95% CI 5–19) in the  nivolumab 3 mg/kg cohort and 19% (9–32) for the 
+nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort  (figure 3B). The nivolumab 3 mg/kg plus ipilimumab  1 mg/kg cohort had not met the 1-year milestone for  progression-free survival at the time of database lock.  Two (67%) of three patients in the nivolumab 1 mg/kg  plus ipilimumab 1 mg/kg cohort had died and one (33%)  had a progression event. Nine patients crossed over  from the nivolumab 3 mg/kg cohort to the combination  cohorts after progression (one to nivolumab 1 mg/kg  plus ipilimumab 3 mg/kg and eight to nivolumab  3 mg/kg plus ipilimumab 1 mg/kg); eight of these  patients had further disease progression and one patient  in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  cohort withdrew consent and therefore response could  not be determined. PD-L1 expression was assessable in 148 (69%) of  216 patient samples, of which 39 (27%) were provided as  fresh biopsies and 109 (74%) were archived specimens.  25 (17%) had 1% or greater PD-L1 expression, and  seven (5%) had 5% or greater PD-L1 expression (table 1;  appendix p 21). In a pre-planned exploratory analysis of  the nivolumab 3 mg/kg, nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg, and nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg cohorts,  tumour responses  occurred in patients irrespective of PD-L1 expression  (appendix pp 15–18). Grade 3 or 4 treatment-related adverse events occurred  in 13 (13%) of 98 patients in the nivolumab 3 mg/kg  cohort, 18 (30%) of 61 patients in the nivolumab 1 mg/kg  plus ipilimumab 3 mg/kg cohort, and ten (19%) of  54 patients in the nivolumab 3 mg/kg plus ipilimumab  1 mg/kg cohort (table 3); no patients in the nivolumab  1 mg/kg plus ipilimumab 1 mg/kg cohort had a grade 3  or 4 treatment-related adverse event (appendix p 23).  The most commonly reported grade 3 or 4 treatment- related adverse events were increased lipase (none vs  5 [8%] vs none) and diarrhoea (none vs 3 [5%] vs 1 [2%]).  Four (4%) patients in the nivolumab 3 mg/kg cohort,  two (67%) in the nivolumab 1 mg/kg plus ipilimumab  1 mg/kg cohort, 18 (30%) in the nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg cohort, and eight (15%) in the  nivolumab 3 mg/kg plus ipilimumab 1 mg/kg cohort  had dose delays due to treatment-related adverse events  (appendix p 26). All-causality adverse events and serious  adverse events are shown in the appendix (pp 27–30).  Excluding malignant neoplasm, the most frequent  serious adverse events were dyspnoea, experienced by  five (5%) patients in the nivolumab 3 mg/kg cohort,  two (3%) in the nivolumab 1 mg/kg plus ipilimumab  3 mg/kg cohort, and four (7%) in the nivolumab  3 mg/kg plus ipilimumab 1 mg/kg cohort, and diarrhoea,  experienced by two (2%) patients in the nivolumab  3 mg/kg cohort, four (7%) in the nivolumab 1 mg/kg  plus ipilimumab 3 mg/kg cohort, and two (4%) patients  in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  cohort. 17 patients discontinued treatment because of  treatment-related adverse events: six (6%) patients in the 
+Figure 3: Kaplan-Meier curves of overall survival (A) and progression-free survival (B)
+A
+Number at risk Nivolumab 3 mg/kg Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg
+Number of censored patients Nivolumab 3 mg/kg Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg
+0
+3
+6
+9
+12
+15
+18
+21
+27
+24
+98 61
+55
+0 0
+0
+53 42
+37
+6 2
+3
+36 32
+25
+11 2
+4
+25 22
+20
+20 7
+5
+11 21
+12
+30 7
+10
+10 15
+1
+30 12
+19
+10 6
+0
+30 20
+20
+4 2
+0
+34 23
+20
+3 1
+0
+35 24
+20
+0 0
+0
+38 25
+20
+100 90 80 70 60 50 40 30 20 10 0
+O
+e v
+r
+a
+l l
+s
+u
+r
+v
+i
+a v
+l
+(
+%
+)
+Nivolumab 3 mg/kg Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg
+B
+Number at risk Nivolumab 3 mg/kg Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg
+Number of censored patients Nivolumab 3 mg/kg Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg Nivolumab 3 mg/kg plus ipilimumab 1 mg/kg
+0
+3
+6
+9 12 15 18 Time since start of treatment (months) 5 4 3 9 3 0
+21
+24
+98 61
+54
+0 0
+0
+17 24
+14
+12 5
+4
+6 15
+3
+17 5
+11
+0
+17 10
+12
+0
+18 14
+12
+0
+19 17
+12
+3 0
+0
+19 17
+12
+0 0
+0
+22 17
+12
+0 0
+0
+22 17
+12
+100 90 80 70 60 50 40 30 20 10 0
+P
+r
+g o
+r
+e
+s s
+i
+n o
+r f -
+e e
+s
+u
+r
+v
+i
+a v
+l
+(
+%
+)
+Articles        Nivolumab 3 mg/kg (n=98)
+Nivolumab 1 mg/kg plus ipilimumab  3 mg/kg (n=61)
+Nivolumab 3 mg/kg plus ipilimumab  1 mg/kg (n=54)
+Any event Fatigue Pruritus Diarrhoea Nausea Decreased appetite Pneumonitis Vomiting Hypothyroidism Increased aspartate  aminotransferase Hyperthyroidism Hyponatraemia Increased alanine  aminotransferase Increased transaminases Rash Anaemia Dyspnoea Rash, maculopapular Adrenal insufficiency Aseptic meningitis Cardiomyopathy Colitis Decreased neutrophil count Drug-induced liver injury Encephalitis Eyelid ptosis Haemorrhagic gastritis Hyperglycaemia Hypertransaminasaemia Hypoxia Ileus Increased amylase Increased gamma  glutamyltransferase Increased lipase Large intestine perforation Myasthenia gravis Non-cardiac chest pain Pericardial effusion Peripheral neuropathy Renal failure Stomatitis Thrombocytopenia Tumour lysis syndrome
+Grade 1–2 39 (40%) 10 (10%) 11 (11%) 7 (7%) 7 (7%) 6 (6%) 2 (2%) 2 (2%) 3 (3%) 3 (3%)
+2 (2%) 2 (2%) 2 (2%)
+2 (2%) 2 (2%) 1 (1%) 1 (1%) 1 (1%) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+Grade 3 9 (9%) 1 (1%) 0 0 0 0 1 (1%) 1 (1%) 0 0
+0 0 1 (1%)
+0 0 0 0 0 0 0 0 0 0 1 (1%) 0 0 0 0 0 1 (1%) 0 0 0
+0 0 0 1 (1%) 1 (1%) 0 0 1 (1%) 0 0
+Grade 4 4 (4%) 0 0 0 0 0 0 0 0 0
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 (1%) 0 0 1 (1%) 0 0 0 1 (1%) 1 (1%)
+0 0 0 0 0 0 0 0 0 0
+Grade 1–2 30 (49%) 16 (26%) 11 (18%) 10 (16%) 6 (10%) 4 (7%) 1 (2%) 2 (3%) 9 (15%) 3 (5%)
+7 (11%) 0 2 (3%)
+0 10 (16%) 4 (7%) 0 6 (10%) 1 (2%) 0 0 1 (2%) 0 0 1 (2%) 0 0 2 (3%) 0 0 0 3 (5%) 0
+2 (3%) 0 0 0 0 0 0 1 (2%) 0 0
+Grade 3 14 (23%) 0 1 (2%) 3 (5%) 1 (2%) 0 1 (2%) 1 (2%) 1 (2%) 0
+0 1 (2%) 0
+0 2 (3%) 0 1 (2%) 2 (3%) 0 0 0 1 (2%) 1 (2%) 0 0 1 (2%) 1 (2%) 0 1 (2%) 0 0 1 (2%) 0
+4 (7%) 0 1 (2%) 0 0 0 0 0 0 0
+Grade 4 4 (7%) 0 0 0 0 0 0 0 0 0
+0 0 0
+0 0 0 0 0 0 0 1 (2%) 0 0 0 0 0 0 1 (2%) 0 0 0 0 0
+1 (2%) 0 0 0 0 0 1 (2%) 0 0 0
+Grade 1–2 30 (56%) 12 (22%) 5 (9%) 8 (15%) 4 (7%) 6 (11%) 2 (4%) 5 (9%) 4 (7%) 0
+3 (6%) 0 0
+1 (2%) 4 (7%) 3 (6%) 1 (2%) 2 (4%) 1 (2%) 0 0 0 0 0 0 0 0 0 0 0 0 2 (4%) 0
+0 0 0 0 0 0 0 0 3 (6%) 0
+Grade 3 8 (15%) 0 0 1 (2%) 0 0 0 0 0 1 (2%)
+0 0 1 (2%)
+1 (2%) 0 1 (2%) 2 (4%) 0 1 (2%) 0 0 1 (2%) 0 0 0 0 0 0 0 0 1 (2%) 0 1 (2%)
+0 1 (2%) 0 0 0 1 (2%) 0 0 1 (2%) 1 (2%)
+Grade 4 2 (4%) 0 0 0 0 0 1 (2%) 0 0 0
+0 0 0
+0 0 0 0 0 0 1 (2%) 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+Data presented as n (%).This table reports grade 1–2 treatment-related events in ≥10% of patients in any treatment cohort and all grade 3–4 events. Safety analyses included  all patients who were enrolled at least 90 days prior to database lock; patients with adverse events after crossover from nivolumab 3 mg/kg to combination treatment are  excluded. Some patients had more than one adverse event. Two patients in the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg group died from myasthenia gravis and  worsening of renal failure, respectively; both events were regarded to be treatment related. One patient in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg cohort died from  pneumonitis, regarded as treatment related. All-causality adverse events and serious adverse events are shown in the appendix (pp 27–30).
+Table 3: Treatment-related adverse events 
+www.thelancet.com/oncology   Vol 17   July 2016 
+891
+Articlesnivolumab 3 mg/kg cohort (one patient each with limbic  encephalitis, hyperglycaemia, stomatitis,  increased  alanine amino transferase,  increased gamma gluta- myltransferase, and pneumonitis), seven (11%) in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort  (one patient each with colitis, myasthenia gravis,  pneumonitis, and cardio myopathy, and uveitis; one  patient with  hypothyroidism and hyperglycaemia; one  patient with diarrhoea and renal failure), and four (7%)  in the nivolumab 3 mg/kg plus ipilimumab 1 mg/kg  cohort (one patient each with colitis, pneumonitis, and  peripheral neuropathy; one patient with dyspnoea and  pneumonitis; table 3; appendix p 31). Two patients who  received nivolumab 1 mg/kg plus ipilimumab 3 mg/kg  died from treatment-related events of myasthenia  gravis25 and worsening of renal failure, respectively, and  one patient who received nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg died from  treatment-related  pneumonitis (appendix p 4). Other than because of  disease progression and study drug toxicity, the following  deaths were reported: in the nivolumab 3 mg/kg group,  three (3%) due to unknown causes, one (1%) due to  sepsis and multiorgan failure, and one (1%) due to  respiratory insufficiency not related to treatment; in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg group,  three (5%) due to unknown causes, one (2%) due to  subdural haematoma unrelated to study drug, one (2%)  due to sedation, one (2%) due to hypovolaemic septic  shock and septic shock from candidaemia, and one (2%)  due to abdominal sepsis and secondary intravascular  disseminated coagulation; and  in  the nivolumab  3 mg/kg plus ipilimumab 1 mg/kg group, three (6%)  due to unknown causes, and one (2%) due to adverse  events not related to study drug. Two patients had grade 2 limbic encephalitis: one in  the nivolumab 3 mg/kg cohort (reported as not  treatment-related by investigator) and one in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort  (reported as treatment-related by investigator); both  events resolved with immunosuppressive treatment.  One patient in the nivolumab 3 mg/kg cohort had  grade 4 limbic encephalitis (reported as treatment- related by investigator) that did not resolve with  intravenous  immunoglobulin  and  corticosteroid  treatment. Treatment-related pneumonitis occurred in  eight patients and resolved in six of eight patients with  treatment. The outcome was unknown for one patient,  and one patient died. One patient who crossed over from nivolumab 3 mg/kg  to nivolumab 1 mg/kg plus ipilimumab 3 mg/kg had  treatment-related grade 3 elevations in alanine amino- transferase levels (appendix p 4). Five (8%) patients in the  nivolumab 1 mg/kg plus ipilimumab 3 mg/kg cohort had  grade 3 or 4 asymptomatic lipase elevations without  clinical signs of pancreatitis (table 3). Objective responses were observed in patients with  one previous line of therapy, and in patients with two or 
+more previous therapies (appendix p 25). Median  overall survival and progression-free survival were not  substantially different for patients with one versus two  or more previous treatments, with the possible exception  of longer progression-free survival in patients with  one previous therapy receiving nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg (appendix pp 5–10). In a post-hoc analysis in patients treated with a  platinum agent as a first-line treatment, objective  responses were achieved in patients with both platinum- sensitive and platinum-resistant disease  (appendix  pp 11–14, 25). Among patients with platinum-sensitive  disease, two (4%) of 55 in the nivolumab 3 mg/kg cohort  and two (8%) of 25 in the nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg cohort received subsequent  platinum-based cancer  therapy. No patients with  platinum-sensitive disease in the nivolumab 3 mg/kg  plus ipilimumab 1 mg/kg arm received subsequent  platinum-based cancer therapy.
+Discussion
+Our findings show  that nivolumab monotherapy  and nivolumab plus ipilimumab provide clinically  meaningful activity and an acceptable safety profile for  patients with limited-stage or extensive-stage SCLC and  disease progression after at  least one previous  platinum-containing  regimen. The prognosis  for  patients with progression after previous treatment with  platinum-based chemotherapy is poor. Patients with  advanced SCLC frequently respond to first-line therapy;  however, recurrence is inevitable, and few effective  options at the time of progression and in patients with  platinum-resistant disease are available. Patients with  extensive-stage SCLC have a 2-year survival of less  than 5%.2,4,7 Our trial enrolled a heterogeneous patient population  with platinum-sensitive or platinum-resistant disease  and a range of previous lines of therapy, making  comparisons with other second-line trials difficult.  Responses and stable disease were seen in all treatment  cohorts. Tumour regression followed both conventional  and immune-related patterns of response (prolonged  reduction in tumour burden in the presence of new  lesions). Although the numbers of patients in subgroups  were small, preliminary analysis showed similar  responses between platinum-sensitive and platinum- resistant subgroups, and similar activity in patients with  one previous regimen and those with two or more  previous regimens. Across treatment groups, responses  were durable. One phase 2 study26 evaluated temozolomide in a  similar population of patients with disease progression  after one or two previous chemotherapy regimens.  Although the proportions of patients achieving an  objective response were similar to those shown in our  study—11 (23%) of 48 patients with platinum-sensitive  disease  and  two  (13%) of  16 patients with 
+892 
+www.thelancet.com/oncology   Vol 17   July 2016
+Articlesplatinum-refractory disease—the median duration of  response to temozolomide was lower: 3·5 months (range  1·4–14·7) for all treated patients. Rova-T, a DLL3-targeted  antibody-drug conjugate, showed antitumour activity  and manageable toxicity in a phase 1 study of patients  with SCLC and progression after one or two previous  lines of therapy.27 An objective response was achieved in  seven (44%) of 16 patients positive for the DLL3  biomarker treated at the maximum tolerated doses. Limitations of our study include that the study  cohorts were not randomised, and the study was not  powered for formal comparisons across cohorts.  Baseline characteristics were generally similar across  the cohorts, and although the combination treatment  cohorts showed similar responses, responses seemed  to be deeper with the nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg regimen. This dosing regimen  has also been shown to be efficacious in previously  untreated melanoma.16 The activity of nivolumab as monotherapy or  combined with ipilimumab in patients irrespective of  platinum sensitivity or line of therapy is an important  aspect differentiating immune-checkpoint inhibitors  from topotecan or amrubicin in SCLC. Response to  topotecan depends on chemosensitivity, driven by  tumour resistance mutations.7,8 By contrast,  the  genomically unstable nature of SCLC2 might make it  sensitive to immune-checkpoint blockade via induction  or restoration of a tumour antigen-driven immune  response. Because few lympho cytes are observed in  SCLC tumours,28 one hypothesis is that there is a greater  need to target the lymphoid compartment with CTLA-4  inhibition in addition to PD-1 inhibition to maximise  the treatment effect.29 Some studies have shown increased activity of PD-1  blockade in patients with PD-L1-expressing NSCLC.  However, data, including from this study, suggest that  there is a lower prevalence of PD-L1 expression in SCLC  versus NSCLC.9,10,30 A trial of pembrolizumab,30 a PD-1  immune-checkpoint  inhibitor,  reported an  initial  response in four (25%) of 16 patients and durable  responses in patients with PD-L1-positive extensive-stage  SCLC. In our study, objective responses were observed in  patients irrespective of PD-L1 expression, including deep  tumour responses in patients with PD-L1 tumour  expression less than 1%. Whether PD-L1 expression is  predictive of benefit in SCLC must await analysis in a  larger population. Although more than half of patients in this trial had  received two or more chemotherapy regimens, 1-year  overall survival (33% for nivolumab 3 mg/kg and 43%  for nivolumab 1 mg/kg plus ipilimumab 3 mg/kg) was  comparable with or better than that reported in  historical trials of second-line topotecan or amrubicin.7,8,26  Consistent with other trials with immune-checkpoint  inhibitors across multiple solid tumours, and unlike  trials of topotecan,8 findings from our study showed a 
+flattening of  the overall survival curves for  the  nivolumab 3 mg/kg and nivolumab 1 mg/kg plus  ipilimumab 3 mg/kg cohorts, suggesting a survival  benefit in a subset of patients.9,10,12 However, because of  the small numbers in this trial, it is difficult to determine  when this occurs. Also consistent with findings from  previous  randomised  trials of  immuno-oncology  agents,9,10,12 there seems to be a greater effect of  nivolumab or ipilimumab treatment on overall survival  than progression-free survival. Adverse events were managed using established safety  guidelines.9,10,13,16 Most toxic effects in the nivolumab  3 mg/kg and nivolumab 3 mg/kg plus ipilimumab  1 mg/kg cohorts were mild to moderate, with only  six (6%) patients in the nivolumab 3 mg/kg group and  four (7%) in the nivolumab 3 mg/kg plus ipilimumab  1 mg/kg group discontinuing because of toxicity. More  treatment-related grade 3 or 4 adverse events occurred in  the nivolumab 1 mg/kg plus ipilimumab 3 mg/kg  cohort, with seven (11%) patients discontinuing because  of toxicity. This regimen was used effectively and safely  in a phase 3 trial in patients with melanoma, suggesting  that this schedule is feasible in patients with SCLC.16 In  all cohorts, fewer treatment-related toxic effects were  reported when compared with trials of topotecan or  amrubicin.7,8 Three patients had limbic encephalitis, and one  patient receiving nivolumab 1 mg/kg plus ipilimumab  3 mg/kg died of treatment-related myasthenia gravis.  Auto immune encephalitis and myasthenia gravis have  been reported, albeit rarely, with both nivolumab and  ipilimumab.9,31–36 The frequency of these events seems  to be higher in patients with SCLC compared with  other malignant diseases, perhaps due to the tendency  for paraneoplastic neurological syndromes associated  with this disease. Treatment-related pneumonitis was  reported in eight patients across all the treatment  cohorts and resulted in death in one patient receiving  nivolumab 3 mg/kg plus  ipilimumab 1 mg/kg.  It is crucial to closely monitor for immune-related  adverse events or unmasking of previously subclinical  autoimmune disease processes, with prompt imple- mentation  of  safety  guidelines  for  effective  management. On the basis of these encouraging phase 1/2 data,  phase 3 studies comparing nivolumab (240 mg intra- venously every 2 weeks) as a flat dose or nivolumab plus  ipilimumab  (1 mg/kg nivolumab and 3 mg/kg  ipilimumab intravenously every 3 weeks for two 42-day  cycles followed by nivolumab [240 mg intravenously  every 2 weeks]) versus placebo as maintenance therapy  (in patients without progression) after first-line  chemotherapy (CheckMate 451, NCT02538666), and for  nivolumab (240 mg every 2 weeks intravenously) versus  single-agent chemotherapy as second-line  therapy  (CheckMate 331, NCT02481830) in SCLC were initiated  and are currently ongoing.
+www.thelancet.com/oncology   Vol 17   July 2016 
+893
+ArticlesContributors EC, SJA, JAL-M, JB, PAO, MT, JPE, DJ, MCP, DTL, FdB, MAM, PAA,  LH, AAt, RNP, JE, IC, PB, AAm, and PS collected, analysed and  interpreted data. OC designed the study, collected, analysed and  interpreted the data, and designed the figures. CTH collected, analysed  and interpreted the data. C-SL designed the study, analysed and  interpreted the data, and designed the figures. Development of the first  draft was performed by SJA and EC. All authors contributed to drafting  the manuscript and provided final approval to submit for publication. Declaration of interests JAL-M has received personal fees from reimbursement of trial-associated  costs, and non-financial support from Bristol-Myers Squibb. JB reports  payments to her institution, Sarah Cannon Research Institute, from  Bristol-Myers Squibb, for the conduct of the trial; consulting fees (all paid  to her institution and not to her personally) from Bristol Myers Squibb,  Roche, Merck, Taiho Oncology, Amgen, Genentech, Merrimack, Celgene,  MedImmune, Seattle Genetics, Daiichi Sankyo, Janssen, Translational  Drug Development, Five Prime Therapeutics, Moderna Therapeutics,  Tolero, Evelo Biosciences, Arrys Therapeutics, Forma Therapeutics, Tanabe  Research Laboratories, BeiGene, Continuum Clinical, and Cerulean;  payments to her institution (not to her personally) for the conduct of  clinical trials on which she served as principal investigator from AbbVie,  AstraZeneca, EMD Serono, Ipsen Biopharma, Incyte, Novartis, Eisai,  Pfizer, Millennium, Imclone, Boston Biomedical, CALGB, Acerta Pharma,  Lilly, Gilead Sciences, Leap Therapeutics, Macrogenics, OncoMed  Pharmaceuticals, Takeda Pharmaceuticals, Rgenix, Novocure, Merus, NV,  Blueprint Medicine, Array Biopharma, ARMO Biosciences, and Agios; JB  also reports that her institution, Sarah Cannon Research Institute,  conducts clinical trials and performs consulting services for several  hundred companies; the companies listed above are the ones in which JB  was personally involved. PAO has received consulting fees from Amgen  and Bristol-Myers Squibb; and clinical trial funding from Armo  Biosciences, Bristol-Myers Squibb, Merck, and MedImmune. MT has  served on advisory boards and received honoraria from Eisai and Onyx.  JPE has served on an advisory board and received honoraria from Roche.  DJ has received consulting fees from Definiens AG, F Hoffmann-La Roche  Ltd, CureVac AG, Roche Pharma AG, Novartis Pharma AG, and Novartis  Oncology - Novartis Farma. MCP has received grant support from Bristol- Myers Squibb to conduct this study; personal fees from AbbVie, CelGene,  Clovis Oncology, Genentech, Novartis; and grants from Novartis,  OncoMed Pharmaceuticals, and Stemcentrix. DTL has received financial  support from Bristol-Myers Squibb to conduct this study. FdB has served  on advisory boards for and has received personal fees from Bristol-Myers  Squibb, Merck Serono, MSD, Roche, and Novartis. PAA reports grants for  research funding and personal fees for advisory/consultant role from  Array, Bristol-Myers Squibb, and Roche-Genentech; and personal fees for  advisory/consultant role from Amgen, Genmab, Idera, Immunocore,  Incyte, Medimmune, Merck Serono, MSD, NewLink Genetics, Novartis,  Pierre Fabre, Sandoz, Syndax, Sun Pharma, Sanofi, and Ultimovacs.  LH has received research funding from AstraZeneca; served as a paid  consultant for Genentech and Merck and an unpaid consultant for Bayer,  Bristol-Myers Squibb, and Xcovery; and received lecture fees from  Biodesix. AAm has received personal fees and grant support from  Bristol-Myers Squibb. JE has received grant support from AstraZeneca,  Basilea pharmaceutica, Bayer, Bristol-Myers Squibb, Celgene, Clovis,  Daiichi Sankyo, Eisai, e-Therapeutics, GlaxoSmithKline, Gilead,  Immunocore, Merck, Otsuka, Roche/Genentech, TC BioPharm, Verastem,  and Vertex; and served on advisory boards for and received honorarium  payable to the institution from Baxter, Bayer, Bristol-Myers Squibb,  Celgene, Clovis, Eisai, GlaxoSmithKline, Immunova, Karus Therapeutics,  Otsuka, Roche/Genentech, TC BioPharm, and Transgene/Jennerex. IC has  received research grant support and personal fees from Bristol-Myers  Squibb. PB has received personal fees from Bristol-Myers Squibb, Ipsen,  MSD, Novartis, Orion Pharma, and Pfizer; and stock ownership from TIL  Biotherapeutics. AAt has served on advisory boards and received honoraria  from Bristol-Myers Squibb. PS has served as a consultant to Amgen,  AstraZeneca, Bristol-Myers Squibb, and GlaxoSmithKline; and reports  patents licensed for self to Jounce. CTH and C-SL are employed by and  own stock in Bristol-Myers Squibb. OC was employed by and owned stock  in Bristol-Myers Squibb. EC reports research grants and/or financial  support from Boehringer-Ingelheim, Roche/Genentech, BMS, Novartis, 
+2 
+PsiOxus, Nanobiotix Janssen, Abbvie, PharmaMar, PUMA, Sanofi, Lilly,  Pfizer, Merck, Nektar, Amcure, Amgen, AstraZeneca, Principia, Bayer,  CytomX, H3, Incyte, Kura, LOXO, Macrogenics, Menarini, Merck Serono,  Merus, Millenium, Rigontec, Tahio, and BeuGene Tesaro; consultancy fees  from Janssen-Cilag, Alkermes (and travel expenses), Seattle Genetics,  Pierre Fabre, Cerulean Pharma, EUSA, Celgene, Novartis (speakers’  bureau), Nanobiotix, PsiOxus Therapeutics, Abbvie, AstraZeneca,  Guidepoint Global, Roche/Genentech (and travel expenses), GLG, Pfizer,  Servier, Amcure, and Boehringer-Ingelheim; ownership from START  (leadership), Oncoarts Associated, and International Cancer Consultants;  employment from START and HM Hospitals Group (honoraria);  and president and founder of NPO Foundation Intheos (Investigational  Therapeutics in Oncological Sciences), outside the submitted work.  All other authors declare no competing interests. Acknowledgments We thank the patients and their families, as well as the participating  study teams, for making this study possible; the staff of Dako North  America for collaborative development of the automated  immunohistochemical assay for PD-L1 assessment; Marina Tschaika for  medical oversight of the study; and Michael Cunningham for serving as  the protocol manager. Earlier versions of the manuscript were prepared  with medical writing and editorial assistance from Britt Anderson,  Vasupradha Vethantham, and Anne Cooper (StemScientific), with  funding from Bristol-Myers Squibb. References 1 National Comprehensive Cancer Network. Clinical practice  guidelines in oncology. Small cell lung cancer. Version 1.  http://www.nccn.org (accessed Dec 1, 2015). Byers LA, Rudin CM. Small cell lung cancer: where do we go from  here? Cancer 2015; 121: 664–72. 3 Hanna N, Bunn PA Jr, Langer C, et al. Randomized phase III trial  comparing irinotecan/cisplatin with etoposide/cisplatin in patients  with previously untreated extensive-stage disease small-cell lung  cancer. J Clin Oncol 2006; 24: 2038–43. Puglisi M, Dolly S, Faria A, Myerson JS, Popat S, O’Brien ME.  Treatment options for small cell lung cancer—do we have more  choice? Br J Cancer 2010; 102: 629–38. 5 Zatloukal P, Cardenal F, Szczesna A, et al. A multicenter  international randomized phase III study comparing cisplatin in  combination with irinotecan or etoposide in previously untreated  small-cell lung cancer patients with extensive disease. Ann Oncol  2010; 21: 1810–16. Schmittel A, Sebastian M, Fischer von Weikersthal L, et al, for the  Arbeitsgemeinschaft Internistische Onkologie Thoracic Oncology  Study Group. A German multicenter, randomized phase III trial  comparing irinotecan-carboplatin with etoposide-carboplatin as  first-line therapy for extensive-disease small-cell lung cancer.  Ann Oncol 2011; 22: 1798–804. Asai N, Ohkuni Y, Kaneko N, Yamaguchi E, Kubo A. Relapsed small  cell lung cancer: treatment options and latest developments.  Ther Adv Med Oncol 2014; 6: 69–82. 8 Von Pawel J, Jotte R, Spigel DR, et al. Randomized phase III trial of  amrubicin versus topotecan as second-line treatment for patients  with small-cell lung cancer. J Clin Oncol 2014; 32: 4012–19. Borghaei H, Paz-Ares L, Horn L, et al. Nivolumab versus docetaxel  in advanced nonsquamous non-small-cell lung cancer. N Engl J Med  2015; 373: 1627–39. 10 Brahmer J, Reckamp KL, Baas P, et al. Nivolumab versus docetaxel  in advanced squamous-cell non-small-cell lung cancer. N Engl J Med  2015; 373: 123–35. 11 OPDIVO (nivolumab) [package insert]. Princeton, NJ: Bristol-Myers  Squibb Company, 2016. 12 Hodi FS, O’Day SJ, McDermott DF, et al. Improved survival with  ipilimumab in patients with metastatic melanoma. N Engl J Med  2010; 363: 711–23. 13 Robert C, Thomas L, Bondarekno I, et al. Ipilimumab plus  dacarbazine for previously untreated metastatic melanoma.  N Engl J Med 2011; 364: 2517–26. 14 Curran MA, Montalvo W, Yagita H, Allison JP. PD-1 and CTLA-4  combination blockade expands infiltrating T cells and reduces  regulatory T and myeloid cells within B16 melanoma tumors.  Proc Natl Acad Sci USA 2010; 107: 4275–80.
+9 
+4 
+6 
+7 
+894 
+www.thelancet.com/oncology   Vol 17   July 2016
+Articles15 Hammers HJ, Plimack ER, Infante JR, et al. Expanded cohort  results from CheckMate 016: a phase I study of nivolumab in  combination with ipilimumab in metastatic renal cell carcinoma  (mRCC). J Clin Oncol 2015; 33 (suppl): 4516 (abstr). 16 Larkin J, Chiarion-Sileni V, Gonzalez R, et al. Combined nivolumab  and ipilimumab or monotherapy in untreated melanoma.  N Engl J Med 2015; 373: 23–34. 17 Rizvi NA, Gettinger SN, Goldman JW, et al. Safety and efficacy of  first-line nivolumab (NIVO; anti-programmed death-1 [PD-1]) and  ipilimumab in non-small cell lung cancer (NSCLC).  J Thoracic Oncol 2015; 10 (9 suppl): S176 (abstr 786). 18 Eisenhauer EA, Therasse P, Bogaerts J, et al. New response  evaluation criteria in solid tumours: revised RECIST guideline  (version 1.1). Eur J Cancer 2009; 45: 228–47. 19 Wolchok JD, Kluger H, Callahan MK, et al. Nivolumab plus  ipilimumab in advanced melanoma. N Engl J Med 2013; 369: 122– 33. 20 Postow MA, Chesney J, Pavlick AC, et al. Nivolumab and  ipilimumab versus ipilimumab in untreated melanoma.  N Engl J Med 2015; 372: 2006–17.  21 YERVOY (ipilimumab) [package insert]. Princeton, NJ:  Bristol-Myers Squibb Company; 2015. 22 Agrawal S, Feng Y, Roy A, Kollia G, Lestini B. Nivolumab dose  selection: challenges, opportunities and lessons learned for cancer  immunotherapy. J Immunother Cancer 2015; 3 (suppl 2): P141. 23 Phillips T, Simmons P, Inzunza HD, et al. Development of an  automated PD-L1 immunohistochemistry (IHC) assay for  non-small cell lung cancer. Appl Immunohistochem Mol Morphol  2015; 23: 541–49. 24 Simon R. Optimal two-stage designs for phase II clinical trials.  Control Clin Trials 1989; 10: 1–10. 25 Loochtan AT, Nickolich MS, Hobson-Webb LD. Myasthenia gravis  associated with ipilimumab and nivolumab in the treatment of  small cell lung cancer. Muscle Nerve 2015; 52: 307–08. 26 Pietanza MC, Kadota K, Huberman K, et al. Phase II trial of  temozolomide in patients with relapsed sensitive or refractory small  cell lung cancer, with assessment of methylguanine-DNA  methyltransferase as a potential biomarker. Clin Cancer Res 2012;  18: 1138–45.
+27 Rudin CM, Pietanza MC, Spigel DR, et al. A DLL3-targeted ADC,  rovalpituzumab tesirine, demonstrates substantial activity in a  phase I study in relapsed and refractory SCLC. J Thoracic Oncol  2015; 10 (9 suppl): S192–93. 28 Wang W, Hodkinson P, McLaren F, et al. Histologic assessment of  tumor-associated CD45(+) cell numbers is an independent predictor  of prognosis in small cell lung cancer. Chest 2013; 143: 146–51. 29 Buchbinder EI, Desai A. CTLA-4 and PD-1 pathways: similarities,  differences, and implications of their inhibition. Am J Clin Oncol  2015; 39: 98–106. 30 Ott PA, Elez Fernandez ME, Hiret S, et al. Pembrolizumab  (MK-3475) in patients (pts) with extensive-stage small cell lung  cancer (SCLC): Preliminary safety and efficacy results from  KEYNOTE-028. J Clin Oncol 2015; 33 (suppl): 7502 (abstr). 31 Royal RE, Levy C, Turner K, et al. Phase 2 trial of single agent  ipilimumab (anti-CTLA-4) for locally advanced or metastatic  pancreatic adenocarcinoma. J Immunother 2010; 33: 828–33. 32 Maur M, Tomasello C, Frassoldati A, Dieci MV, Barbieri E, Conte P.  Posterior reversible encephalopathy syndrome during ipilimumab  therapy for malignant melanoma. J Clin Oncol 2012; 30: e76–8. 33 Boyd K, Kalladka D, Overell J, Waterston A. Ipilimumab induced  encephalitis: a case report. Immunome Res 2015; 11: 092. Johnson DB, Saranga-Perry V, Lavin PJ, et al. Myasthenia gravis  induced by ipilimumab in patients with metastatic melanoma.  J Clin Oncol 2015; 33: e122–24. 35 Liao B, Shroff S, Kamiya-Matsuoka C, Tummala S. Atypical  neurological complications of ipilimumab therapy in patients with  metastatic melanoma. Neuro Oncol 2014; 16: 589–93. 36 Shirai T, Sano T, Kamijo F, et al. Acetylcholine receptor binding  antibody-associated myasthenia gravis and rhabdomyolysis induced  by nivolumab in a patient with melanoma. Jpn J Clin Oncol 2016;  46: 86–88.
+34 
+www.thelancet.com/oncology   Vol 17   July 2016 
+895
+Articles

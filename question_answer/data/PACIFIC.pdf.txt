@@ -1,0 +1,403 @@
+established in 1812 
+November 16, 2017 
+vol. 377 no. 20
+Durvalumab after Chemoradiotherapy in Stage III   Non–Small-Cell Lung Cancer
+S.J. Antonia, A. Villegas, D. Daniel, D. Vicente, S. Murakami, R. Hui, T. Yokoi, A. Chiappori, K.H. Lee, M. de Wit,  B.C. Cho, M. Bourhaba, X. Quantin, T. Tokito, T. Mekhail, D. Planchard, Y.-C. Kim, C.S. Karapetis, S. Hiret,  G. Ostoros, K. Kubota, J.E. Gray, L. Paz-Ares, J. de Castro Carpeño, C. Wadsworth, G. Melillo, H. Jiang,   Y. Huang, P.A. Dennis, and M. Özgüroğlu, for the PACIFIC Investigators*  
+The authors’ full names, academic de - grees, and af f iliations are listed in the  Appendix. Address reprint requests to  Dr. Antonia at the H. Lee Mof f it t Cancer  Center and Research Institute, 12902  Magnolia Dr., MRC 3 -E, Tampa, FL 33612,  or at  scot t . antonia@  mof f it t . org.
+* A complete list of the investigators of  the PACIFIC study is provided in the  Supplementar y Appendix, available at  NEJM.org.
+This ar ticle was published on September 8,  2017, at NEJM.org.
+N Engl J Med 2017;377:1919 -29. DOI: 10.1056/NEJMoa1709937
+Copyright © 2017 Massachusetts Medical Society.
+a b s t r a c t
+BACKGROUND
+Most patients with locally advanced, unresectable, non–small-cell lung cancer (NSCLC)  have disease progression despite def init ive chemoradiotherapy (chemotherapy plus  concurrent radiat ion therapy). This phase 3 study compared the ant i–programmed  death ligand 1 antibody durvalumab as consolidation therapy with placebo in patients  with stage III NSCLC who did not have disease progression after two or more cycles  of plat inum-based chemoradiotherapy.
+METHODS
+We randomly assigned pat ients, in a 2:1 rat io, to receive dur valumab (at a dose of  10 mg per kilogram of body weight intravenously) or placebo ever y 2 weeks for up  to 12 months. The study drug was administered 1 to 42 days after the pat ients had  received chemoradiotherapy. The coprimary end points were progression-free survival  (as assessed by means of blinded independent central review) and overall survival  (unplanned for the interim analysis). Secondar y end points included 12-month and  18-month progression-free sur vival rates, the object ive response rate, the durat ion  of response, the t ime to death or distant metastasis, and safet y.
+RESULTS
+Of 713 pat ients who underwent randomizat ion, 709 received consolidat ion therapy  (473 received dur valumab and 236 received placebo). The median progression-free  survival from randomization was 16.8 months (95% conf idence interval [CI], 13.0 to  18.1) with durvalumab versus 5.6 months (95% CI, 4.6 to 7.8) with placebo (stratif ied  hazard rat io for disease progression or death, 0.52; 95% CI, 0.42 to 0.65; P<0.001);  the 12-month progression-free survival rate was 55.9% versus 35.3%, and the 18-month  progression-free survival rate was 44.2% versus 27.0%. The response rate was higher  with durvalumab than with placebo (28.4% vs. 16.0%; P<0.001), and the median dura- tion of response was longer (72.8% vs. 46.8% of the patients had an ongoing response  at 18 months). The median t ime to death or distant metastasis was longer with  durvalumab than with placebo (23.2 months vs. 14.6 months; P<0.001). Grade 3 or  4 adverse events occurred in 29.9% of the pat ients who received dur valumab and  26.1% of those who received placebo; the most common adverse event of grade 3  or 4 was pneumonia (4.4% and 3.8%, respect ively). A total of 15.4% of pat ients in  the dur valumab group and 9.8% of those in the placebo group discont inued the  study drug because of adverse events.
+CONCLUSIONS
+Progression-free survival was signif icantly longer with durvalumab than with placebo.  The secondary end points also favored durvalumab, and safety was similar between  the groups. (Funded by AstraZeneca; PACIFIC ClinicalTrials.gov number, NCT02125461.)
+n engl j med 377;20 nejm.org November 16, 2017
+1919
+The new england  journal of medicineThe New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. A Quick Take is   available at   NEJM.org 
+T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+A pproximately one third of patients  with non–small-cell lung cancer (NSCLC)  have stage III, locally advanced disease at  diagnosis.1 The standard of care for patients with  a good performance status and unresectable stage  III NSCLC is platinum-based doublet chemother- apy concurrent with radiotherapy (chemoradio- therapy).2 However, the median progression-free  survival among patients who have received chemo- radiotherapy is poor (approximately 8 months),  and only 15% of pat ients are alive at 5 years.1,3  No major advances in the treatment for pat ients  in this context have been made in many years.3-14 Dur valumab is a select ive, high-af f init y, hu- man IgG1 monoclonal antibody that blocks pro- grammed death ligand 1 (PD-L1) binding to  programmed death 1 (PD-1) and CD80, allowing  T cells to recognize and kill tumor cells.15-17 An  early-phase clinical study involving mult iple ad- vanced solid tumors, including stage IIIB or IV  NSCLC,18 showed that dur valumab had encour- aging ant itumor act ivit y, and this agent was re- cent ly approved in the United States for pat ients  with locally advanced or metastat ic urothelial  carcinoma who had received platinum-based che- motherapy.19 Given preclinical evidence suggesting  that chemotherapy and radiotherapy may up-reg- ulate PD-L1 expression in tumor cells,20-22 which  is a predict ive factor for a response to dur va lu- mab, we hypothesized that dur va lumab would  provide clinical benef it after chemoradiotherapy. We report results from an interim analysis of  the randomized, double-blind, international, phase  3 PACIFIC study comparing dur valumab as con- solidat ion therapy with placebo in pat ients with  stage III, locally advanced, unresectable NSCLC  that had not progressed after plat inum-based  chemoradiotherapy.
+M e t h od s
+Patients
+Eligible pat ients had histologically or cytologi- cally documented stage III, locally advanced, un- resectable NSCLC according to the Staging Manual  in Thoracic Oncology, version 7, of the Internat ional  Association for the Study of Lung Cancer.23 These  patients had received two or more cycles (def ined  according to local pract ice) of plat inum-based  chemotherapy (containing etoposide, vinblastine,  vinorelbine, a taxane [paclitaxel or docetaxel], or  pemetrexed) concurrent ly with def init ive radia-
+t ion therapy (54 to 66 Gy), in which the mean  dose to the lung was less than 20 Gy, the V20 (the  volume of lung parenchyma that received 20 Gy  or more) was less than 35%, or both. Addit ional  inclusion criteria were no disease progression  after this treatment, an age of 18 years or older,  a World Health Organizat ion performance sta- tus of 0 or 1 (on a 5-point scale in which higher  numbers indicate greater disabilit y), an est i- mated life expectancy of 12 weeks or longer, and  complet ion of the last radiat ion dose within 1 to  14 days before randomizat ion (after a protocol  amendment, this criterion was changed to 1 to  42 days before randomizat ion). Key exclusion criteria were previous exposure  to ant i–PD-1 or PD-L1 ant ibodies; receipt of im- munotherapy or an invest igat iona l drug within  4 weeks before the f irst dose (6 weeks for mono- clonal antibodies); active or previous autoimmune  disease (within the past 2 years) or a histor y of  primar y immunodef iciency; evidence of uncon- trolled, concurrent illness or ongoing or act ive  infect ions; unresolved toxic ef fects of grade 2 or  higher (according to the Common Terminolog y  Criteria for Adverse Events [CTCAE]); and grade  2 or higher pneumonit is from previous chemo- radiotherapy. Complete eligibility criteria are pro- vided in the protocol, available with the full text  of this art icle at NEJM.org.
+S tudy Design and Treatments
+Pat ients were randomly assigned within 1 to 42  days after chemoradiotherapy in a 2:1 rat io to  receive dur valumab at a dose of 10 mg per kilo- gram of body weight intravenously or matching  placebo ever y 2 weeks as consolidat ion therapy  for up to 12 months. Pat ients were strat if ied ac- cording to age (<65 vs. ≥65 years), sex, and smok- ing history (current or former smoker vs. never  smoked). Administrat ion of the study drug commenced  after randomizat ion on day 1, once the pat ient  was conf irmed to be eligible to part icipate. The  study drug was discont inued if there was con- f irmed disease progression, init iat ion of alterna- tive anticancer therapy, unacceptable toxic effects,  or withdrawal of consent. Pat ients could receive  the study drug unt il disease progression (unless  they had rapid tumor progression or symptom- at ic progression requiring urgent inter vent ion)  and could receive the drug again if disease con- trol had been achieved at the end of the 12 
+1920
+n engl j med 377;20 nejm.org November 16, 2017
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. Durva lum a b in Non – Sm a l l - Cel l Lung C ancer
+months but the disease had progressed during  follow-up.
+End Points and Assessments
+The coprimar y end points were progression-free  sur vival (according to the Response Evaluat ion  Criteria in Solid Tumors [RECIST], version 1.1, as  assessed by means of blinded independent central  review) and overall survival. Progression-free sur- vival was def ined as the time from randomization  (which occurred up to 6 weeks after chemoradio- therapy) to the date of the f irst documented event  of tumor progression or death in the absence of  disease progression. Overall survival was def ined  as the time from randomization until death from  any cause. Progression-free survival was assessed  by the investigators, according to RECIST, version  1.1, as a predef ined sensitivity analysis. The secondar y end points were the percent- age of pat ients who were alive without disease  progression at 12 and 18 months, the object ive  response rate, the durat ion of response, and the  t ime to death or distant metastasis (all assessed  by means of blinded independent central review);  and overall survival at 24 months, the safety and  side-ef fect prof ile (graded with the use of the  CTCAE, version 4.03), health-related quality of life,  pharmacokinetic characteristics, and immunoge- nicity. Eff icacy was assessed every 8 weeks for the  f irst 12 months and every 12 weeks thereafter. All  reported ef f icacy end points are for dur valumab  or placebo only (i.e., they were not aggregate end  points that included previous chemoradiotherapy). Pat ients provided opt ional archived tumor- t issue samples for PD-L1 test ing. However, en- rollment was not restricted to any thresholds for  the level of PD-L1 expression.
+S tudy Oversight
+The study was designed by representat ives of the  sponsor (AstraZeneca) and academic advisors. All  pat ients provided written informed consent for  participation. The study protocol and amendments  were approved by relevant ethics commit tees,  and the study was performed in accordance with  the Internat ional Conference on Harmonisat ion  Guidelines on Good Clinical Pract ice and the  Declarat ion of Helsinki. All the invest igators  (listed in the Supplementar y Appendix, available  at NEJM.org) were responsible for the collect ion  of data. Data analyses were completed by the  sponsor. The authors had full access to the data 
+and vouch for the accuracy and completeness of  the data and analyses and for the f idelit y of the  study to the protocol. The authors signed a conf identiality agreement  with the sponsor. All the authors participated in  writ ing the manuscript and provided approval to  submit the manuscript for publicat ion. Medical- writ ing support, including development of the  init ial draft of the manuscript, was funded by  the sponsor.
+S tatis tic al Analysis
+The study was to be considered posit ive if either  of the two coprimar y end points, progression- free or overall sur vival, was signif icant ly longer  with dur valumab than with placebo. Approxi- mately 702 pat ients were needed for 2:1 random- izat ion to obtain 458 progression-free sur vival  events for the primar y analysis of progression- free sur vival and 491 overall sur vival events for  the primar y analysis of overall survival. It was  est imated that the study would have a 95% or  greater power to detect a hazard rat io for disease  progression or death of 0.67 and a 85% or  greater power to detect a hazard rat io for death  of 0.73, on the basis of a log-rank test with a  two-sided signif icance level of 2.5% for each  coprimar y end point. An interim analysis of progression-free sur- vival was planned when approximately 367  events had occurred. At this interim analysis,  the hazard rat io for disease progression or death  was est imated with the use of the Kaplan–Meier  method. Between-group comparisons were per- formed with the use of the log-rank test, strat i- f ied according to age, sex, and smoking histor y.  Sensit ivit y analyses included assessment of eval- uat ion bias, evaluat ion-t ime bias, and attrit ion  bias in the determinat ion of disease progression  and adjustment for various covariates in the es- t imat ion of the hazard rat io for disease progres- sion or death. A preplanned analysis of progression-free  sur vival in 35 prespecif ied subgroups was per- formed in which hazard rat ios and 95% conf i- dence inter vals were calculated with the use of  an unstrat if ied Cox regression model. There was  no mult iplicit y adjustment because the subgroup  analysis was intended to show consistency of the  treatment ef fect. Response rates were est imated with the use  of the Clopper–Pearson method and compared 
+n engl j med 377;20 nejm.org November 16, 2017
+1921
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+with the use of Fisher’s exact test. Type I error  was controlled for the coprimar y end points (as  described in the Supplementar y Appendix) and  the key secondary end point (the objective response  rate), but not for other secondary end points. Eff i- cacy was assessed in the intention-to-treat popula- t ion, and safet y was assessed in the as-t reated  populat ion. In an ongoing analysis, an external independent  data and safety monitoring committee is assessing  safet y. This committee assessed the interim ef- f icacy analyses.
+R e s u l t s
+Patients and Treatment
+Between May 2014 and April 2016, a total of 709  of 713 pat ients who underwent randomizat ion  (99.4%) received at least 1 dose of study drug as  consolidat ion therapy (473 pat ients received dur- valumab and 236 received placebo) (Fig. S1 in  the Supplementar y Appendix). Baseline charac- terist ics were well balanced in the two groups  (Table 1, and Table S1 in the Supplementar y  Appendix). The median age of all pat ients was  64 years, and the majorit y were men (70.1%) and  current or former smokers (91.0%); 45.7% had a  squamous histologic t ype of tumor. The previ- ous use of chemotherapy was also well balanced  between the two groups (Table S2 in the Supple- mentar y Appendix); in addit ion, 25.8% of the  pat ients in the dur valumab group and 28.7% of  those in the placebo group had received induc- t ion chemotherapy before def init ive chemoradio- therapy. The response to previous chemoradio- therapy was similar in the two groups (complete  response, 1.9% in the dur valumab group and  3.0% in the placebo group; part ial response,  48.7% and 46.8%, respect ively). According to the assessment of archived tu- mor samples obtained before chemoradiothera- py, PD-L1 expression of 25% or more on tumor  cells occurred in 22.3% of pat ients (24.2% in the  dur valumab group and 18.6% in the placebo  group) and PD-L1 expression of less than 25%  on tumor cells occurred in 41.0% of the pat ients  (39.3% in the dur valumab group and 44.3% in  the placebo group); 36.7% of the pat ients in  both groups had unknown PD-L1 status (Table  S3 in the Supplementar y Appendix). EGFR muta- t ions were obser ved in 6.0% of the pat ients  (6.1% in the dur valumab group and 5.9% in the 
+placebo group), whereas 67.3% of the pat ients’  tumors were EGFR-negat ive or wild-t ype (66.2%  in the dur valumab group and 69.6% in the pla- cebo group). The EGFR mutat ion status was un- known in 27.7% of the patients in the durvalumab  group and 24.5% of the patients in the placebo  group (Table S3 in the Supplementar y Appen- dix). No signif icant (P<0.05) between-group dif- ferences were noted in either PD-L1 expression  or EGFR mutat ion status. As of Februar y 13, 2017 (the data cutof f point  for this interim analysis), 371 pat ients had dis- ease progression (214 in the dur valumab group  and 157 in the placebo group). The overall me- dian follow-up was 14.5 months (range, 0.2 to  29.9). The median number of infusions received  was 20 (range, 1 to 27) in the dur valumab group  and 14 (range, 1 to 26) in the placebo group;  6.3% and 5.1% of the pat ients, respect ively, were  st ill receiving the study drug at the data cutof f  point (Table S4 in the Supplementar y Appendix).  The median relat ive dose intensit y was 100% in  each group (range, 29 to 100 in the dur valumab  group and 50 to 100 in the placebo group). Se- rum trough concentrat ions of dur valumab were  similar at weeks 24 and 48 (177.00 and 189.00 μg  per milliliter, respect ively) (Table S5 in the Sup- plementar y Appendix).
+Effic acy
+Median progression-free sur vival from random- izat ion, as assessed by means of blinded inde- pendent central review, was 16.8 months (95%  conf idence inter val [CI], 13.0 to 18.1) with dur- valumab versus 5.6 months (95% CI, 4.6 to 7.8)  with placebo (strat if ied hazard rat io for disease  progression or death, 0.52; 95% CI, 0.42 to 0.65;  two-sided P<0.001) (Fig. 1). The 12-month pro- gression-free survival rate was 55.9% (95% CI,  51.0 to 60.4) with dur valumab and 35.3% (95%  CI, 29.0 to 41.7) with placebo, and the 18-month  progression-free survival rate was 44.2% (95% CI,  37.7 to 50.5) and 27.0% (95% CI, 19.9 to 34.5),  respectively. Progression-free survival results were  consistent across all prespecif ied sensitivity analy- ses (data not shown), including results determined  by investigator assessment (stratif ied hazard ratio,  0.61; 95% CI, 0.50 to 0.76; two-sided P<0.001). A progression-free sur vival benef it with dur- valumab was consistent ly observed across all  prespecif ied subgroups, as def ined according to  patient demographic characteristics, baseline clini-
+1922
+n engl j med 377;20 nejm.org November 16, 2017
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. Durva lum a b in Non – Sm a l l - Cel l Lung C ancer
+Table 1. Baseline Characteristics, Stratification Factors, and Prior Therapy in the Intention-to-Treat Population.*
+Characteristic Age — yr Median Range Sex — no. (%) Male Female Race — no. (%)† White Black Asian Disease stage — no. (%) IIIA IIIB Other‡ WHO performance-status score — no. (%)§ 0 1 Tumor histologic type — no. (%) Squamous Nonsquamous Smoking status — no. (%) Current smoker Former smoker Never smoked Previous radiotherapy — no. (%)¶ <54 Gy ≥54 to ≤66 Gy >66 to ≤74 Gy Previous chemotherapy — no. (%)‖ Induction Concurrent with radiation therapy Best response to previous chemoradiotherapy — no. (%) Complete response Partial response Stable disease
+Durvalumab  (N = 476)
+Placebo  (N = 237)
+64 31–84
+334 (70.2) 142 (29.8)
+337 (70.8) 12 (2.5) 120 (25.2)
+252 (52.9) 212 (44.5) 12 (2.5)
+234 (49.2) 240 (50.4)
+224 (47.1) 252 (52.9)
+79 (16.6) 354 (74.4) 43 (9.0)
+3 (0.6) 442 (92.9) 30 (6.3)
+123 (25.8) 475 (99.8)
+9 (1.9) 232 (48.7) 222 (46.6)
+64 23–90
+166 (70.0) 71 (30.0)
+157 (66.2) 2 (0.8) 72 (30.4)
+125 (52.7) 107 (45.1) 5 (2.1)
+114 (48.1) 122 (51.5)
+102 (43.0) 135 (57.0)
+38 (16.0) 178 (75.1) 21 (8.9)
+0 217 (91.6) 19 (8.0)
+68 (28.7) 236 (99.6)
+7 (3.0) 111 (46.8) 114 (48.1)
+Total  (N = 713)
+64 23–90
+500 (70.1) 213 (29.9)
+494 (69.3) 14 (2.0) 192 (26.9)
+377 (52.9) 319 (44.7) 17 (2.4)
+348 (48.8) 362 (50.8)
+326 (45.7) 387 (54.3)
+117 (16.4) 532 (74.6) 64 (9.0)
+3 (0.4) 659 (92.4) 49 (6.9)
+191 (26.8) 711 (99.7)
+16 (2.2) 343 (48.1) 336 (47.1)
+*  The intention-to-treat population included all patients who underwent randomization. Randomization was stratified   according to age at randomization (<65 vs. ≥65 years of age), sex, and smoking history (current or former smoker vs.  never smoked). There were no significant (P<0.05) between-group differences in the baseline characteristics listed here.  Percentages may not total 100 because of rounding or because some categories occurred with very low frequency and  therefore are not shown here. A complete listing of baseline characteristics is provided in Table S1 in the Supplementary  Appendix. †  Race was reported by the patients. ‡  Patients with other disease stages included 12 patients in the durvalumab group (4 with stage IV, 4 with stage IIB, 3 with  stage IIA, and 1 with stage IA) and 5 patients in the placebo group (2 with stage IIB, 1 with stage IIA, and 2 with stage IB). §  World Health Organization (WHO) performance-status scores range from 0 to 5, with 0 indicating no symptoms and  higher scores indicating increased disability. ¶  The decision regarding the actual dose was based on investigator or radiologist assessment of each individual patient,  resulting in doses that differed from the inclusion criteria. All radiation therapy was administered concurrently with   chemotherapy. ‖  Patients may have received previous chemotherapy in more than one context.
+n engl j med 377;20 nejm.org November 16, 2017
+1923
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+No.ofEvents/ TotalNo. ofPatients
+Durvalumab Placebo
+214/476 157/237
+MedianPFS (95%CI)
+mo 16.8 (13.0–18.1)   5.6 (4.6–7.8)
+12-MoPFS (95%CI)
+% 55.9 (51.0–60.4) 35.3 (29.0–41.7)
+18-MoPFS (95%CI)
+% 44.2 (37.7–50.5) 27.0 (19.9 –34.5)
+Stratified hazard ratio for disease progression or death, 0.52 (95% CI, 0.42–0.65) Two-sided P<0.001
+Durvalumab
+Placebo
+l
+a v
+i
+v
+r
+u S e e
+
+r f -
+n o
+i
+s s e
+r
+g o
+r
+P
+ f
+o
+
+y
+t i l i
+b a b o
+r
+P
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+3
+6
+9
+12
+15
+18
+MonthssinceRandomization
+No.atRisk
+Durvalumab Placebo
+476 237
+377 163
+301 106
+264 87
+159 52
+86 28
+44 15
+21
+21 4
+24
+27
+4 3
+1 0
+Figure 1. Progression-free Survival in the Intention-to -Treat Population. Shown are Kaplan–Meier cur ves for progression-free sur vival (PFS), def ined according to the Response Evaluation  Criteria in Solid Tumors, version 1.1, and assessed by means of blinded independent central review. Tick marks in- dicate censored obser vations, and ver tical lines indicate the times of landmark PFS analyses. The intention-to -treat  population included all patients who underwent randomization.
+copathologic features, and response to previous  treatment (Fig. 2). Addit ional nonprognost ic fac- tors are listed in Figure S2 in the Supplementar y  Appendix. Notably, the progression-free sur vival  benef it with dur valumab was obser ved irrespec- tive of PD-L1 expression before chemoradiothera- py (hazard rat io, 0.59 [95% CI, 0.43 to 0.82] for  a PD-L1 expression level of <25% and 0.41 [95%  CI, 0.26 to 0.65] for a PD-L1 expression level of  ≥25%). A progression-free sur vival benef it was  also evident in pat ients who had never smoked.  The absence of correct ions for mult iple com- parisons limits the extrapolat ions to part icular  subgroups. The median t ime to death or distant metasta- sis was 23.2 months (95% CI, 23.2 to not reached)  with durvalumab versus 14.6 months (95% CI,  10.6 to 18.6) with placebo (hazard rat io, 0.52;  95% CI, 0.39 to 0.69; two-sided P<0.001) (Fig. S3  in the Supplementar y Appendix). In addit ion, the  frequency of new lesions, as assessed by means  of blinded independent central review, was 20.4%  with dur valumab and 32.1% with placebo, with  a lower incidence of new brain metastases with 
+dur valumab (5.5% vs. 11.0%) (Table S6 in the  Supplementar y Appendix). The object ive response rate, as assessed by  means of blinded independent central review,  was signif icant ly higher with dur valumab than  with placebo (28.4% vs. 16.0%; P<0.001) (Ta- ble 2); 16.5% of pat ients who received dur va lu- mab and 27.7% of those who received placebo had  disease progression (Table 2). The median dura- t ion of response was longer with dur va lumab  than with placebo (Table 2, and Fig. S4 in the  Supplementary Appendix). Of the pat ients who  had a response to dur valumab, 72.8% had an  ongoing response at both 12 and 18 months as  compared with 56.1% and 46.8%, respect ively, of  patients in the placebo group who had an ongoing  response (Table 2). An analysis of overall survival  was not planned at the time of this interim analy- sis of progression-free sur vival.
+Safet y
+Adverse events of any cause and grade occurred  in 96.8% of the patients who received durvalu mab  and 94.9% of the pat ients who received placebo 
+1924
+n engl j med 377;20 nejm.org November 16, 2017
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. Durva lum a b in Non – Sm a l l - Cel l Lung C ancer
+Subgroup
+Durvalumab
+Placebo
+UnstratifiedHazardRatioforDiseaseProgressionorDeath(95%CI)
+All patients Sex Male Female Age at randomization <65 yr ≥65 yr Smoking status Smoker Nonsmoker NSCLC disease stage IIIA IIIB Tumor histologic type Squamous Nonsquamous Best response Complete response Partial response Stable disease PD-L1 status ≥25% <25% Unknown EGFR mutation Positive Negative Unknown
+no. of patients 237
+166 71
+130 107
+216 21
+125 107
+102 135
+7 111 114
+44 105 88
+14 165 58
+476
+334 142
+261 215
+433 43
+252 212
+224 252
+9 232 222
+115 187 174
+29 315 132
+0.55 (0.45–0.68)
+0.56 (0.44–0.71) 0.54 (0.37–0.79)
+0.43 (0.32–0.57) 0.74 (0.54–1.01)
+0.59 (0.47–0.73) 0.29 (0.15–0.57)
+0.53 (0.40–0.71) 0.59 (0.44–0.80)
+0.68 (0.50–0.92) 0.45 (0.33–0.59)
+— 0.55 (0.41–0.75) 0.55 (0.41–0.74)
+0.41 (0.26–0.65) 0.59 (0.43–0.82) 0.59 (0.42–0.83)
+0.76 (0.35–1.64) 0.47 (0.36–0.60) 0.79 (0.52–1.20)
+0.25
+0.50
+1.00
+2
+DurvalumabBetter
+PlaceboBetter
+Figure 2 . Subgroup Analysis of Prognostic Fac tors for Progression-free Survival in the Intention-to -Treat Population. Progression-free sur vival was def ined according to RECIST, version 1.1, and assessed by means of blinded independent central review.  The hazard ratio and 95% conf idence inter val were not calculated for the complete response because this subgroup had less than 20  events. EGFR denotes epidermal grow th fac tor receptor, and PD -L1 programmed death ligand 1.
+(Table 3); grade 3 or 4 adverse events occurred  in 29.9% and 26.1%, respect ively. The most com- mon grade 3 or 4 adverse event was pneumonia  (in 4.4% of pat ients in the dur valumab group  and 3.8% of pat ients in the placebo group). Dis- cont inuat ion due to adverse events occurred in  15.4% of pat ients in the dur valumab group and  9.8% of pat ients in the placebo group, and seri- ous adverse events occurred in 28.6% and 22.6%,  respect ively (Table S7 in the Supplementar y Ap- pendix). Death due to adverse events occurred in  4.4% of pat ients in the dur valumab group and  5.6% of pat ients in the placebo group (Table 3).  Treatment-related adverse events are summarized  in Table S8 in the Supplementary Appendix. The most frequent adverse events leading to  discont inuat ion of dur valumab and placebo were  pneumonit is or radiat ion pneumonit is (in 6.3%  and 4.3%, respect ively) and pneumonia (in 1.1%  and 1.3%). In pat ients who received dur valumab,  as compared with those who received placebo, 
+pneumonit is or radiat ion pneumonit is of any  grade occurred in 33.9% and 24.8% and pneu- monit is or radiat ion pneumonit is of grade 3 or  4 occurred in 3.4% and 2.6%; pneumonia of any  grade occurred in 13.1% and 7.7%, and pneumo- nia of grade 3 or 4 occurred in 4.4% and 3.8%. Adverse events of any grade that were of spe- cial interest, regardless of cause, were reported  in 66.1% of pat ients in the dur valumab group  and 48.7% of pat ients in the placebo group. The  majorit y were grade 1 or 2, and events of grade  3 or higher were infrequent (in <10% of pat ients)  in both groups. The most frequent adverse events  of any grade that were of special interest with  durvalumab versus placebo were diarrhea (18.3%  and 18.8%), pneumonitis (12.6% and 7.7%), rash  (12.2% and 7.3%), and pruritus (12.2% and 4.7%).  Adverse events of special interest for which pa- t ients received concomitant treatment were re- ported in 42.1% and 17.1% of patients, respectively;  treatments included glucocorticoids (in 15.2% and 
+n engl j med 377;20 nejm.org November 16, 2017
+1925
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+Table 2. Antitumor Activity in the Intention-to-Treat Population.*
+Variable
+Objective response
+Durvalumab  (N = 443)†
+Placebo  (N = 213)†
+Treatment Effect‡
+P Value
+No. of patients with response
+126
+34
+% of patients (95% CI)
+28.4 (24.3–32.9)
+16.0 (11.3–21.6)
+1.78 (1.27–2.51)
+<0.001
+Best overall response — no. (%)§
+Complete response
+Partial response
+Stable disease
+Progressive disease
+Could not be evaluated
+Duration of response — mo
+Median
+95% CI
+Ongoing response at data cutoff  point — %¶
+At 12 mo
+At 18 mo
+6 (1.4)
+120 (27.1)
+233 (52.6)
+73 (16.5)
+10 (2.3)
+NR
+72.8
+72.8
+1 (0.5)
+33 (15.5)
+119 (55.9)
+59 (27.7)
+1 (0.5)
+13.8
+6.0–NR
+56.1
+46.8
+0.43
+0.22–0.84
+*  The tumor response was assessed by means of blinded independent central review. NR denotes not reached. †  The analysis was performed with data from patients with measurable disease at baseline as determined by either of the  two independent central reviewers. ‡  The relative risk (95% CI) is shown for the objective response rate, and the hazard ratio (95% CI) is shown for the duration  of response. Placebo was the reference group when relative risk and hazard ratio were calculated; therefore, a relative  risk greater than 1 is in favor of durvalumab and a hazard ratio less than 1 is in favor of durvalumab. §  One patient could not be included in any of the best-overall-response categories because of inconsistency in the base- line assessment for measurable disease between the two independent central reviewers. ¶  Percentages were calculated with the use of the Kaplan–Meier method.
+6.8%), high-dose glucocorticoids (8.8% and 5.1%),  endocrine therapy (11.6% and 1.3%), and other  immunosuppressive agents (0.4% of both groups). Immune-mediated adverse events of any grade,  regardless of cause, were reported in 24.2% of  pat ients in the dur valumab group and 8.1% of  pat ients in the placebo group; grade 3 or 4 im- mune-mediated adverse events were reported in  3.4% and 2.6% of pat ients, respect ively (Table S9  in the Supplementar y Appendix). Treatments for  immune-mediated adverse events included sys- temic glucocorticoids (in 14.3% of patients in the  durvalumab group and 5.6% in the placebo group),  high-dose glucocort icoids (8.2% and 4.3%), en- docrine therapy (10.7% and 1.3%), and other im- munosuppressive agents (0.4% of both groups).
+D i s c u s s i on
+In the planned interim analysis of the PACIFIC  study, the coprimar y end point of progression-
+free survival was met. Among patients with locally  advanced, unresectable NSCLC, progression-free  sur vival was 11 months longer among pat ients  who received dur valumab than among those  who received placebo (hazard rat io for disease  progression or death, 0.52; P<0.001). The longer  progression-free sur vival was accomplished in a  biomarker-independent population. Patients with  a level of PD-L1 expression on tumor cells of less  than 25% accounted for a larger proport ion of  participants in this study than patients with 25%  or greater PD-L1–positive tumor cells. In addition,  the dif ference in progression-free sur vival in fa- vor of dur valumab was shown across all pre- specif ied subgroups, including pat ients who  were not expected to have a response according  to the results of trials involving pat ients with  advanced or metastat ic disease. Although data on overall sur vival were im- mature at the t ime of this analysis, clinical ben- ef it with dur valumab was evident by improve-
+1926
+n engl j med 377;20 nejm.org November 16, 2017
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. n engl j med 377;20 nejm.org November 16, 2017
+1927
+Durva lum a b in Non – Sm a l l - Cel l Lung C ancer
+ment in all secondar y end points, such as an  object ive response rate that was higher by 12.4  percentage points with dur valumab than with  placebo (P<0.001). In addit ion, responses with  dur valumab were durable as compared with pla- cebo (72.8% of pat ients who had a response to  dur valumab had an ongoing response at both 12  and 18 months as compared with 56.1% and  46.8%, respect ively, who had a response to pla- cebo). Dur valumab also had a favorable ef fect on  the frequency of new metastases, including a  lower incidence of new brain metastases.
+The safet y prof ile of dur valumab in this  populat ion was consistent with that of other im- munotherapies and with its known safet y prof ile  as monotherapy in pat ients with more advanced  disease (stage IIIB or IV NSCLC).18 Although the  incidences of some adverse events of any cause,  including pneumonit is or radiat ion pneumoni- t is, were increased with both dur valumab and  placebo in this study, this was expected after de- f initive chemoradiotherapy. In addition, pneumo- nit is or radiat ion pneumonit is in pat ients who  received durvalumab was mostly low grade, and 
+Event
+Durvalumab (N = 475)
+Placebo (N = 234)
+Any Grade*
+Grade 3 or 4
+Any Grade*
+Grade 3 or 4
+number of patients with event (percent)
+Any event
+460 (96.8)
+142 (29.9)
+222 (94.9)
+61 (26.1)
+Cough
+168 (35.4)
+2 (0.4)
+59 (25.2)
+1 (0.4)
+Pneumonitis or radiation pneumonitis†
+161 (33.9)
+16 (3.4)
+58 (24.8)
+6 (2.6)
+Fatigue
+113 (23.8)
+1 (0.2)
+48 (20.5)
+3 (1.3)
+Dyspnea
+106 (22.3)
+7 (1.5)
+56 (23.9)
+6 (2.6)
+Diarrhea
+87 (18.3)
+3 (0.6)
+44 (18.8)
+3 (1.3)
+Pyrexia
+70 (14.7)
+1 (0.2)
+21 (9.0)
+0
+Decreased appetite
+68 (14.3)
+1 (0.2)
+30 (12.8)
+2 (0.9)
+Nausea
+66 (13.9)
+0
+31 (13.2)
+0
+Pneumonia
+62 (13.1)
+21 (4.4)
+18 (7.7)
+9 (3.8)
+Arthralgia
+59 (12.4)
+0
+26 (11.1)
+0
+Pruritus
+58 (12.2)
+0
+11 (4.7)
+0
+Rash
+58 (12.2)
+1 (0.2)
+17 (7.3)
+0
+Upper respiratory tract infection
+58 (12.2)
+1 (0.2)
+23 (9.8)
+0
+Constipation
+56 (11.8)
+1 (0.2)
+20 (8.5)
+0
+Hypothyroidism
+55 (11.6)
+1 (0.2)
+4 (1.7)
+0
+Headache
+52 (10.9)
+1 (0.2)
+21 (9.0)
+2 (0.9)
+Asthenia
+51 (10.7)
+3 (0.6)
+31 (13.2)
+1 (0.4)
+Back pain
+50 (10.5)
+1 (0.2)
+27 (11.5)
+1 (0.4)
+Musculoskeletal pain
+39 (8.2)
+3 (0.6)
+24 (10.3)
+1 (0.4)
+Anemia
+36 (7.6)
+14 (2.9)
+25 (10.7)
+8 (3.4)
+*  Included are events that were reported in at least 10% of the patients in either group. Grade 5 adverse events of any  cause occurred in 21 patients (4.4%) who received durvalumab (4 [0.8%] with pneumonitis, 2 [0.4%] with cardiac arrest,  and 1 each [0.2%] with the following: pneumonia, bacterial pneumonia, pneumococcal pneumonia, sepsis, septic  shock, cardiomyopathy, cardiopulmonary failure, myocardial infarction, aortic dissection, dyspnea, emphysema, he- moptysis, respiratory distress, respiratory failure, radiation pneumonitis, right ventricular failure, increased level of  brain natriuretic peptide, and unknown cause). Grade 5 adverse events of any cause occurred in 13 patients (5.6%)  who received placebo (3 each [1.3%] with pneumonitis and pneumonia and 1 each [0.4%] with the following: pneumo- nia streptococcal, West Nile virus infection, cardiac arrest, eosinophilic myocarditis, hemoptysis, intestinal obstruc- tions, radiation pneumonitis, and unknown cause). Each patient could have had more than one grade 5 adverse event. †  Pneumonitis or radiation pneumonitis was assessed by investigators with subsequent review and adjudication by the  study sponsor. In addition, pneumonitis is a grouped term that includes acute interstitial pneumonitis, interstitial lung  disease, pneumonitis, and pulmonary fibrosis.
+Table 3. Adverse Events of Any Cause.
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+the incidence of clinically important grade 3 or 4  events was well balanced between the groups  (3.4% in the durvalumab group and 2.6% in the  placebo group) and lower than that in other stud- ies in the same disease context.6,24 Taken togeth- er, these data suggest that durvalumab has man- ageable side effects after chemoradiotherapy. In conclusion, in the PACIFIC study, one of the  coprimar y end points was met at this planned  interim analysis, and this study showed a signif i- cant increase in progression-free survival and no  new safet y signals with dur valumab in pat ients  with stage III, unresectable NSCLC who had re- ceived chemoradiotherapy. These positive f indings  in an unselected patient population, irrespective of  baseline expression of PD-L1 on tumor cells,  suggest that dur valumab may be an ef fect ive  adjuvant therapy in pat ients with stage III dis- ease after standard treatment. Uncertaint y about  the potent ial mechanisms driving the interac- t ion between immunotherapy and chemoradio- therapy warrants further invest igat ion.
+Dr. Antonia reports receiving fees for ser ving on an advisor y  board from Ast raZeneca; Dr. Villegas, receiving fees for ser ving  on a speakers’ bureau from Celgene, A lex ion, and Bristol-Myers  Squibb; Dr. Hui, receiving fees for ser ving on an advisor y board  and lecture fees from Ast raZeneca and Merck Sharp & Dohme,  fees for ser ving on an advisor y board from Novart is and Pf izer,  and lecture fees from Bristol-Myers Squibb and Boehringer In- gelheim; Dr. Chiappori, receiving fees for ser ving on a speakers’  bureau from Genentech, Merck, Pf izer, Boehringer Ingelheim, 
+and Celgene, fees for ser ving on a speakers’ bureau and advisor y  board from Takeda and Novart is, and fees for serving on an advi- sory board from Bristol-Myers Squibb; Dr. de Wit, receiving lec- ture fees from AstraZeneca; Dr. Mekhail, receiving grant support  and fees for ser ving on a speakers’ bureau from Ast raZeneca;  Dr. Planchard, receiving fees for ser ving on an advisor y board  from Ast raZeneca, Boehringer Ingelheim, Bristol-Myers Squibb,  Merck Sharp & Dohme, Pf izer, and Novart is; Dr. K im, receiving  grant support from Ast raZeneca, Roche, Merck, Bristol-Myers  Squibb and Ono Pharmaceut ica l, and Boehringer Ingelheim; Dr.  Karapet is, receiving t ravel support from Ast raZeneca; Dr. Hiret,  receiving consult ing fees and advisor y fees from Roche, Ast ra- Zeneca, and Boehringer Ingelheim; Dr. Kubota, receiving grant  support and honoraria from Daiichi Sank yo, Boehringer Ingel- heim, and Taiho, and honoraria from Eli Lilly, Merck Sharp &  Dohme, Bristol-Myers Squibb, Amgen, Ono Pharmaceut ica l,  Novart is, and Chugai Pharmaceut ica l; Dr. Gray, receiving grant  support and advisor y fees from Ast raZeneca; Dr. Paz-Ares, re- ceiving advisor y fees from Ast raZeneca, Pf izer, Bristol-Myers  Squibb, Merck Sharp & Dohme, Lilly, Roche, Merck Serono,  Novart is, and Boehringer Ingelheim; Dr. de Cast ro Carpeño, re- ceiving fees for ser ving on an advisor y board and lecture fees  from Ast raZeneca, Boehringer Ingelheim, and Merck Sharp &  Dohme, fees for ser ving on an advisor y board, lecture fees, and  t ravel support from Bristol-Myers Squibb and Roche, and fees  for ser ving on an advisor y board from Merck; Dr. Melillo, being  employed by AstraZeneca; Dr. Jiang, being employed by and hold- ing stock opt ions in AstraZeneca; Dr. Huang, being employed by  and owning stock in AstraZeneca; and Dr. Dennis, being em- ployed by and owning stock in AstraZeneca. No other potent ial  conf lict of interest relevant to this art icle was reported. Disclosure forms provided by the authors are available with  the full text of this art icle at NEJM.org. We thank a ll the pat ients and their families and caregivers for  their part icipat ion in this study; Marc Ba llas, M.D., M.P.H., for- merly of Ast raZeneca, and Louis Viviers, M.D., of Quint ilesIMS  for their cont ribut ions to the study; and Andrew Gannon, M.S.,  and Liet ta Nicolaides, Ph.D., of CircleScience, an Ashf ield Com- pany, for medica l-writ ing support.
+Appendix The authors’ full names and academic degrees are as follows: Scott J. Antonia, M.D., Ph.D., Augusto Villegas, M.D., Davey Daniel, M.D.,  David Vicente, M.D., Shuji Murakami, M.D., Rina Hui, Ph.D., Takashi Yokoi, M.D., Ph.D., Alberto Chiappori, M.D., Ki H. Lee, M.D.,  Ph.D., Maike de Wit, M.D., Ph.D., Byoung C. Cho, M.D., Ph.D., Maryam Bourhaba, M.D., Xavier Quantin, M.D., Ph.D., Takaaki Tokito,  M.D., Ph.D., Tarek Mekhail, M.D., David Planchard, M.D., Ph.D., Young-Chul Kim, M.D., Ph.D., Christos S. Karapetis, M.D., Sandrine  Hiret, M.D., Gyula Ostoros, M.D., Kaoru Kubota, M.D., Ph.D., Jhanelle E. Gray, M.D., Luis Paz-Ares, M.D., Ph.D., Javier de Cas- tro Carpeño, M.D., Ph.D., Catherine Wadsworth, B.V.Sc., Giovanni Melillo, M.D., Haiyi Jiang, M.D., Yifan Huang, Ph.D., Phillip A.  Dennis, M.D., Ph.D., and Mustafa Özgüroğlu, M.D. The authors’ affiliations are as follows: the H. Lee Moffitt Cancer Center and Research Institute, Tampa (S.J.A., A.C., J.E.G.),  Cancer Specialists of North Florida, Jacksonville (A.V.), and Florida Hospital Cancer Institute, Orlando (T.M.) — all in Florida; Ten- nessee Oncology, Chattanooga, and Sarah Cannon Research Institute, Nashville — both in Tennessee (D.D.); Hospital Universitario  Virgen Macarena, Seville (D.V.), and Hospital Universitario 12 de Octubre, Centro de Investigación Biomédica en Red de Cáncer,  Universidad Complutense and the Spanish National Cancer Research Center (L.P.-A.), and Hospital Universitario La Paz (J.C.C.),  Madrid — all in Spain; Kanagawa Cancer Center, Yokohama (S.M.), Kansai Medical University Hospital, Hirakata (T.Y.), Kurume  University Hospital, Kurume (T.T.), and Nippon Medical School Hospital, Tokyo (K.K.) — all in Japan; Westmead Hospital and the  University of Sydney, Sydney (R.H.), and Flinders University and Flinders Medical Centre, Bedford Park, SA (C.S.K.) — all in Austra- lia; Chungbuk National University Hospital, Chungbuk National University College of Medicine, Cheongju (K.H.L.), Yonsei Cancer  Center, Yonsei University College of Medicine, Seoul (B.C.C.), and Chonnam National University Hwasun Hospital, Chonnam Na- tional University Medical School, Gwangju (Y.-C.K.) — all in South Korea; Vivantes Klinikum Neukölln, Berlin (M.W.); Centre  Hospitalier Universitaire de Liège, Liège, Belgium (M.B.); Centre Hospitalier Universitaire Montpellier and Cancer Institute of Mont- pellier Val d’Aurelle, Montpellier (X.Q.), Institut Gustave Roussy, Villejuif (D.P.), and Institut de Cancérologie de l’Ouest–Site René  Gauducheau, Saint Herblain (S.H.) — all in France; National Koranyi Institute of Pulmonology, Budapest, Hungary (G.O.); Astra- Zeneca, Alderley Park, United Kingdom (C.W.); AstraZeneca, Gaithersburg, MD (G.M., H.J., Y.H., P.A.D.); and Istanbul University  Cerrahpasa School of Medicine, Istanbul, Turkey (M.Ö.).
+1928
+n engl j med 377;20 nejm.org November 16, 2017
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. Durva lum a b in Non – Sm a l l - Cel l Lung C ancer
+R e fe r enc e s 1. Aupérin A, Le Péchoux C, Rolland E,  et a l. Meta-ana lysis of concomitant versus  sequent ia l rad iochemotherapy in loca l ly  advanced non-sma l l-cel l lung cancer.   J Clin Oncol 2010; 28: 2181-90. 2 . Yoon SM, Shaikh T, Ha llman M. Ther- apeut ic management opt ions for stage III  non-sma ll cell lung cancer. World J Clin  Oncol 2017; 8: 1-20. 3. Ahn JS, Ahn YC, K im JH, et a l. Mult i- nat iona l randomized phase III t ria l with  or without consolidat ion chemotherapy  using docetaxel and cisplat in af ter con- current chemoradiat ion in inoperable  stage III non-sma ll-cell lung cancer: KC- SG-LU05-04. J Clin Oncol 2015; 33: 2660-6. 4. Et t inger S, Wood DE, A isner DL, et a l.  Non-sma ll cell lung cancer, Version  5.2017. J Nat l Compr Canc Netw 2017; 15:  504-35.  5. Vansteenkiste J, De Ruysscher D, Eber- ha rdt WE, et a l. Ea rly and loca l ly ad- vanced non-sma l l-cel l  lung  cancer  (NSCLC): ESMO Clinica l Pract ice Guide- lines for diagnosis, t reatment and follow- up. Ann Oncol 2013; 24: Suppl 6: vi89-vi98. 6. Hanna N, Neubauer M, Yiannoutsos C,  et a l. Phase III study of cisplat in, etopo- side, and concurrent chest radiat ion with  or w ithout consol idat ion docet a xel in  pat ients w ith inoperable st age III non- sma l l-cel l lung cancer: the Hoosier On- colog y Group and U.S. Oncolog y. J Clin  Oncol 2008; 26: 5755-60. 7. Wozn iak AJ, Moon J, Thomas CR Jr,  et a l. A pilot t ria l of cisplat in/etoposide/ radiotherapy followed by consolidat ion  docetaxel and the combinat ion of bevaciz- umab (NSC-704865) in pat ients with in- operable loca lly advanced stage III non- sma ll-cell lung cancer: SWOG S0533. Clin  Lung Cancer 2015; 16: 340-7. 8. Hoang T, Dah lberg SE, Sch i l ler JH, et  a l. Randomized phase III study of tho- racic radiat ion in combinat ion with pacli- t a xel and carboplat in w ith or w ithout  tha l idom ide in pat ients w ith st age III 
+non-sma l l-cel l lung cancer: the ECOG  3598 study. J Clin Oncol 2012; 30: 616-22. 9. Kelly K, Chansk y K, Gaspar LE, et a l.  Phase III t ria l of maintenance gef it inib or  placebo af ter concurrent chemoradiother- apy and docet a xel consol idat ion in inop- erable st age III non-sma l l-cel l lung can- cer: SWOG S0023. J Clin Oncol 2008; 26:  2450-6. 10. Bradley JD, Paulus R, Komak i R, et a l.  St andard-dose versus h igh-dose confor- ma l rad iotherapy w ith concurrent and  consolidat ion carboplat in plus paclitaxel  w ith or w ithout cetux imab for pat ients  with stage IIIA or IIIB non-sma ll-cell lung  cancer (RTOG 0617): a randomised, two- by-two factoria l phase 3 study. Lancet On- col 2015; 16: 187-99. 11. Vokes EE, Herndon JE II, Kelley MJ,   et al. Induction chemotherapy followed by  chemoradiotherapy compared with chemo- radiotherapy a lone for regiona lly advanced  unresectable stage III non-sma ll-cell lung  cancer: Cancer and Leukemia Group B.   J Clin Oncol 2007; 25: 1698-704. 12 . Tsujino K, Kurat a T, Yamamoto S,   et a l. Is consolidat ion chemotherapy af ter  concurrent chemo-radiotherapy benef icial  for pat ients with loca lly advanced non- sma ll-cell lung cancer? A pooled ana lysis  of the literature. J Thorac Oncol 2013; 8:  1181-9. 13. But ts C, Socinsk i MA, Mitchell PL, et  a l. Tecemot ide (L-BLP25) versus placebo  af ter chemoradiotherapy for stage III non- sma l l-cel l lung cancer (START): a ran- domised, double-blind, phase 3 trial. Lan- cet Oncol 2014; 15: 59-68. 14. Mitchell P, Thatcher N, Socinsk i MA,  et a l. Tecemot ide in unresectable stage III  non-sma ll-cell lung cancer in the phase  III START study: updated overa ll sur viva l  and biomarker ana lyses. Ann Oncol 2015;  26: 1134-42. 15. Stewart R, Morrow M, Hammond SA,  et a l. Ident if icat ion and characterizat ion  of MEDI4736, an antagonist ic ant i-PD-L1 
+monoclona l ant ibody. Cancer Immunol  Res 2015; 3: 1052-62. 16. Pardoll DM. The blockade of immune  checkpoints in cancer immunotherapy.  Nat Rev Cancer 2012; 12: 252-64. 17. Postow MA, Ca llahan MK, Wolchok  JD. Immune checkpoint blockade in can- cer therapy. J Clin Oncol 2015; 33: 1974-82. 18. Antonia SJ, Brahmer JR, Khleif S, et  a l. Phase 1/2 study of the safet y and clini- ca l act ivit y of dur va lumab in pat ients with  non-sma ll cell lung cancer (NSCLC). Pre- sented at the 41st European Societ y for  Medical Oncology Annual Meeting, Copen- hagen, October 7–11, 2016. (Poster.) 19. Ast raZeneca Imf inzi (dur va lumab):   h ighlights of prescribing information. Silver  Spring, MD:  Food and Drug Administ ra- t ion, Apr i l 2017 (ht tps:/ / www .accessdat a  .fda .gov/ drugsat fda_docs/ label/ 2017/  761069s000lbl .pdf ). 20. Zhang P, Su DM, Liang M, Fu J. Chemo- prevent ive agents induce programmed  death-1-l igand 1 (PD-L1) sur face expres- sion in breast cancer cells and promote  PD-L1-mediated T cell apoptosis. Mol Im- munol 2008; 45: 1470-6. 21. Deng L, Liang H, Burnet te B, et a l. Ir- radiat ion and ant i-PD-L1 t reatment syner- gist ica lly promote ant itumor immunit y in  mice. J Clin Invest 2014; 124: 687-95. 22 . Dovedi SJ, Adlard AL, Lipowska-Bhalla  G, et a l. Acquired resistance to fract ion- ated rad iotherapy can be overcome by  concurrent PD-L1 blockade. Cancer Res  2014; 74: 5458-68. 23. Goldst raw P, ed. Staging manua l in  thoracic oncolog y. 7th ed. Aurora, CO:   Internat iona l Associat ion for the Study of  Lung Cancer, 2010. 24. Gandara DR, Chansk y K, A lbain KS,  et a l. Consol idat ion docet a xel a f ter con- current chemorad iotherapy in st age IIIB  non-sma l l-cel l lung cancer: phase II  Southwest Oncolog y Group Study S9504.   J Clin Oncol 2003; 21: 2004-10.
+Copyright © 2017 Massachusetts Medical Society.
+ARTICLE METRICS NOW AVAILABLE Visit the article page at NEJM.org and click on the Metrics tab to view  comprehensive and cumulative article metrics compiled from multiple sources,  including Altmetrics. Learn more at www.nejm.org/page/article-metrics-faq.
+n engl j med 377;20 nejm.org November 16, 2017
+1929
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on November 1, 2019. For personal use only. No other uses without permission.  Copyright © 2017 Massachusetts Medical Society. All rights reserved. 

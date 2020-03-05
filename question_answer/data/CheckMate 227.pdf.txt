@@ -1,0 +1,674 @@
+Or iginal Article
+Nivolumab plus Ipilimumab in Lung Cancer  with a High Tumor Mutational Burden
+M.D. Hellmann, T.-E. Ciuleanu, A. Pluzanski, J.S. Lee, G.A. Otterson,  C. Audigier-Valette, E. Minenza, H. Linardou, S. Burgers, P. Salman, H. Borghaei,  S.S. Ramalingam, J. Brahmer, M. Reck, K.J. O’Byrne, W.J. Geese, G. Green,  H. Chang, J. Szustakowski, P. Bhagavatheeswaran, D. Healey, Y. Fu, F. Nathan,  and L. Paz-Ares  
+A B S T R A C T
+BACKGROUND
+Nivolumab plus ipilimumab showed promising eff icacy for the treatment of non– small-cell lung cancer (NSCLC) in a phase 1 trial, and tumor mutational burden has  emerged as a potential biomarker of benef it. In this part of an open-label, multipart,  phase 3 trial, we examined progression-free survival with nivolumab plus ipilimumab  versus chemotherapy among patients with a high tumor mutational burden (≥10 muta- tions per megabase).
+METHODS
+We enrolled patients with stage IV or recurrent NSCLC that was not previously treated  with chemotherapy. Those with a level of tumor programmed death ligand 1 (PD-L1)  expression of at least 1% were randomly assigned, in a 1:1:1 ratio, to receive nivolum- ab plus ipilimumab, nivolumab monotherapy, or chemotherapy; those with a tumor  PD-L1 expression level of less than 1% were randomly assigned, in a 1:1:1 ratio, to  receive nivolumab plus ipilimumab, nivolumab plus chemotherapy, or chemotherapy.  Tumor mutational burden was determined by the FoundationOne CDx assay.
+RESULTS
+Progression-free survival among patients with a high tumor mutational burden was  signif icantly longer with nivolumab plus ipilimumab than with chemotherapy. The  1-year progression-free survival rate was 42.6% with nivolumab plus ipilimumab versus  13.2% with chemotherapy, and the median progression-free survival was 7.2 months  (95% conf idence interval [CI], 5.5 to 13.2) versus 5.5 months (95% CI, 4.4 to 5.8) (hazard  ratio for disease progression or death, 0.58; 97.5% CI, 0.41 to 0.81; P<0.001). The objective  response rate was 45.3% with nivolumab plus ipilimumab and 26.9% with chemotherapy.  The benef it of nivolumab plus ipilimumab over chemotherapy was broadly consistent  within subgroups, including patients with a PD-L1 expression level of at least 1% and  those with a level of less than 1%. The rate of grade 3 or 4 treatment-related adverse  events was 31.2% with nivolumab plus ipilimumab and 36.1% with chemotherapy.
+CONCLUSIONS
+Progression-free survival was signif icantly longer with f irst-line nivolumab plus ipilimu- mab than with chemotherapy among patients with NSCLC and a high tumor muta- tional burden, irrespective of PD-L1 expression level. The results validate the benef it  of nivolumab plus ipilimumab in NSCLC and the role of tumor mutational burden as  a biomarker for patient selection. (Funded by Bristol-Myers Squibb and Ono Pharma- ceutical; CheckMate 227 ClinicalTrials.gov number, NCT02477826.)
+The authors’ full names, academic de - grees, and af f iliations are listed in the  Appendix. Address reprint requests to  Dr. Hellmann at the Thoracic Oncolog y  Service, Division of Solid Tumor Oncology,  Depar tment of Medicine, Memorial Sloan  Kettering Cancer Center, 885 2nd Ave., New  York, NY 10017, or at  hellmanm@  mskcc .  org; or to Dr. Paz-Ares at the Medical On- cology Department, Hospital Universitario  12 de Octubre, Av. de Córdoba SN, 280141  Madrid, Spain, or at  lpazaresr@  seom . org.
+A list of investigators in par t 1 of the  CheckMate 227 trial is provided in the  Supplementar y Appendix , available at  NEJM.org.
+This ar ticle was published on April 16,  2018, at NEJM.org.
+N Engl J Med 2018;378:2093 -104. DOI: 10.1056/NEJMoa1801946
+Copyright © 2018 Massachusetts Medical Society.
+n engl j med 378;22 nejm.org May 31, 2018
+2093
+The new england journal of medicineThe New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+Standard-of-care therapy for previ- ously untreated advanced non–small-cell  lung cancer (NSCLC) without treatable driver  mutat ions includes plat inum-based chemother- apy1,2 and pembrolizumab for pat ients with a  high level (≥50%) of tumor programmed death  ligand 1 (PD-L1) expression.3 There remains a  need for more ef fect ive f irst-line treatments for  the majorit y of pat ients with advanced NSCLC  and for predict ive biomarkers to ident if y pa- t ients who may benef it from new therapies.3,4 Nivolumab, an ant i–programmed death 1  (PD-1) ant ibody, and ipilimumab, an ant i–cyto- toxic T-lymphocyte ant igen 4 (CTLA-4) ant ibody,  are immune checkpoint inhibitors with comple- mentar y mechanisms of act ion. Results of a  phase 1 trial evaluat ing nivolumab plus ipilimu- mab as f irst-line treatment for NSCLC showed  mainly expected adverse events and suggested  greater ef f icacy of the combinat ion as compared  with nivolumab monotherapy.5 Tumor mutational burden is an emerging, in- dependent biomarker of outcomes with immuno- therapy in mult iple tumor t ypes, including lung  cancer.6-16 Analyses from the CheckMate 568 trial,  a phase 2 trial of nivolumab plus ipilimumab in  NSCLC, ident if ied a tumor mutat ional burden of  at least 10 mutat ions per megabase as an ef fec- t ive cutof f for select ing pat ients most likely to  have a response, irrespect ive of tumor PD-L1  expression level.17 CheckMate 227 is an open-label phase 3 trial  evaluating multiple hypotheses regarding the ef- f icacy of nivolumab or nivolumab-based regimens  as f irst-line treatment in biomarker-selected pop- ulat ions of pat ients with advanced NSCLC. On  the basis of the emerging data related to tumor  mutat iona l burden, the CheckMate 227 t ria l  protocol (ava ilable with the full text of this  ar t icle at NEJM.org) was amended to add a  coprimar y end point eva luat ing progression- free sur viva l with nivolumab plus ipilimumab  versus chemotherapy among pat ients with a tu- mor mutat ional burden of at least 10 mutat ions  per megabase, irrespect ive of PD-L1 expression  level. Here we report the f indings for this copri- mar y end point.
+M e t h od s
+Patients
+Adult patients with histologically conf irmed squa- mous or nonsquamous stage IV or recurrent 
+NSCLC and an Eastern Cooperat ive Oncolog y  Group (ECOG) performance-status score of 0 or 1  (on a scale of 0 to 5, with higher scores indicat- ing greater disability)18 who had received no previ- ous systemic anticancer therapy as primary ther- apy for advanced or metastat ic disease were  eligible. All the pat ients underwent imaging to  screen for brain metastases. Pat ients with known  EGFR mutat ions or ALK translocat ions sensit ive  to targeted therapy, an autoimmune disease, or  untreated central nervous system metastases were  excluded. Pat ients with cent ra l ner vous system  metastases were eligible if they were adequately  treated and neurologic f indings had returned to  baseline (except for residual signs or symptoms  related to the central ner vous system treatment)  for at least 2 weeks before randomizat ion. For  addit iona l inclusion and exclusion criteria, see  the Methods sect ion in the Supplementar y Ap- pendix, available at NEJM.org.
+Trial Design and Treatment
+The CheckMate 227 trial is a mult ipart phase 3  t ria l designed to eva luate dif ferent nivolumab- based regimens versus chemotherapy in dist inct  pat ient populat ions. This art icle focuses on part  1 of the trial. We enrolled pat ients with a tumor  PD-L1 expression level of at least 1% and those  with a level of less than 1% contemporaneously at  the same centers (Fig. 1). Patients with a PD-L1  expression level of at least 1% were randomly  assigned (in a 1:1:1 rat io), with st rat if icat ion  according to tumor histologic t ype (squamous  vs. nonsquamous), to receive nivolumab (3 mg  per kilogram of body weight ever y 2 weeks) plus  ipilimumab (1 mg per kilogram ever y 6 weeks),  plat inum doublet chemotherapy based on tumor  histologic type every 3 weeks for up to four cycles,  or nivolumab (240 mg ever y 2 weeks). Pat ients  with a PD-L1 expression level of less than 1%  were randomly assigned (in a 1:1:1 rat io), with  strat if icat ion according to tumor histologic t ype,  to receive nivolumab (3 mg per k ilogram ever y  2 weeks) plus ipilimumab (1 mg per kilogram  ever y 6 weeks), plat inum doublet chemotherapy  based on tumor histologic t ype ever y 3 weeks for  up to four cycles, or nivolumab (360 mg) plus  plat inum doublet chemotherapy based on tumor  histologic t ype ever y 3 weeks for up to four  cycles. Pat ients with nonsquamous NSCLC who  had stable disease or a response af ter four cy- cles of chemotherapy or chemotherapy plus  nivolumab could cont inue with ma intenance 
+2094
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. N i volum a b plus Ipil imum a b in Lung C ancer
+Key eligibility criteria Stage IV or recurrent NSCLC No previous systemic therapy No known sensitizing EGFR or ALK mutations ECOG performance-status score of 0 or 1
+Stratification according to tumor histologic type (squamous vs. nonsquamous)
+1189 Patients had PD-L1 expression of ≥ 1% and  underwent randomization (1:1:1 ratio)
+550 Patients had PD-L1 expression of < 1% and  underwent randomization (1:1:1 ratio)
+396 Were assigned to nivolumab, 3 mg/kg every 2 wk, plus ipilimumab, 1 mg/kg every 6 wk
+397 Were assigned to chemotherapy based on tumor histologic type
+396 Were assigned to nivolumab, 240 mg every 2 wk
+187 Were assigned to nivolumab, 3 mg/kg every 2 wk, plus ipilimumab, 1 mg/kg every 6 wk
+186 Were assigned to chemotherapy based on tumor histologic type
+177 Were assigned to nivolumab, 360 mg every 3 wk, plus chemotherapy based on tumor histologic type
+139 In the nivolumab- plus-ipilimumab group were included in the TMB coprimary analysis
+160 In the chemotherapy group were included in the TMB coprimary analysis
+CoprimaryEndPointsforNivolumab plusIpilimumabvs.Chemotherapy:
+Progression-free survival in populations selected on the basis of TMB Overall survival in populations selected on the basis of PD-L1 expression
+Figure 1. Trial Design. Chemotherapy for patients with nonsquamous non–small-cell lung cancer (NSCLC) consisted of pemetrexed (500 mg per square meter  of body-sur face area) plus cisplatin (75 mg per square meter) or carboplatin (area under the concentration-time cur ve [AUC ], 5 or 6), ev- er y 3 weeks for up to four cycles, with optional maintenance therapy with pemetrexed (500 mg per square meter) af ter chemotherapy or  with nivolumab (360 mg ever y 3 weeks) plus pemetrexed (500 mg per square meter) af ter nivolumab plus chemotherapy. Chemotherapy  for patients with squamous NSCLC consisted of gemcitabine (1000 or 1250 mg per square meter) plus cisplatin (75 mg per square me - ter), or gemcitabine (1000 mg per square meter) plus carboplatin (AUC , 5), ever y 3 weeks for up to four cycles. The tumor mutational  burden (TMB) coprimar y analysis was conduc ted in the subgroup of patients assigned to nivolumab plus ipilimumab or chemotherapy  who had a TMB of at least 10 mutations per megabase. Given the recommendation of the data and safet y monitoring commit tee to con- tinue the trial for overall sur vival, analysis of the coprimar y end point of overall sur vival among patients selec ted on the basis of the pro - grammed death ligand 1 (PD -L1) expression level was not per formed for the current database lock. Eastern Cooperative Oncolog y  Group (ECOG) per formance -status scores range from 0 to 5, with higher scores indicating greater disabilit y.
+pemet rexed or pemetrexed plus nivolumab. All  treatments continued until disease progression,  unacceptable adverse effects, or completion per  protocol (≤2 years for immunotherapy). Cross- over between t reatment groups within the trial  was not permitted.
+End Points and Assessments
+Part 1 of the CheckMate 227 trial had two copri- mar y end points. One coprimar y end point was  progression-free sur viva l (assessed by blinded  independent central review) with nivolumab plus  ipilimumab versus chemotherapy in a pat ient 
+n engl j med 378;22 nejm.org May 31, 2018
+2095
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved.   T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+populat ion selected on the basis of tumor muta- t iona l burden. On the basis of previous f ind- ings,17 a prespecif ied cutof f for tumor muta- t iona l burden of at least 10 mutat ions per  megabase was selected for preplanned analysis  of the coprimar y end point. The other coprimar y  end point was overa ll sur viva l with nivolumab  plus ipilimumab versus chemotherapy in a patient  populat ion selected on the basis of the PD-L1  expression level. Secondar y end points in pat ient populat ions  selected on the basis of tumor mutational burden  included progression-free survival with nivolumab  versus chemotherapy among pat ients with a tu- mor mutat ional burden of at least 13 mutat ions  per megabase and a PD-L1 expression level of at  least 1% and overa ll sur viva l with nivolumab  plus ipilimumab versus platinum doublet chemo- therapy among pat ients with a tumor mutat ional  burden of at least 10 mutat ions per megabase  (Table S1 in the Supplementary Appendix). The  cutof f for tumor mutat ional burden of at least 13  mutat ions per megabase for the secondar y end  point of progression-free survival with nivolumab  versus chemotherapy was based on analyses from  the CheckMate 026 t ria l, including a bridging  study convert ing mutat ion data obta ined by  whole-exome sequencing to mutat ion data ob- tained by the Foundat ionOne CDx assay.13,19 Re- sponse rate, durat ion of response, and safet y  were explorator y end points. Adverse events were  graded according to the Nat ional Cancer Inst i- tute Common Terminolog y Criteria for Adverse  Events, version 4.0. Tumor PD-L1 expression  level was determined as described previously.20 Tumor mutat iona l burden, def ined as the  number of somat ic, coding base subst itut ions  and short insert ions and delet ions (indels) per  megabase of genome examined, was determined  by the Foundat ionOne CDx assay.21-23 The muta- t ion count after applicat ion of various f ilters was  divided by the region counted (0.8 Mb) to yield  mutat ions per megabase (for addit ional details,  see the Methods sect ion in the Supplementar y  Appendix).
+Trial Oversight
+The trial was designed and data were analyzed  joint ly by the sponsor (Bristol-Myers Squibb) and  a steering committee, with the part icipat ion of  individual authors. All the invest igators collect- ed data. The trial protocol was approved by the 
+inst itut iona l review board or independent eth- ics commit tee at each center. The protocol was  amended on the basis of external evidence to  include tumor mutat ional burden–based ef f icacy  ana lyses on October 5, 2017, af ter enrollment  had been completed but before the database lock  and breaking of the coded treatments. The trial  was conducted in accordance with the Interna- t ional Conference on Harmonisat ion Good Clin- ica l Pract ice guidelines and the Declarat ion of  Helsink i. An independent data and safet y mon- itoring commit tee provided oversight of safet y  and ef f icacy. This init ial report is based on a f inal analysis  of progression-free survival data from the patient  populat ion selected on the basis of tumor muta- t ional burden (database lock, Januar y 24, 2018).  On the basis of an interim analysis for overall  sur viva l, the data and safet y monitoring com- mit tee recommended that the t ria l cont inue.  Therefore, overa ll sur viva l data, including re- sults for the overa ll sur viva l coprimar y end  point, are not included in this repor t. A ll the  authors at test that the t ria l was conducted in  accordance with the protocol and vouch for the  accuracy and completeness of the data and analy- ses. The manuscript was prepared with profes- siona l medica l-writ ing assistance funded by the  sponsor.
+S tatis tic al Analysis
+For the coprimar y end point of progression-free  sur vival with nivolumab plus ipilimumab versus  chemotherapy among pat ients with a tumor mu- tat iona l burden of at least 10 mutat ions per  megabase, we est imated that a sample of at least  265 pat ients with approx imately 221 events of  death or disease progression would provide 80%  power for the t ria l to detect a hazard rat io of  0.66 favoring nivolumab plus ipilimumab over  chemotherapy, with a two-sided t ype I error of  0.025, by means of a log-rank test. Hazard rat ios  for disease progression or death with associated  two-sided conf idence inter va ls were est imated  with the use of an unstrat if ied Cox proport ional- hazards model, with treatment group as a single  covariate. A mult ivariate analysis was prespeci- f ied involving pat ients with a tumor mutat ional  burden of at least 10 mutat ions per megabase to  assess the inf luence of known prognost ic base- line factors on progression-free sur viva l. Est i- mates of hazard rat ios with corresponding two-
+2096
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. N i volum a b plus Ipil imum a b in Lung C ancer
+Table 1. Baseline Characteristics of Patients with a High Tumor Mutational  Burden.*
+Nivolumab plus  Ipilimumab  (N = 139)
+Characteristic Age — yr Median Range Age category — no. (%) <65 yr ≥65 to <75 yr ≥75 yr Sex — no. (%) Male Female Region — no. (%) North America Europe Asia Rest of world† ECOG performance-status score — no. (%)‡ 0 1 ≥2 Smoking status — no. (%) Current or former smoker Never smoked Unknown Tumor histologic type — no. (%) Squamous Nonsquamous PD-L1 expression level — no. (%) <1% ≥1%
+64 41–87
+73 (52.5) 53 (38.1) 13 (9.4)
+98 (70.5) 41 (29.5)
+14 (10.1) 77 (55.4) 21 (15.1) 27 (19.4)
+56 (40.3) 82 (59.0) 1 (0.7)
+130 (93.5) 7 (5.0) 2 (1.4)
+45 (32.4) 94 (67.6)
+38 (27.3) 101 (72.7)
+Chemotherapy  (N = 160)
+64 29–80
+83 (51.9) 63 (39.4) 14 (8.8)
+106 (66.2) 54 (33.8)
+16 (10.0) 87 (54.4) 32 (20.0) 25 (15.6)
+49 (30.6) 110 (68.8) 1 (0.6)
+146 (91.2) 11 (6.9) 3 (1.9)
+55 (34.4) 105 (65.6)
+48 (30.0) 112 (70.0)
+sided 97.5% conf idence inter vals were computed  for primar y and secondar y comparisons speci- f ied in the hierarchica l hypothesis test ing in- volving pat ients selected on the basis of tumor  mutat ional burden (Table S1 in the Supplemen- tary Appendix); for all other estimates, two-sided  95% conf idence inter va ls were computed that  should not be used to infer dif ferences in treat- ment effects. Survival curves were estimated with  the use of Kaplan–Meier methods.
+R e s u l t s
+Patients and Treatment
+Of 2877 pat ients enrolled in part 1 of the trial  from August 2015 through November 2016, 1739  underwent randomizat ion. Of the 1138 pat ients  who did not undergo randomizat ion, 909 no  longer met the trial criteria (common reasons  included the ident if icat ion of EGFR or ALK muta- t ions, a decline in performance status, untreated  brain metastases, and missing data on PD-L1  expression level), 88 withdrew consent, 40 died,  33 had adverse events (unrelated to a trial drug),  6 were lost to follow-up, and 62 were excluded  for other reasons (Fig. S1 in the Supplementar y  Appendix). Of the 1739 randomly assigned pat ients, 1649  (94.8%) had tumor samples available to attempt  assessment of tumor mutat ional burden, and  1004 (57.7%) had valid data for tumor muta- t ional burden–based ef f icacy analyses (Table S2  in the Supplementar y Appendix). Baseline char- acterist ics of all randomly assigned pat ients and  pat ients whose tumor mutat ional burden could  be evaluated were similar and balanced between  treatment groups (Table S3 in the Supplemen- tar y Appendix). Of the 1004 pat ients whose tumor mutat ional  burden could be evaluated across all treatment  groups, 444 (44.2%) had at least 10 mutat ions  per megabase, including 139 pat ients assigned  to nivolumab plus ipilimumab and 160 pat ients  assigned to chemotherapy. Baseline character- ist ics were well ba lanced between the two  t reatment groups, including the dist ribut ion of  PD-L1 expression levels (Table 1). In the popu- lat ion of pat ients whose tumor mutat ional bur- den could be eva luated, there was no correla- t ion between tumor mutat iona l burden and  PD-L1 expression level (Fig. S2 in the Supple- mentar y Appendix).
+*  A high tumor mutational burden was defined as at least 10 mutations per  megabase. No significant differences between treatment groups were noted  for the baseline characteristics. Percentages may not total 100 because of  rounding. PD-L1 denotes programmed death ligand 1. †  Included are Argentina, Australia, Brazil, Chile, Colombia, Israel, Lebanon,  Mexico, Peru, Turkey, and South Africa. ‡  Eastern Cooperative Oncology Group (ECOG) performance-status scores range  from 0 to 5, with higher scores indicating greater disability. Two patients (one  in each group) with a score of 1 at screening had an increase in the score be- tween screening and the baseline evaluation at the time of the first dose.
+All Randomly Assigned Patients
+At a minimum follow-up of 11.2 months, 17.7%  of the pat ients treated with nivolumab plus ipi- limumab and 5.6% of those treated with chemo-
+n engl j med 378;22 nejm.org May 31, 2018
+2097
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+therapy cont inued to receive treatment (Table S4  in the Supplementar y Appendix). The median  durat ion of therapy was 4.2 months (range, 0.03  to 24.0+ [plus signs indicate ongoing status at  the t ime of database lock]) with nivolumab plus  ipilimumab and 2.6 months (range, 0.03 to 22.1+)  with chemotherapy. The median number of doses  of nivolumab (ever y 2 weeks) and ipilimumab  (ever y 6 weeks) received as combinat ion therapy  was 9 (range, 1 to 53) and 3 (range, 1 to 18),  respect ively.
+Patients with a High Tumor Mutational Burden
+Among pat ients with a high tumor mutat iona l  burden (≥10 mutat ions per megabase), 24.4%  t reated with nivolumab plus ipilimumab and  3.1% treated with chemotherapy were continuing  treatment at the t ime of database lock; the most  common reasons for discont inuing t reatment  were disease progression (37.8% and 47.2%, re- spect ively), adverse ef fects of trial drugs (25.9%  and 8.8%, respect ively), and complet ion of re- quired t reatment among pat ients in the chemo- therapy group (26.4%) (Table S4 in the Supple- mentar y Appendix). Of pat ients assigned to  chemotherapy, 30.0% received subsequent im- munotherapy (Table S5 in the Supplementar y  Appendix).
+Effic acy All Randomly Assigned Patients
+Among all randomly assigned pat ients (irrespec- tive of tumor mutational burden or PD-L1 expres- sion level), the 1-year progression-free sur vival  rate was higher with nivolumab plus ipilimumab  than with chemotherapy (30.9% vs. 17.0%; haz- ard rat io for disease progression or death, 0.83;  95% conf idence inter val [CI], 0.72 to 0.96). The  median progression-free sur vival was 4.9 months  (95% CI, 4.1 to 5.6) with nivolumab plus ipilimu- mab and 5.5 months (95% CI, 4.6 to 5.6) with  chemotherapy. Similarly, longer progression-free  sur viva l with nivolumab plus ipilimumab than  with chemotherapy was seen among pat ients  whose tumor mutat ional burden could be evalu- ated (hazard rat io for disease progression or  death, 0.82; 95% CI, 0.68 to 0.99), with 1-year  progression-free sur vival rates of 32.1% versus  15.2%; the median progression-free sur vival was  4.9 months (95% CI, 3.7 to 5.7) and 5.5 months  (95% CI, 4.6 to 5.6), respect ively (Fig. S3 in the  Supplementar y Appendix).
+Patients with a High Tumor Mutational Burden
+Analysis of the coprimar y end point in pat ients  with a high tumor mutational burden (≥10 muta- t ions per megabase) showed signif icant ly longer  progression-free sur viva l with nivolumab plus  ipilimumab than with chemotherapy; the 1-year  progression-free sur vival rate was 42.6% versus  13.2%, and the median progression-free sur vival  was 7.2 months (95% CI, 5.5 to 13.2) versus 5.5  months (95% CI, 4.4 to 5.8) (hazard rat io for  disease progression or death, 0.58; 97.5% CI,  0.41 to 0.81; P<0.001) (Fig. 2A). In a prespecif ied  mult ivariate analysis of progression-free sur vival  among pat ients with a high tumor mutat iona l  burden, the t reatment ef fect of nivolumab plus  ipilimumab versus chemotherapy with adjustment  for baseline PD-L1 expression level (≥1% vs. <1%),  sex, tumor histologic t ype (squamous vs. non- squamous), and ECOG performance-status score  (0 vs. ≥1) was consistent with that in the pri- mar y progression-free sur vival analysis (hazard  rat io for disease progression or death, 0.57;  97.5% CI, 0.40 to 0.80; P<0.001 by mult ivariate  Cox model). The response rate was 45.3% with  nivolumab plus ipilimumab and 26.9% with che- motherapy (Table 2). The percentage of pat ients  with a response who had an ongoing response  after 1 year was 68% with nivolumab plus ipilim- umab and 25% with chemotherapy (Fig. 2B).
+Patients with a Low Tumor Mutational Burden
+Among pat ients with a low tumor mutat iona l  burden (<10 mutat ions per megabase), the me- dian progression-free sur viva l was 3.2 months  (95% CI, 2.7 to 4.3) with nivolumab plus ipilimu- mab and 5.5 months (95% CI, 4.3 to 5.6) with  chemotherapy. The between-group difference was  not signif icant (hazard rat io for disease progres- sion or death, 1.07; 95% CI, 0.84 to 1.35) (Fig. S4  in the Supplementary Appendix).
+Selected Subgroups of Patients with a High Tumor  Mutational Burden
+Subgroup ana lysis among pat ients with a high  tumor mutat iona l burden according to PD-L1  status showed that progression-free sur vival was  longer with nivolumab plus ipilimumab than  with chemotherapy among pat ients with a PD-L1  expression level of at least 1% and those with a  level of less than 1% (Fig. 3A). Longer progres- sion-free sur vival with nivolumab plus ipilimu- mab than with chemotherapy was seen among 
+2098
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. n engl j med 378;22 nejm.org May 31, 2018
+2099
+N i volum a b plus Ipil imum a b in Lung C ancer
+pat ients with a squamous tumor histologic t ype  and those with a nonsquamous t ype (Fig. 3B).  Across most other subgroups of pat ients with a  high tumor mutat ional burden, progression-free  sur vival was longer with nivolumab plus ipilimu- mab than with chemotherapy (Fig. 4).
+Nivolumab Monotherapy
+A secondar y end point of the trial was the ef f i- cacy of nivolumab (71 pat ients) versus chemo- therapy (79 pat ients) among pat ients with a tu- mor mutat ional burden of at least 13 mutat ions  per megabase and a PD-L1 expression level of at  least 1% (pat ients with a PD-L1 expression level  of <1% were not eligible to receive nivolumab).  There was no signif icant dif ference in progres- sion-free sur viva l between the two t reatment  groups in this pat ient populat ion; the median  progression-free sur vival was 4.2 months (95%  CI, 2.7 to 8.3) with nivolumab and 5.6 months  (95% CI, 4.5 to 7.0) with chemotherapy (hazard  rat io for disease progression or death, 0.95;  97.5% CI, 0.61 to 1.48; P = 0.78) (Fig. S5 in the  Supplementary Appendix). Among pat ients with  a tumor mutat ional burden of at least 10 muta- t ions per megabase and a PD-L1 expression level  of at least 1%, the median progression-free sur- vival was 7.1 months (95% CI, 5.5 to 13.5) with  nivolumab plus ipilimumab versus 4.2 months  (95% CI, 2.6 to 8.3) with nivolumab monotherapy  (hazard rat io for disease progression or death,  0.75; 95% CI, 0.53 to 1.07) (Fig. S6 in the Supple- mentary Appendix).
+Safet y
+Safety summaries for nivolumab plus ipilimumab,  nivolumab monotherapy, and chemotherapy in all  t reated pat ients are shown in Table 3. The rates  of adverse events that were considered by the  invest igator to be t reatment-related, including  events of grade 3 or 4, were similar in the  nivolumab-plus-ipilimumab group and the chemo- therapy group. Treatment-related adverse events  leading to discont inuat ion were more common  with nivolumab plus ipilimumab than with che- motherapy (17.4% vs. 8.9%); however, pat ients  cont inued to receive nivolumab plus ipilimumab  longer than chemotherapy. The rate of treatment- related adverse events leading to discont inuat ion  of nivolumab monotherapy (11.5%) was consis- tent with previous obser vat ions.17 The most  common treatment-related select adverse events 
+(def ined as adverse events of potent ial immuno- logic causes) with nivolumab plus ipilimumab  and nivolumab monotherapy were skin react ions  (33.9% and 20.7%, respect ively); the most com- mon grade 3 or 4 t reatment-related select ad- verse events were hepat ic events (8.0% and 3.3%,  respect ively) (Fig. S7 in the Supplementar y Ap- pendix). Overall, treatment-related deaths occurred in 
+Figure 2 . Ef f icacy of Nivolumab plus Ipilimumab versus Chemotherapy   in Patients with a High Tumor Mutational Burden. A high tumor mutational burden was def ined as at least 10 mutations per  megabase. In Panel A , the 95% conf idence inter val for the hazard ratio for  disease progression or death was 0.43 to 0.77. In both panels, the circles  (for nivolumab plus ipilimumab) and triangles (for chemotherapy) indicate  censored data. NR denotes not reached.
+P
+a
+i t
+e
+n
+t
+s
+
+w
+t i
+P h
+
+r
+g o
+r
+s s e
+i
+n o
+r f -
+e e
+u S
+r
+v
+i
+a v
+(  l
+%
+)
+100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+24
+Months
+B DurationofResponse
+A Progression-freeSurvival
+Hazard ratio for disease progression or death, 0.58 (97.5% CI, 0.41–0.81) P<0.001
+No.atRisk
+Nivolumab + ipilimumab Chemotherapy
+139
+160
+85
+103
+66
+51
+36
+7
+9
+55
+17
+24
+6
+3
+0
+18
+11
+4
+0
+0
+Nivolumab + ipilimumab
+Chemotherapy
+4 3
+1 3
+P
+a
+i t
+e
+n
+t
+s
+
+H
+v a
+i
+a g n
+
+
+R
+s e
+n o p
+e s
+( 
+%
+) 100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+Months
+No.atRisk
+Nivolumab + ipilimumab Chemotherapy
+63
+43
+56
+32
+46
+15
+22
+2
+9
+32
+5
+10
+2
+0
+0
+18
+5
+1
+Nivolumab +Ipilimumab Chemotherapy
+NR (12.2–NR) 5.4 (4.2–6.9)
+Chemotherapy
+Nivolumab +ipilimumab
+6 8
+2 5
+MedianDuration (95%CI) mo
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+Table 2. Tumor Response in Patients with a High Tumor Mutational Burden.*
+Variable
+Objective response†
+No. of patients
+% of patients (95% CI)
+Nivolumab plus  Ipilimumab  (N = 139)
+Chemotherapy  (N = 160)
+63
+43
+45.3 (36.9–54.0)
+26.9 (20.2–34.4)
+Difference vs. chemotherapy — percentage points (95% CI)
+18.4 (7.6–28.8)
+—
+Best overall response — no. (%)
+Complete response
+Partial response
+Stable disease
+Progressive disease
+Could not be determined
+Time to objective response — mo‡§
+Median
+Range
+Duration of objective response — mo‡¶
+Median
+Range
+Patients with a response who had ongoing responses at 1 yr   — % (95% CI)
+5 (3.6)
+58 (41.7)
+37 (26.6)
+22 (15.8)
+17 (12.2)
+2.7
+1.2–9.5
+NR
+2.1–20.5+
+68 (54–78)
+1 (0.6)
+42 (26.2)
+88 (55.0)
+19 (11.9)
+10 (6.2)
+1.5
+1.2–6.9
+5.4
+2.6–18.1+
+25 (12–40)
+*  A high tumor mutational burden was defined as at least 10 mutations per megabase. Data are based on a January 24,  2018, database lock. Plus signs indicate ongoing response at the time of database lock. NR denotes not reached. †  Objective response was assessed according to the Response Evaluation Criteria in Solid Tumors, version 1.1,24 by  blinded independent central review. The 95% confidence interval is based on the Clopper–Pearson method. The un- weighted difference in objective response rates between the treatment groups was determined by the method of  Newcombe. ‡  The analysis was performed with data from all the patients who had a response (63 patients in the nivolumab-plus-  ipilimumab group and 43 in the chemotherapy group). §  The time to response was defined as the time from randomization to the date of first documented complete or partial  response. ¶  Results were calculated with the use of the Kaplan–Meier method. The duration of response was defined as the time  between the date of first response and the date of first documented event of progression, death, or last tumor assess- ment that was evaluated before subsequent therapy (data-censoring date).
+seven pat ients (1.2%) t reated with nivolumab  plus ipilimumab (three died from pneumonit is  and one each died from myocardit is, acute tubu- lar necrosis, circulator y collapse, and cardiac  tamponade), six pat ients (1.1%) t reated with  chemotherapy (two died from sepsis and one  each died from mult iple brain infarct ions, inter- st it ia l lung disease, thrombocy topenia, and fe- brile neutropenia with sepsis), and two pat ients  (0.5%) t reated with nivolumab (one each died  from pneumonit is and neutropenia with sepsis).  (For addit iona l deta ils on safet y, see Tables S6  through S10 in the Supplementar y Appendix.)  Rates of treatment-related adverse events with  nivolumab plus ipilimumab were slight ly higher 
+among pat ients with a tumor mutat ional burden  of at least 10 mutat ions per megabase than  among a ll t reated pat ients (Table S10 in the  Supplementar y Appendix).
+D i s c u s s i on
+The results of this t ria l show that in pat ients  with advanced NSCLC and a tumor mutat iona l  burden of at least 10 mutat ions per megabase,  f irst-line treatment with nivolumab plus ipilimu- mab was associated with longer progression-free  sur vival than chemotherapy. The benef it of com- binat ion immunotherapy was durable, with 43%  of pat ients being progression-free at 1 year (vs. 
+2100
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. n engl j med 378;22 nejm.org May 31, 2018
+2101
+N i volum a b plus Ipil imum a b in Lung C ancer
+13% with chemotherapy) and 68% of those with  a response having ongoing responses at 1 year  (vs. 25% with chemotherapy). Among pat ients  with a high tumor mutat iona l burden, we ob- ser ved a benef it of nivolumab plus ipilimumab  in pat ients with a tumor PD-L1 expression level  of at least 1% and those with a level of less than  1%, as well as in pat ients with a squamous tu- mor histologic t ype and those with a nonsqua- mous t ype, and the benef it was consistent across  the majority of other subgroups. Although longer 
+progression-free sur vival was seen with nivolu- mab plus ipilimumab than with chemotherapy  among all randomly assigned pat ients, a tumor  mutat ional burden of at least 10 mutat ions per  megabase was an ef fect ive biomarker. The bene- f it with nivolumab plus ipilimumab was part icu- larly enhanced in pat ients with a high tumor  mutat iona l burden, whereas progression-free  sur viva l was similar in the nivolumab-plus-  ipilimumab and chemotherapy groups among  pat ients with a low tumor mutat iona l burden 
+Figure 3. Progression-free Survival among Patients with a High Tumor Mutational Burden According to Tumor PD -L1 Expression   and Histologic Type. A high tumor mutational burden was def ined as at least 10 mutations per megabase. The circles (for nivolumab plus ipilimumab)   and triangles (for chemotherapy) indicate censored data.
+P
+a
+i t
+e
+n
+t
+s
+
+w
+t i
+P h
+
+r
+g o
+r
+s s e
+i
+n o
+r f -
+e e
+u S
+r
+v
+i
+a v
+(  l
+%
+)
+100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+24
+Months
+B TumorHistologicType
+A TumorPD-L1Expression
+Hazard ratio for disease progression or death,  0.62 (95% CI, 0.44–0.88)
+No.atRisk
+Nivolumab + ipilimumab Chemotherapy
+101
+112
+65
+73
+50
+35
+26
+6
+9
+40
+13
+16
+5
+2
+0
+18
+7
+3
+0
+0
+Nivolumab + ipilimumab
+Chemotherapy
+4 2
+1 6
+100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+24
+Months
+PD-L1Expressionof≥1%
+PD-L1Expressionof<1%
+Hazard ratio for disease progression or death,  0.48 (95% CI, 0.27–0.85)
+38
+48
+20
+30
+16
+16
+10
+1
+9
+15
+4
+8
+1
+1
+0
+18
+4
+1
+0
+0
+Nivolumab + ipilimumab
+Chemotherapy
+4 5
+8
+P
+a
+i t
+e
+n
+t
+s
+
+w
+t i
+P h
+
+r
+g o
+r
+s s e
+i
+n o
+r f -
+e e
+u S
+r
+v
+i
+a v
+(  l
+%
+)
+100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+24
+Months
+Hazard ratio for disease progression or death, 0.63 (95% CI, 0.39–1.04)
+No.atRisk
+Nivolumab + ipilimumab Chemotherapy
+44
+56
+26
+33
+17
+13
+9
+1
+9
+14
+2
+6
+0
+2
+0
+18
+3
+0
+0
+0
+Nivolumab + ipilimumab
+Chemotherapy
+3 6
+7
+100 90 80 70 60 50 40 30 20 10 0
+0
+3
+6
+12
+15
+21
+24
+Months
+Squamous
+Nonsquamous
+Hazard ratio for disease progression or death, 0.55 (95% CI, 0.38–0.80)
+95
+104
+59
+70
+49
+38
+27
+6
+9
+41
+15
+18
+6
+1
+0
+18
+8
+4
+0
+0
+Nivolumab + ipilimumab
+Chemotherapy
+4 6
+1 7
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+Subgroup
+Nivolumabplus Ipilimumab
+Chemotherapy
+UnstratifiedHazardRatioforDisease ProgressionorDeath(95%CI)
+Overall Age <65 yr ≥65 yr ≥75 yr Sex Male Female Region North America Europe Asia Rest of world ECOG performance-status score 0 1 Tumor histologic type Squamous Nonsquamous Current or former smoker PD-L1 expression level <1% ≥1%
+no. of patients evaluated 139 160
+73 66 13
+98 41
+14 77 21 27
+56 82
+44 95 130
+38 101
+83 77 14
+106 54
+16 87 32 25
+49 110
+56 104 146
+48 112
+0.58 (0.43−0.77)
+0.51 (0.34−0.77) 0.62 (0.40−0.97) 0.42 (0.14−1.30)
+0.52 (0.36−0.74) 0.70 (0.41−1.20)
+0.46 (0.17−1.30) 0.53 (0.36−0.79) 0.34 (0.15−0.75) 1.20 (0.61−2.36)
+0.62 (0.38−1.02) 0.55 (0.38−0.80)
+0.63 (0.39−1.04) 0.55 (0.38−0.80) 0.57 (0.42−0.78)
+0.48 (0.27−0.85) 0.62 (0.44–0.88)
+0.25
+0.5
+1.0
+2.0
+Nivolumabplus IpilimumabBetter
+Chemotherapy Better
+Figure 4. Subgroup Analyses of Progression-free Survival among Patients with a High Tumor Mutational Burden. A high tumor mutational burden was def ined as at least 10 mutations per megabase. The subgroup of patients who  had never smoked could not be evaluated owing to the small sample size.
+(<10 mutat ions per megabase). In addit ion,  nivolumab plus ipilimumab had bet ter ef f icacy  than nivolumab monotherapy in pat ients with a  tumor mutat iona l burden of at least 10 muta- t ions per megabase, a f inding that highlights  the dist inct importance of dua l immune check- point blockade in NSCLC with a high tumor  mutat ional burden. The trial cont inues for the  coprimar y end point of overa ll sur viva l among  pat ients selected on the basis of PD-L1 expres- sion level. Tumor mutat ional burden and PD-L1 expres- sion level were independent biomarkers in the  CheckMate 227 t ria l, f indings consistent with  those of previous reports. Among pat ients with  a high tumor mutat ional burden, the benef it of  nivolumab plus ipilimumab over chemotherapy  was similar in pat ients with a PD-L1 expression  level of at least 1% and those with a level of less  than 1%. Therefore, nivolumab plus ipilimumab  may represent an ef fect ive treatment regimen for 
+pat ients with a high tumor mutat ional burden,  irrespect ive of PD-L1 expression level. Data on the safet y of nivolumab plus ipilimu- mab were consistent with previously repor ted  data on f irst-line t reatment of NSCLC. In the  CheckMate 012 t ria l, various dosing regimens  of nivolumab plus ipilimumab were eva luated  in eight cohor ts, and the regimen of 3 mg of  nivolumab per kilogram ever y 2 weeks plus 1 mg  of ipilimumab per k ilogram ever y 6 weeks was  associated with mainly low-grade adverse events  and was ef fect ive.5 These f indings were con- f irmed in our large, internat iona l t ria l, with  no new safet y signa ls obser ved with the com- binat ion. Important questions remain regarding the role  of immunotherapy combinat ions versus immu- notherapy–chemotherapy combinat ions, the pre- ferred sequencing of therapies, whether tumor  mutat iona l burden can be used to ident if y pa- t ients who may derive benef it from immuno-
+2102
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. n engl j med 378;22 nejm.org May 31, 2018
+2103
+N i volum a b plus Ipil imum a b in Lung C ancer
+therapy–chemotherapy combinations, and whether  a clinica lly useful cutof f for tumor mutat iona l  burden can be ident if ied for nivolumab mono- therapy. The rate of 58% for obtaining results for  tumor mutat ional burden that we report in this  trial was due mainly to the limited availabilit y of  tumor samples of suf f icient quant it y or qualit y,  a consequence of limited t issue requested for  biomarker analysis as part of the trial. In clinical  pract ice, when a test of mutat iona l burden is  requested early during the decision-making pro- cess for select ing the most appropriate f irst-line  t reatment and thus a suf f icient quant it y and  qua lit y of tumor samples can be obta ined and  submitted, successful determinat ion of tumor  mutat ional burden can be expected for 80% to  95% of pat ients undergoing test ing.21 Whether  circulat ing tumor DNA could provide a noninva- sive method for assessing tumor mutat iona l  burden is not yet clear. In conclusion, progression-free sur vival was  signif icant ly longer with nivolumab plus ipilimu-
+mab than with chemotherapy among pat ients  with advanced NSCLC and a tumor mutat iona l  burden of at least 10 mutat ions per megabase,  irrespect ive of tumor PD-L1 expression level.  Safet y was consistent with previous f indings  for nivolumab plus low-dose ipilimumab.5 These  results va lidate the role of nivolumab plus ipi- limumab as an ef fect ive f irst-line therapy in  NSCLC and tumor mutat ional burden as an im- portant and independent biomarker in advanced  NSCLC.
+Supported by Bristol-Myers Squibb and Ono Pharmaceut ica l. Disclosure forms provided by the authors are available with  the full text of this art icle at NEJM.org. We thank the pat ients and their fam i l ies, as wel l as the par- t icipat ing t r ia l teams, for mak ing th is t r ia l possible; Suresh  A lapar thy, Jud ith Bushong, and Chr istopher Coira of Br istol- Myers Squ ibb for their cont r ibut ions as protocol managers of  th is t r ia l; Haolan Lu of Br istol-Myers Squ ibb for cont r ibut ions  to the st at ist ica l ana lysis plan; Foundat ion Med icine for col- laborat ive development of the Foundat ionOne CDx assay; the  st a f f of Dako for col laborat ive development of the PD-L1 IHC  28-8 pharmDx assay; and Roland Tacke of Ev idence Scient if ic  Solut ions for med ica l w r it ing and ed itor ia l assist ance w ith an  earl ier version of the manuscr ipt .
+Event
+Nivolumab plus Ipilimumab  (N = 576)
+Nivolumab  (N = 391)
+Chemotherapy  (N = 570)
+Any Grade
+Grade 3 or 4
+Any Grade
+Grade 3 or 4
+Any Grade
+Grade 3 or 4
+number of patients (percent)
+Any event
+433 (75.2)
+180 (31.2)
+251 (64.2)
+74 (18.9)
+460 (80.7)
+206 (36.1)
+Any serious event
+138 (24.0)
+102 (17.7)
+42 (10.7)
+30 (7.7)
+79 (13.9)
+61 (10.7)
+Any event leading to discontinuation†
+100 (17.4)
+69 (12.0)
+45 (11.5)
+27 (6.9)
+51 (8.9)
+28 (4.9)
+Rash
+96 (16.7)
+9 (1.6)
+43 (11.0)
+3 (0.8)
+29 (5.1)
+0
+Diarrhea
+94 (16.3)
+9 (1.6)
+44 (11.3)
+3 (0.8)
+55 (9.6)
+4 (0.7)
+Pruritus
+81 (14.1)
+3 (0.5)
+30 (7.7)
+0
+5 (0.9)
+0
+Fatigue
+76 (13.2)
+8 (1.4)
+43 (11.0)
+2 (0.5)
+105 (18.4)
+8 (1.4)
+Decreased appetite
+73 (12.7)
+3 (0.5)
+25 (6.4)
+0
+110 (19.3)
+6 (1.1)
+Hypothyroidism
+67 (11.6)
+2 (0.3)
+25 (6.4)
+1 (0.3)
+0
+0
+Asthenia
+56 (9.7)
+7 (1.2)
+29 (7.4)
+2 (0.5)
+72 (12.6)
+5 (0.9)
+Nausea
+56 (9.7)
+3 (0.5)
+21 (5.4)
+1 (0.3)
+205 (36.0)
+12 (2.1)
+Vomiting
+27 (4.7)
+2 (0.3)
+10 (2.6)
+1 (0.3)
+76 (13.3)
+13 (2.3)
+Constipation
+23 (4.0)
+0
+6 (1.5)
+0
+86 (15.1)
+2 (0.4)
+Anemia
+23 (4.0)
+9 (1.6)
+11 (2.8)
+2 (0.5)
+183 (32.1)
+64 (11.2)
+Neutrophil count decreased
+4 (0.7)
+0
+0
+0
+64 (11.2)
+36 (6.3)
+Neutropenia
+1 (0.2)
+0
+1 (0.3)
+0
+97 (17.0)
+54 (9.5)
+*  Data are based on a January 24, 2018, database lock. Safety analyses included all the patients who received at least one dose of a trial drug.  Included are events reported from the time of the first dose of a trial drug to 30 days after the last dose, as determined by the investigator. †  For nivolumab plus ipilimumab, these events include treatment-related adverse events leading to discontinuation of ipilimumab or both trial  drugs; patients could not discontinue nivolumab without discontinuing ipilimumab.
+Table 3. Treatment-Related Adverse Events Reported in at Least 10% of Patients Treated with Nivolumab plus Ipilimumab, Nivolumab,   or Chemotherapy.*
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. N i volum a b plus Ipil imum a b in Lung C ancer
+Appendix The authors’ full names and academic degrees are as follows: Matthew D. Hellmann, M.D., Tudor-Eliade Ciuleanu, M.D., Adam Plu- zanski, M.D., Jong Seok Lee, M.D., Gregory A. Otterson, M.D., Clarisse Audigier-Valette, M.D., Elisa Minenza, M.D., Helena Linardou,  M.D., Sjaak Burgers, M.D., Pamela Salman, M.D., Hossein Borghaei, D.O., Suresh S. Ramalingam, M.D., Julie Brahmer, M.D., Martin  Reck, M.D., Kenneth J. O’Byrne, M.D., William J. Geese, Ph.D., George Green, Ph.D., Han Chang, Ph.D., Joseph Szustakowski, Ph.D.,  Prabhu Bhagavatheeswaran, Ph.D., Diane Healey, M.S., Yali Fu, M.D., Faith Nathan, M.D., and Luis Paz-Ares, M.D. The authors’ affiliations are as follows: Memorial Sloan Kettering Cancer Center Hospital, New York (M.D.H.); Prof. Dr. Ion Chiri- cuta Institute of Oncology and Universitatea de Medicina si Farmacie Iuliu Hatieganu, Cluj-Napoca, Romania (T.-E.C.); Centrum  Onkologii–Instytut im. Marii Sklodowskiej-Curie, Warsaw, Poland (A.P.); Seoul National University Bundang Hospital, Seoul, South  Korea (J.S.L.); Ohio State University, Columbus (G.A.O.); Hôpital Sainte Musse, Toulon, France (C.A.-V.); Ospedale Santa Maria della  Misericordia, Perugia, Italy (E.M.); First Department of Oncology, Metropolitan Hospital, Athens, Greece (H.L.); Antoni van Leeuwen- hoek Ziekenhuis, Amsterdam (S.B.); Fundación Arturo López Pérez, Santiago, Chile (P.S.); Fox Chase Cancer Center, Philadelphia  (H.B.); Winship Cancer Institute, Emory University, Atlanta (S.S.R.); Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,  Baltimore (J.B.); LungenClinic Grosshansdorf, Airway Research Center North, German Center for Lung Research, Grosshansdorf,  Germany (M.R.); Princess Alexandra Hospital, Brisbane, QLD, Australia (K.J.O.); Bristol-Myers Squibb, Princeton, NJ (W.J.G., G.G.,  H.C., J.S., P.B., D.H., Y.F., F.N.); and Hospital Universitario 12 de Octubre, Centro Nacional de Investigaciones Oncológicas, Universi- dad Complutense, and CiberOnc, Madrid (L.P.-A.).
+R e fe r enc e s 1. Hanna N, Johnson D, Temin S, Mas- ters G. Systemic therapy for stage IV non– sma ll-cell lung cancer: American Societ y  of Cl in ica l Oncolog y Cl in ica l Pract ice  Gu ideline update summar y. J Oncol Pract  2017; 13: 832-7. 2 . Et t inger DS, Wood DE, A isner DL ,   et a l. Non-sma ll cell lung cancer, version  5.2017, NCCN Cl in ica l Pract ice Gu ide- l ines in Oncolog y. J Nat l Compr Canc  Netw 2017; 15: 504-35. 3. Reck M, Rodríguez-Abreu D, Robinson  AG, et a l. Pembrolizumab versus chemo- therapy for PD-L1–posit ive non–sma ll-cell  lung cancer. N Engl J Med 2016; 375: 1823- 33. 4. Aguiar PN Jr, De Mello RA, Barreto  CMN, et a l. Immune checkpoint inhibi- tors for advanced non-sma l l cel l lung  cancer: emerg ing sequencing for new  t reatment t argets. ESMO Open 2017; 2(3):  e000200. 5. Hellmann MD, Rizvi NA, Goldman  JW, et a l. Nivolumab plus ipilimumab as  f irst-l ine t reatment for advanced non- sma l l-cel l lung cancer (CheckMate 012):  results of an open-label, phase 1, mult ico- hort study. Lancet Oncol 2017; 18: 31-41. 6. Yarchoan M, Hopk ins A, Ja f fee EM.  Tumor mut at iona l burden and response  rate to PD-1 inh ibit ion. N Eng l J Med  2017; 377: 2500-1. 7. Van A llen EM, Miao D, Schilling B,   et a l. Genomic correlates of response to  CTLA-4 blockade in metastat ic melano- ma. Science 2015; 350: 207-11. 8. Snyder A, Makarov V, Merghoub T,   et a l. Genet ic basis for clinica l response  to CTLA-4 blockade in melanoma. N Engl  J Med 2014; 371: 2189-99. 9. Rosenberg JE, Hof fman-Censits J,  Powles T, et a l. Atezol izumab in pat ients  with loca lly advanced and metastat ic uro- thel ia l ca rcinoma who have prog ressed  following t reatment with plat inum-based  chemotherapy: a sing le-a rm, mu lt icen-
+t re, phase 2 t r ia l. Lancet 2016; 387: 1909- 20. 10. Powles T, Loriot Y, Ravaud A, et a l.  Atezolizumab vs chemotherapy in plat i- num-treated locally advanced or metastat ic  urothel ia l carcinoma:  immune biomark- ers, tumor mutat ional burden and clinical  outcomes from the phase III IMvigor211  study. Presented at the 2018 Gen itour i- nar y Cancers Symposium, San Francisco,  Februar y 8–10, 2018. 11. Le DT, Durham JN, Smith KN, et a l.  Mismatch repa ir def iciency pred icts re- sponse of sol id tumors to PD-1 blockade.  Science 2017; 357: 409-13. 12 . Rizvi NA, Hellmann MD, Snyder A,   et a l. Cancer immunolog y: mut at iona l  landscape determ ines sensit iv it y to PD-1  blockade in non-sma l l cel l lung cancer.  Science 2015; 348: 124-8. 13. Carbone DP, Reck M, Paz-Ares L, et a l.  First-line nivolumab in stage IV or recur- rent non–sma ll-cell lung cancer. N Engl J  Med 2017; 376: 2415-26. 14. Rizvi H, Sanchez-Vega F, La K, et a l.  Molecu la r determ inants of response to  ant i–programmed cell death (PD)-1 and  ant i–programmed death-l igand (PD-L)- l igand 1 blockade in pat ients with non– sma ll-cell lung cancer prof iled with tar- geted next-generat ion sequencing. J Clin  Oncol 2018; 36: 633-41. 15. Hel lmann MD, Ca l lahan MK, Awad  MM, et a l. Tumor mut at ion burden and  ef f icacy of nivolumab monotherapy and  in combinat ion with ipilimumab in sma ll  cell lung cancer. Cancer Cell (in press). 16. Hellmann MD, Nathanson T, Rizvi H,  et a l. Genom ic features of response to  combinat ion immunotherapy in pat ients  with advanced non-small-cell lung cancer.  Cancer Cell (in press). 17. Ramalingam SS, Hellmann MD, Awad  MM, et a l. Tumor mutat ion burden (TMB)  as a biomarker for clinica l benef it from  dua l immune checkpoint blockade with 
+nivolumab (nivo) + ipilimumab (ipi) in  f irst-line (1L) non-sma ll cell lung cancer  (NSCLC):  ident if icat ion of TMB cutof f  f rom CheckMate 568. Presented at the  American Associat ion for Cancer Research  2018 Annua l Meet ing, Chicago, April 16,  2018. 18. Oken MM, Creech RH, Tormey DC,   et a l. Tox icit y and response criteria of the  Eastern Cooperat ive Oncolog y Group. Am  J Clin Oncol 1982; 5: 649-55. 19. Szustakowsk i JD, Green G, Geese W J,  Zerba K, Chang H. Eva luat ion of tumor  mut at ion burden as a biomarker for im- mune checkpoint inhibitor eff icacy:  a ca l i- brat ion study of whole exome sequencing  with Foundat ionOne. In:  Program and ab- st racts of the Amer ican Associat ion for  Cancer Research 2018 Annua l Meet ing,  Chicago, April 18, 2018 (ht tp://www   .abst ractson l ine .com/ pp8/ #!/ 4562/   presentat ion/ 2718). 20. Labeling:  PD-L1 IHC 28-8 pharmDx.  Dako Nor th Amer ica, 2016 (ht tp://www  .accessdat a .fda .gov/ cdrh_docs/ pdf 15/  P150027c .pdf ). 21. Foundat ionOne CDx home page  (ht tps:/ / www .foundat ionmed icine .com/  genomic-test ing/ foundat ion-one-cdx). 22 . Chalmers ZR, Connelly CF, Fabrizio D,  et a l. Ana lysis of 100,000 human cancer  genomes revea ls the landscape of tumor  mut at iona l burden. Genome Med 2017; 9:  34. 23. Sun JX, He Y, Sanford E, et a l. A com- putat ional approach to dist inguish somat- ic vs. germline origin of genomic a ltera- t ions f rom deep sequencing of cancer  specimens w ithout a matched norma l.  PLoS Comput Biol 2018; 14(2): e1005965. 24. Eisenhauer EA, Therasse P, Bogaerts J,  et a l. New response eva luat ion criteria in  sol id tumours: rev ised RECIST gu idel ine  (version 1.1). Eur J Cancer 2009; 45: 228- 47.
+Copyright © 2018 Massachusetts Medical Society.
+2104
+n engl j med 378;22 nejm.org May 31, 2018
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. 

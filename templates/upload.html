@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upload sucess</title>
+</head>
+<body>
+<h1>成功提交！</h1>
+<form>
+    {% csrf_token %}
+    <input name="file" value='{{ filename }}'  readonly="on">
+    <input type="submit" name="sub" value="下载文件对应结果">
+</form>
+</body>
+</html>

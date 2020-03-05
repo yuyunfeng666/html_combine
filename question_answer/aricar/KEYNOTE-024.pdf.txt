@@ -1,0 +1,327 @@
+established in 1812 
+November 10, 2016
+vol. 375 no. 19
+Pembrolizumab versus Chemotherapy for PD-L1–Positive  Non–Small-Cell Lung Cancer
+Martin Reck, M.D., Ph.D., Delvys Rodríguez-Abreu, M.D., Andrew G. Robinson, M.D., Rina Hui, M.B., B.S., Ph.D.,  Tibor Csőszi, M.D., Andrea Fülöp, M.D., Maya Gottfried, M.D., Nir Peled, M.D., Ph.D., Ali Tafreshi, M.D.,  Sinead Cuffe, M.D., Mary O’Brien, M.D., Suman Rao, M.D., Katsuyuki Hotta, M.D., Ph.D., Melanie A. Leiby, Ph.D.,  Gregory M. Lubiniecki, M.D., Yue Shentu, Ph.D., Reshma Rangwala, M.D., Ph.D., and Julie R. Brahmer, M.D.,   for the KEYNOTE-024 Investigators*  
+a b s t r a c t
+BACKGROUND
+Pembrolizumab is a humanized monoclonal antibody against programmed death 1 (PD-1)  that has antitumor activity in advanced non–small-cell lung cancer (NSCLC), with in- creased activity in tumors that express programmed death ligand 1 (PD-L1).
+METHODS
+In this open-label, phase 3 trial, we randomly assigned 305 patients who had previously  untreated advanced NSCLC with PD-L1 expression on at least 50% of tumor cells and no  sensit izing mutat ion of the epidermal growth factor receptor gene or translocat ion of  the anaplast ic lymphoma kinase gene to receive either pembrolizumab (at a f ixed dose  of 200 mg every 3 weeks) or the investigator’s choice of platinum-based chemotherapy.  Crossover from the chemotherapy group to the pembrolizumab group was permitted in  the event of disease progression. The primary end point, progression-free survival, was  assessed by means of blinded, independent, central radiologic review. Secondary end  points were overall survival, objective response rate, and safety.
+RESULTS
+Median progression-free survival was 10.3 months (95% conf idence interval [CI], 6.7 to  not reached) in the pembrolizumab group versus 6.0 months (95% CI, 4.2 to 6.2) in the  chemotherapy group (hazard ratio for disease progression or death, 0.50; 95% CI, 0.37 to  0.68; P<0.001). The estimated rate of overall survival at 6 months was 80.2% in the pem- brolizumab group versus 72.4% in the chemotherapy group (hazard ratio for death, 0.60;  95% CI, 0.41 to 0.89; P = 0.005). The response rate was higher in the pembrolizumab  group than in the chemotherapy group (44.8% vs. 27.8%), the median duration of re- sponse was longer (not reached [range, 1.9+ to 14.5+ months] vs. 6.3 months [range, 2.1+  to 12.6+]), and treatment-related adverse events of any grade were less frequent (occurring  in 73.4% vs. 90.0% of patients), as were grade 3, 4, or 5 treatment-related adverse events  (26.6% vs. 53.3%).
+CONCLUSIONS
+In patients with advanced NSCLC and PD-L1 expression on at least 50% of tumor cells,  pembrolizumab was associated with signif icantly longer progression-free and overall  survival and with fewer adverse events than was platinum-based chemotherapy. (Funded  by Merck; KEYNOTE-024 ClinicalTrials.gov number, NCT02142738.)
+From Lung Clinic Grosshansdor f, Airway  Research Center Nor th, German Center  of Lung Research, Grosshansdorf, Germany  (M.R .); Hospital Universitario Insular de  Gran Canaria, Las Palmas, Spain (D.R.-A.);  Cancer Centre of Southeastern Ontario  at Kingston General Hospital, Kingston,  ON, Canada (A .G.R .); Westmead Hospi- tal and the Universit y of Sydney, Sydney  (R .H.), and Southern Medical Day Care  Centre, Wollongong, NSW (A .T.) — both  in Australia; Jász-Nagykun-Szolnok County  Hospital, Szolnok (T.C .), and Országos  Korányi TBC és Pulmonológiai Intézet ,  Budapest (A .F.) — both in Hungar y; Meir  Medical Center, Kfar-Saba (M.G.), and  Davidof f Cancer Center, Tel Aviv Univer- sit y, Petah Tik va (N.P.) — both in Israel;  St . James’s Hospital and Cancer Trials  Ireland, Dublin (S.C .); the Royal Marsden  Hospital, Sutton, Surrey, United Kingdom  (M.O.); MedStar Franklin Square Hospital  (S.R.) and Sidney Kimmel Comprehensive  Cancer Center at Johns Hopkins ( J.R .B.)  — both in Baltimore; Okayama University  Hospital, Okayama, Japan (K.H.); and  Merck, Kenilworth, NJ (M.A.L., G.M.L., Y.S.,  R.R.). Address reprint requests to Dr. Brah- mer at the Sidney Kimmel Comprehensive  Cancer Center at Johns Hopkins, Bunting- Blaustein Cancer Research Bldg., 1650  Orleans St., Rm. G94, Baltimore, MD 21287. * A complete list of investigators in the KEYNOTE- 024 trial is provided in the Supplementar y Appendix , available at NEJM.org. This ar ticle was published on Oc tober 9,  2016, at NEJM.org.
+N Engl J Med 2016;375:1823 -33. DOI: 10.1056/NEJMoa1606774
+Copyright © 2016 Massachusetts Medical Society.
+n engl j med 375;19 nejm.org November 10, 2016
+1823
+The new england  journal of medicineThe New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+A pproximately 23 to 28% of patients  with advanced non–small-cell lung cancer  (NSCLC) have a high level of programmed  death ligand 1 (PD-L1) expression, which is de- f ined as membranous PD-L1 expression on at  least 50% of tumor cells, regardless of the stain- ing intensit y (i.e., a PD-L1 tumor proport ion  score of 50% or greater).1,2 Data from the phase 1  KEYNOTE-001 and phase 3 KEYNOTE-010 stud- ies indicated that pat ients with advanced NSCLC  and a PD-L1 tumor proport ion score of 50% or  greater were more likely than those with lower  tumor proport ion scores to have a response to  pembrolizumab, a highly select ive, humanized  monoclonal antibody against programmed death 1  (PD-1) that prevents PD-1 from engaging PD-L1  and PD-L2.1-3 Current f irst-line treatment decisions for ad- vanced NSCLC are based on the presence of ge- net ic aberrat ions, such as sensit izing mutat ions  of epidermal growth factor receptor (EGFR) and  t ranslocat ions of anaplast ic lymphoma k inase  (ALK ). However, most pat ients with NSCLC do  not harbor these oncogenic drivers, and for  these pat ients, treatment opt ions are limited to  cytotoxic chemotherapy. In pat ients enrolled in  the KEYNOTE-001 trial who had previously un- treated NSCLC and a PD-L1 tumor proport ion  score of 50% or greater, pembrolizumab (ad- ministered ever y 2 or 3 weeks at a dose of 10 mg  per kilogram of body weight) was associated with  a response rate of 58.3%, median progression- free sur viva l of 12.5 months, and 24-month  overall sur vival of 60.6%.4 In the internat ional, randomized, open-label,  phase 3 KEYNOTE-024 trial, we compared pem- brolizumab (administered at a f ixed dose of  200 mg ever y 3 weeks) with the invest igator’s  choice of cytotoxic chemotherapy as f irst-line  therapy for pat ients with advanced NSCLC and a  PD-L1 tumor proport ion score of 50% or greater.
+M e t h od s
+Patients
+Patients 18 years of age or older were eligible for  enrollment if they had histologically or cytologi- cally conf irmed stage IV NSCLC with no sensi- tizing EGFR mutations or ALK translocations, had  undergone no previous systemic therapy for  metastat ic disease, and had an Eastern Coopera- tive Oncology Group (ECOG) performance-status  score of 0 or 1 (on a 5-point scale, with 0 indi-
+cat ing no symptoms and higher scores indicat- ing increasing disabilit y), at least one measur- able lesion according to Response Eva luat ion  Criteria in Solid Tumors (RECIST), version 1.1,5  a life expectancy of at least 3 months, and a PD-L1  tumor proport ion score of 50% or greater. Pa- t ients were ineligible if they were receiving sys- temic glucocort icoids (excluding daily glucocor- t icoid-replacement therapy for condit ions such  as adrena l or pituitar y insuf f iciency) or other  immunosuppressive t reatment or if they had  unt reated bra in metastases, act ive autoimmune  disease for which they had received systemic treat- ment during the previous 2 years, act ive interst i- t ial lung disease, or a histor y of pneumonit is for  which they had received glucocort icoids.
+Trial Design and Treatment
+Pat ients were randomly assigned, in a 1:1 rat io,  to receive treatment with either pembrolizumab  (administered intravenously at a dose of 200 mg  ever y 3 weeks) for 35 cycles or the invest igator’s  choice of one of the following f ive plat inum- based chemotherapy regimens for 4 to 6 cycles:  carboplatin plus pemetrexed, cisplatin plus peme- t rexed, carboplat in plus gemcitabine, cisplat in  plus gemcitabine, or carboplat in plus paclitaxel  (Table S1 in the Supplementar y Appendix, avail- able with the full text of this article at NEJM.org).  Chemotherapy regimens that included peme- trexed were permitted only for pat ients who had  nonsquamous tumors; these pat ients could con- tinue to receive pemetrexed as maintenance ther- apy after the complet ion of combinat ion chemo- therapy. The intended chemotherapy regimen,  including the use of pemet rexed ma intenance  therapy, was chosen before the pat ient under- went randomizat ion. Randomizat ion was strat i- f ied by ECOG performance-status score (0 vs. 1),  tumor histologic t ype (squamous vs. nonsqua- mous), and region of enrollment (East Asia vs.  non–East Asia) and did not include any provisions  regarding equal distribution of enrollment across  part icipat ing sites or strat if icat ion by site. Treat- ment was cont inued for the specif ied number of  cycles or unt il the pat ient had radiologic disease  progression (def ined according to RECIST; Table  S2 in the Supplementar y Appendix), had treat- ment-related adverse events of unacceptable sever- it y, or withdrew consent or unt il the invest igator  decided to withdraw the pat ient, whichever oc- curred f irst. Pat ients in the chemotherapy group  who had disease progression, which was verif ied 
+1824
+n engl j med 375;19 nejm.org November 10, 2016
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Pembrol i zum a b v s . Chemo ther a p y for PD -L 1– Po si t i v e Lung C ancer
+by means of blinded, independent, central radio- logic review, could cross over to receive pembro- lizumab, if safet y criteria were met. There was  no preplanned crossover from the pembrolizu- mab group to the chemotherapy group, and there  were no guidelines regarding therapy after dis- ease progression for pat ients in the pembroli- zumab group. Pat ients in either treatment group  who were in clinically stable condit ion and were  considered by the invest igator to be deriving  clinical benef it could cont inue therapy after dis- ease progression. Full guidance on t reatment  decisions, including the management of adverse  events, can be found in the trial protocol, avail- able at NEJM.org.
+Trial Assessments
+PD-L1 expression was assessed in formalin-f ixed  tumor samples at a central laborator y with the  use of the commercia lly ava ilable PD-L1 IHC  22C3 pharmDx assay (Dako North America).6,7  Tumor samples were obtained by core-needle or  excisional biopsy or from t issue resected at the  t ime the metastat ic disease was diagnosed. Fine- needle aspirates or samples obtained from irra- diated sites or before the administrat ion of adju- vant or neoadjuvant therapy were not permitted  to be used. Imaging studies of the tumors were  obta ined ever y 9 weeks, and the response to  treatment was assessed according to RECIST by  means of blinded, independent, cent ra l radio- logic review. Adverse events were reviewed, a  physica l examinat ion was performed, and vita l  signs, a complete blood count with a dif ferent ial  count, and a comprehensive blood panel were  assessed ever y 3 weeks during treatment and at  the t ime of treatment discont inuat ion; T3, free  T4, and thyrotropin were assessed ever y 6 weeks.  During the sur viva l follow-up phase, pat ients  were contacted ever y 2 months for an assess- ment of sur vival. The full assessment schedule is  available in the trial protocol. All adverse events  and abnormalit ies were graded according to the  Nat ional Cancer Inst itute Common Terminolog y  Criteria for Adverse Events, version 4.0.
+tive response rate, which was def ined as the per- centage of pat ients with a conf irmed complete  or part ial response; and safet y. An explorator y  end point was durat ion of response, which was  def ined as the t ime from the f irst documenta- t ion of a complete or part ial response to disease  progression. A full list of end points is available  in the protocol. Ef f icacy was assessed in the  intent ion-to-treat populat ion, which included all  pat ients who underwent randomizat ion. Safet y  was assessed in the as-treated populat ion, which  included all pat ients who received at least one  dose of the assigned trial treatment.
+Trial Oversight
+The KEYNOTE-024 trial was designed by Merck  representatives and academic advisors. Data were  collected by invest igators and associated site  personnel, analyzed by stat ist icians employed by  Merck, and interpreted by academic authors and  Merck representatives. An external data and safet y  monitoring committee oversaw the trial and as- sessed the safet y and ef f icacy at prespecif ied  interim analyses. Committee members are listed  in the Supplementary Appendix. The trial protocol and all amendments were  approved by the appropriate inst itut ional review  board or independent ethics committee at each  t ria l center. The t ria l was conducted in accor- dance with Good Clinica l Pract ice guidelines  and the provisions of the Declaration of Helsinki.  All the pat ients provided written informed con- sent before enrollment. All the authors had full access to the data,  vouch for the completeness and accuracy of the  data, and attest that the trial was conducted in  accordance with the protocol and a ll amend- ments. The f irst draft of the manuscript was  written by the f irst and last authors with input  from authors employed by Merck. All the authors  part icipated in reviewing and edit ing the manu- script, and approved the submitted draft. As part  of the site agreement signed before trial part ici- pation, investigators agreed to keep all aspects of  the trial, including the resultant data, conf idential.
+End Points
+S tatis tic al Analysis
+The primar y end point was progression-free sur- vival, which was def ined as the t ime from ran- domizat ion to disease progression or death from  any cause. Secondar y end points included overall  sur vival, which was def ined as the t ime from  randomizat ion to death from any cause; objec-
+The Kaplan–Meier method was used to est imate  progression-free and overa ll sur viva l. For the  ana lysis of progression-free sur viva l, data for  pat ients who were alive and had no disease pro- gression or who were lost to follow-up were  censored at the t ime of the last tumor assess-
+n engl j med 375;19 nejm.org November 10, 2016
+1825
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+ment. For the analysis of overall sur vival, data  for pat ients who were alive or who were lost to  follow-up were censored at the t ime of the last  contact. Between-group differences in progression- free and overall sur vival were assessed with the  use of a strat if ied log-rank test. Hazard rat ios  and associated 95% conf idence inter va ls were  assessed with the use of a strat if ied Cox propor- t iona l-hazards model with Efron’s method of  handling t ies. The same st rat if icat ion factors  used for randomizat ion were applied to the  strat if ied log-rank and Cox models. Dif ferences  in response rate were assessed with the use of the  strat if ied method of Miett inen and Nurminen. The overall t ype I error rate for this trial was  strict ly controlled at a one-sided alpha level of  2.5%. The full stat ist ical analysis plan is avail- able in the protocol. The protocol specif ied two  interim ana lyses before the f ina l ana lysis. The  f irst interim analysis was to be performed after  the f irst 191 pat ients who underwent random- izat ion had a minimum of 6 months of follow- up; at this t ime, the object ive response rate  would be analyzed at an alpha level of 0.5%. The  primar y object ive of the second interim analysis,  which was to be performed after approximately  175 events of progression or death had been ob- ser ved, was to evaluate the superiorit y of pem- brolizumab over chemotherapy with respect to  progression-free sur vival, at a one-sided alpha  level of 2.0%. If pembrolizumab was superior  with respect to progression-free sur viva l, the  superiority of pembrolizumab over chemotherapy  with respect to overa ll sur viva l would be as- sessed by means of a group-sequent ial test with  two ana lyses, to be performed af ter approx i- mately 110 and 170 deaths had been obser ved.  We calculated that with approximately 175 events  of progression or death, the trial would have  97% power to detect a hazard rat io for progres- sion or death with pembrolizumab versus chemo- therapy of 0.55. At the t ime of the second in- terim analysis, the trial had approximately 40%  power to detect a hazard rat io for death with  pembrolizumab versus chemotherapy of approx- imately 0.65 at a one-sided alpha level of 1.18%. The second interim analysis was performed  after 189 events of progression or death and 108  deaths had occurred and was based on a cutof f  date of May 9, 2016. The data and safet y moni- toring committee reviewed the results on June 8,  2016, and June 14, 2016. Because pembrolizumab 
+was superior to chemotherapy with respect to  overall sur vival at the prespecif ied mult iplicit y- adjusted, one-sided a lpha level of 1.18%, the  external data and safet y monitoring committee  recommended that the trial be stopped early to  give the pat ients who were receiving chemo- therapy the opportunit y to receive pembrolizu- mab. All data reported herein are based on the  second interim analysis.
+R e s u l t s
+Patient Charac teris tics and Treatment
+A total of 1934 pat ients at 142 sites in 16 coun- t ries were screened for enrollment, including  1729 who submitted samples for PD-L1 assess- ment (Fig. S1 in the Supplementar y Appendix).  Of the 1653 pat ients whose samples could be  evaluated for PD-L1, 500 (30.2%) had a PD-L1  tumor proport ion score of 50% or greater. Be- tween September 19, 2014, and October 29, 2015,  a total of 305 pat ients at 102 sites who met inclu- sion criteria were randomly assigned to either  the pembrolizumab group (154 pat ients) or the  chemotherapy group (151 patients). In the chemo- therapy group, the most common regimen was  carboplat in plus pemetrexed (in 67 pat ients). All  the pat ients in the pembrolizumab group re- ceived the trial treatment. In the chemotherapy  group, 1 pat ient withdrew consent before receiv- ing the planned trial treatment, and 46 pat ients  received pemetrexed maintenance therapy after  complet ion of combinat ion chemotherapy. The  demographic characterist ics of the pat ients and  the disease characterist ics at baseline were gen- erally well balanced between treatment groups  (Table 1), although more pat ients in the chemo- therapy group than in the pembrolizumab group  had never smoked (12.6% vs. 3.2%) and more  pat ients in the pembrolizumab group than in  the chemotherapy group had bra in metastases  (11.7% vs. 6.6%). These dif ferences were not  stat ist ically signif icant. As of May 9, 2016, the median durat ion of  follow-up was 11.2 months (range, 6.3 to 19.7),  and 48.1% of the pat ients in the pembrolizumab  group and 10.0% of the pat ients in the chemo- therapy group were st ill receiving the assigned  treatment (Fig. S1 in the Supplementary Appendix).  The median duration of treatment was 7.0 months  (range, 1 day to 18.7 months) in the pembroli- zumab group and 3.5 months (range, 1 day to 
+1826
+n engl j med 375;19 nejm.org November 10, 2016
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Pembrol i zum a b v s . Chemo ther a p y for PD -L 1– Po si t i v e Lung C ancer
+Table 1. Baseline Demographic and Disease Characteristics of Patients in the Intention-to-Treat Population.*
+Characteristic
+Age — yr
+Median
+Range
+Male sex — no. (%)
+Region of enrollment — no. (%)
+East Asia
+Non–East Asia
+ECOG performance-status score — no. (%)†
+0
+1
+Smoking status — no. (%)
+Current
+Former
+Never
+Histology — no. (%)
+Squamous
+Nonsquamous
+Brain metastases — no. (%)
+Previous systemic neoadjuvant therapy — no. (%)
+Previous systemic adjuvant therapy — no. (%)
+Pembrolizumab Group  (N = 154)
+Chemotherapy Group  (N = 151)
+64.5
+33–90
+92 (59.7)
+21 (13.6)
+133 (86.4)
+54 (35.1)
+99 (64.3)
+34 (22.1)
+115 (74.7)
+5 (3.2)
+29 (18.8)
+125 (81.2)
+18 (11.7)
+3 (1.9)
+6 (3.9)
+66.0
+38–85
+95 (62.9)
+19 (12.6)
+132 (87.4)
+53 (35.1)
+98 (64.9)
+31 (20.5)
+101 (66.9)
+19 (12.6)
+27 (17.9)
+124 (82.1)
+10 (6.6)
+1 (0.7)
+3 (2.0)
+*  The intention-to-treat population included all patients who underwent randomization. There were no significant differ- ences between treatment groups. †  Eastern Cooperative Oncology Group (ECOG) performance-status scores range from 0 to 5, with 0 indicating no symp- toms and higher scores indicating increasing disability. One patient (0.6%), who was in the pembrolizumab group, had  an ECOG performance-status score of 2.
+16.8 months) in the chemotherapy group. The  median number of treatment cycles in the pem- brolizumab group was 10.5 (range, 1 to 26); the  median number in the chemotherapy group was  4 (range, 1 to 6), both for pat ients who had  squamous tumors and for those who had non- squamous tumors. In the chemotherapy group,  66 pat ients (43.7%) crossed over to receive pem- brolizumab after disease progression. Of the pa- tients who crossed over, 57.6% were still receiving  pembrolizumab at the t ime of data cutof f.
+Progression -free Survival
+In the intent ion-to-t reat populat ion, on the ba- sis of 189 tota l events of progression or death,  median progression-free survival was 10.3 months  (95% conf idence inter val [CI], 6.7 to not reached)  in the pembrolizumab group and 6.0 months  (95% CI, 4.2 to 6.2) in the chemotherapy group 
+(Fig. 1A). The est imated percentage of pat ients  who were alive and had no disease progression  at 6 months was 62.1% (95% CI, 53.8 to 69.4) in  the pembrolizumab group and 50.3% (95% CI,  41.9 to 58.2) in the chemotherapy group. Pro- gression-free sur vival was signif icant ly longer in  the pembrolizumab group than in the chemo- therapy group (hazard rat io for disease progres- sion or death, 0.50; 95% CI, 0.37 to 0.68;  P<0.001). The benef it of pembrolizumab with  respect to progression-free sur vival was evident  in all subgroups examined (Fig. 1B).
+Overall Survival
+At the t ime of the second interim analysis, 108  deaths had occurred. The est imated percentage  of patients who were alive at 6 months was 80.2%  (95% CI, 72.9 to 85.7) in the pembrolizumab  group and 72.4% (95% CI, 64.5 to 78.9) in the 
+n engl j med 375;19 nejm.org November 10, 2016
+1827
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+)
+%
+(  l
+a v
+i
+v
+r
+u S e e
+
+r f -
+n o
+i
+s s e
+r
+g o
+r
+P
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0
+Hazard ratio for disease progression or death,  0.50 (95% CI, 0.37–0.68)  P<0.001
+Pembrolizumab
+Chemotherapy
+3
+6
+9
+12
+15
+18
+Month
+No.atRisk
+Pembrolizumab  Chemotherapy 
+154 151
+104 99
+89 70
+44 18
+22 9
+3 1
+1 0
+No.ofEvents/ No.ofPatients
+HazardRatioforDiseaseProgressionorDeath(95%CI)
+A
+B
+Subgroup
+Overall Age  <65 yr ≥65 yr Sex Male Female Region of enrollment East Asia Non–East Asia ECOG performance-status score 0 1 Histologic type Squamous Nonsquamous Smoking status Current Former Never Brain metastases at baseline Yes No Platinum -based chemotherapy regimen Included pemetrexed Did not include pemetrexed
+189/305
+  91/141   98/164
+116/187   73/118
+21/40 168/265
+  59/107 129/197
+37/56 152/249
+44/65 133/216 12/24
+17/28 172/277
+120/199   69/106
+0.50 (0.37–0.68)
+0.61 (0.40–0.92) 0.45 (0.29–0.70)
+0.39 (0.26–0.58) 0.75 (0.46–1.21)
+0.35 (0.14–0.91) 0.52 (0.38–0.72)
+0.45 (0.26–0.77) 0.51 (0.35–0.73)
+0.35 (0.17–0.71) 0.55 (0.39–0.76)
+0.68 (0.36–1.31) 0.47 (0.33–0.67) 0.90 (0.11–7.59)
+0.55 (0.20–1.56) 0.50 (0.36–0.68)
+0.63 (0.44–0.91) 0.29 (0.17–0.50)
+0.1
+1
+10
+PembrolizumabBetter
+ChemotherapyBetter
+1828
+n engl j med 375;19 nejm.org November 10, 2016
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Pembrol i zum a b v s . Chemo ther a p y for PD -L 1– Po si t i v e Lung C ancer
+Figure 1 (facing page). Progression-free Survival   in the Intention-to -Treat Population. Panel A shows Kaplan–Meier estimates of progression- free sur vival, according to treatment group. Tick marks  represent data censored at the last time the patient  was known to be alive and without disease progression.  Panel B shows the analysis of progression-free sur vival  in key subgroups. Progression-free survival was assessed  according to Response Evaluation Criteria in Solid Tumors  (RECIST ), version 1.1, by means of blinded, indepen- dent, central radiologic review. The intention-to -treat  population included all patients who underwent ran- domization. Eastern Cooperative Oncolog y Group  (ECOG) per formance-status scores range from 0 to 5,  with 0 indicating no symptoms and higher scores in- dicating increasing disabilit y. The subgroups for the  platinum-based chemotherapy regimen are based on  the regimen chosen before the patient was randomly  assigned to treatment with either pembrolizumab or  platinum-based chemotherapy.
+chemotherapy group (Fig. 2); median overa ll  sur vival was not reached in either group. Overall  sur vival was signif icant ly longer in the pembro- lizumab group than in the chemotherapy group  (hazard rat io for death, 0.60; 95% CI, 0.41 to  0.89; P = 0.005).
+Objec tive Response Rate
+The object ive response rate, assessed according  to RECIST, was 44.8% (95% CI, 36.8 to 53.0) in  the pembrolizumab group and 27.8% (95% CI,  20.8 to 35.7) in the chemotherapy group (Table 2).  The median t ime to response was 2.2 months in  both groups. The median durat ion of response  was not reached (range, 1.9+ to 14.5+ months)  in the pembrolizumab group and was 6.3 months  (range, 2.1+ to 12.6+) in the chemotherapy group.  (Plus signs in the ranges indicate the response  was ongoing at cutof f.)
+Adverse Events
+During t reatment with the init ia lly assigned  therapy, treatment-related adverse events occurred  in 73.4% of the pat ients in the pembrolizumab  group and in 90.0% of the pat ients in the che- motherapy group (Table 3). Grade 3, 4, or 5  treatment-related adverse events occurred in twice  as many pat ients in the chemotherapy group as  in the pembrolizumab group (53.3% vs. 26.6%).  Serious treatment-related adverse events occurred  in a similar percentage of pat ients in the pem- brolizumab group and the chemotherapy group 
+)
+%
+(  l
+a v
+i
+v
+r
+u S
+ l l
+a
+r
+e v
+O
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0
+Pembrolizumab
+Chemotherapy
+Hazard ratio for death, 0.60 (95% CI, 0.41–0.89) P =0.005
+3
+6
+9
+12
+15
+18
+21
+Month
+No.atRisk
+Pembrolizumab Chemotherapy
+154 151
+136 123
+121 106
+82 64
+39 34
+11 7
+2 1
+0 0
+Figure 2 . Overall Survival in the Intention-to -Treat Population. Shown are Kaplan–Meier estimates of overall survival, according to treatment  group. Tick marks represent data censored at the last time the patient was  known to be alive. The intention-to -treat population included all patients  who underwent randomization.
+(21.4% and 20.7%, respect ively). Discont inuat ion  of treatment because of treatment-related adverse  events occurred in 7.1% of pat ients in the pem- brolizumab group and in 10.7% of patients in the  chemotherapy group. Treatment-related adverse  events that led to death occurred in one pat ient  in the pembrolizumab group (sudden death of  unknown cause on day 2) and three pat ients in  the chemotherapy group (one death due to pul- monar y sepsis on day 25, one death due to  pulmonar y alveolar hemorrhage on day 112, and  one death of unknown cause on day 8). The most common treatment-related adverse  events were diarrhea (in 14.3% of the pat ients),  fat igue (10.4%), and pyrexia (10.4%) in the pem- brolizumab group and anemia (44.0%), nausea  (43.3%), and fatigue (28.7%) in the chemotherapy  group (Table 3). Grade 3, 4, or 5 treatment-related  adverse events that occurred in four or more  pat ients were diarrhea (in 3.9% of the pat ients)  and pneumonit is (2.6%) in the pembrolizumab  group and anemia (19.3%), neutropenia (13.3%),  decreased platelet count (6.0%), thrombocytope- nia (5.3%), decreased neut rophil count (4.0%), 
+n engl j med 375;19 nejm.org November 10, 2016
+1829
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+Table 2. Summary of Response in the Intention-to-Treat Population.*
+Variable
+Objective response†
+No. of patients
+% (95% CI)
+Time to response — mo‡
+Median
+Range
+Duration of response — mo‡§
+Pembrolizumab   Group  (N = 154)
+Chemotherapy   Group  (N = 151)
+69
+42
+44.8 (36.8 to 53.0)
+27.8 (20.8 to 35.7)
+2.2
+1.4 to 8.2
+2.2
+1.8 to 12.2
+Median
+Range
+NR
+6.3
+1.9+ to 14.5+
+2.1+ to 12.6+
+*  The intention-to-treat population included all patients who underwent random- ization. NR denotes not reached. †  Objective response was considered to be a confirmed complete or partial   response, as assessed by means of blinded, independent, central radiologic  review according to Response Evaluation Criteria in Solid Tumors, version 1.1.  The estimated difference between the pembrolizumab group and the chemo- therapy group, which was assessed with the use of the stratified method of  Miettinen and Nurminen, was 16.6 percentage points (95% CI, 6.0 to 27.0). ‡  Time to response and duration of response were evaluated in the patients who  had an objective response (69 patients in the pembrolizumab group and 42 in  the chemotherapy group). §  Duration of response was calculated with the use of the Kaplan–Meier method  for censored data. Plus signs in the ranges indicate the response was ongoing  at cutoff.
+fat igue (3.3%), and decreased appet ite (2.7%) in  the chemotherapy group. A lthough decreased  neutrophil count and neutropenia may ref lect the  same condit ion, they were listed by the invest i- gators as two dist inct events; this is a lso the  case for decreased platelet count and thrombo- cytopenia. Immune-mediated adverse events, both those  that were and those that were not attributed by  the invest igator to treatment, occurred in 29.2%  of pat ients in the pembrolizumab group and in  4.7% of pat ients in the chemotherapy group;  grade 3 or 4 immune-mediated events occurred  in 9.7% and 0.7% of pat ients, respect ively (Ta- ble 3). The only grade 3 or 4 immune-mediated  events that occurred in two or more pat ients  occurred in the pembrolizumab group: severe  skin reactions (in 3.9%), pneumonitis (2.6%), and  colitis (1.3%). There were no grade 5 immune- mediated events.
+D i s c u s s i on
+The results of this randomized trial showed the  superiorit y of ant i–PD-1 therapy over plat inum-
+based combinat ion chemotherapy as f irst-line  treatment for advanced NSCLC with PD-L1 ex- pression on at least 50% of tumor cells and with  no sensit izing EGFR mutat ions or ALK transloca- t ions. First-line treatment with pembrolizumab  resulted in signif icant ly longer progression-free  and overall sur vival than did standard chemo- therapy, which included the use of pemetrexed  maintenance therapy for pat ients with nonsqua- mous tumors. The magnitude of benef it observed  in the chemotherapy group is consistent with  that previously obser ved with plat inum-based  combinat ion regimens and pemet rexed ma inte- nance therapy.8-10 The longer progression-free  sur vival with pembrolizumab than with chemo- therapy was obser ved across all subgroups ana- lyzed and thus appeared to occur independent ly  of pat ient age, sex, ECOG performance-status  score, tumor histologic t ype, region of enroll- ment, presence or absence of brain metastases at  baseline, chemotherapy regimen administered,  and smoking status, although the low number of  pat ients who had never smoked (24 pat ients)  precludes accurate interpretat ion of the benef it  in this populat ion. The benef it of pembrolizu- mab observed in pat ients who had squamous  tumors is notable, given the limited treatment  opt ions available for these pat ients. Pembrolizu- mab was also associated with a higher object ive  response rate, a longer durat ion of response, and  a lower frequency of treatment-related adverse  events than was chemotherapy. Pembrolizumab was associated with signif i- cant ly longer overa ll sur viva l than was chemo- therapy, despite the low number of deaths ob- ser ved and the potent ially confounding ef fect of  crossover from the chemotherapy group to the  pembrolizumab group. On the basis of data  from the second interim analysis, the data and  safet y monitoring committee recommended that  the trial be stopped and that pat ients remaining  in the chemotherapy group be of fered pembroli- zumab. At the t ime of data cutof f, 35.4% of the  enrolled pat ients had died and 43.7% of the pa- t ients in the chemotherapy group had crossed  over to receive pembrolizumab. These data un- derscore the substant ial benef it of pembrolizu- mab as init ial therapy for advanced NSCLC with  PD-L1 expression on at least 50% of tumor cells. All the pat ients enrolled in this study had a  PD-L1 tumor proport ion score of 50% or greater.  The 50% cutof f was established on the basis of  data from the KEYNOTE-001 t ria l that showed 
+1830
+n engl j med 375;19 nejm.org November 10, 2016
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Pembrol i zum a b v s . Chemo ther a p y for PD -L 1– Po si t i v e Lung C ancer
+Table 3. Adverse Events in the As-Treated Population.*
+Adverse Event
+Treatment-related† Any Serious Led to discontinuation Led to death Occurred in ≥10% of patients in either  group‡ Nausea Anemia Fatigue Decreased appetite Diarrhea Neutropenia Vomiting Pyrexia Constipation Stomatitis Decreased neutrophil count Increased blood creatinine level Decreased platelet count Thrombocytopenia Decreased white-cell count Dysgeusia Immune-mediated§ Any Hypothyroidism Hyperthyroidism Pneumonitis Infusion reaction Severe skin reaction Thyroiditis Colitis Myositis Hypophysitis Nephritis Pancreatitis Type 1 diabetes mellitus
+Pembrolizumab Group  (N = 154)
+Chemotherapy Group   (N = 150)
+Any Grade
+Grade 3, 4, or 5
+Any Grade
+Grade 3, 4, or 5
+number of patients (percent)
+113 (73.4) 33 (21.4) 11 (7.1) 1 (0.6)
+41 (26.6) 29 (18.8) 8 (5.2) 1 (0.6)
+135 (90.0) 31 (20.7) 16 (10.7) 3 (2.0)
+15 (9.7) 8 (5.2) 16 (10.4) 14 (9.1) 22 (14.3) 1 (0.6) 4 (2.6) 16 (10.4) 6 (3.9) 4 (2.6) 0 3 (1.9) 0 0 1 (0.6) 1 (0.6)
+45 (29.2) 14 (9.1) 12 (7.8) 9 (5.8) 7 (4.5) 6 (3.9) 4 (2.6) 3 (1.9) 3 (1.9) 1 (0.6) 1 (0.6) 1 (0.6) 1 (0.6)
+0 3 (1.9) 2 (1.3) 0 6 (3.9) 0 1 (0.6) 0 0 0 0 0 0 0 0 0
+15 (9.7) 0 0 4 (2.6) 0 6 (3.9) 0 2 (1.3) 0 1 (0.6) 1 (0.6) 1 (0.6) 1 (0.6)
+65 (43.3) 66 (44.0) 43 (28.7) 39 (26.0) 20 (13.3) 34 (22.7) 30 (20.0) 8 (5.3) 17 (11.3) 18 (12.0) 20 (13.3) 15 (10.0) 18 (12.0) 17 (11.3) 16 (10.7) 15 (10.0)
+7 (4.7) 2 (1.3) 2 (1.3) 1 (0.7) 2 (1.3) 0 0 0 0 0 0 0 0
+80 (53.3) 29 (19.3) 9 (6.0) 3 (2.0)
+3 (2.0) 29 (19.3) 5 (3.3) 4 (2.7) 2 (1.3) 20 (13.3) 1 (0.7) 0 0 2 (1.3) 6 (4.0) 1 (0.7) 9 (6.0) 8 (5.3) 3 (2.0) 0
+1 (0.7) 0 0 1 (0.7) 0 0 0 0 0 0 0 0 0
+*  The as-treated population included all patients who received at least one dose of a trial treatment. For the patients in  the chemotherapy group who crossed over to the pembrolizumab group after disease progression, only events that   occurred during treatment with the assigned chemotherapy regimen are included. †  Events were attributed to treatment by the investigator and are listed as indicated by the investigator on the case-report  form. Although decreased neutrophil count and neutropenia may reflect the same condition, they were listed by the in- vestigators as two distinct events; this is also the case for decreased platelet count and thrombocytopenia. ‡  Events are listed in descending order of frequency in the total population. §  The immune-mediated events, both those that were and those that were not attributed to study treatment by the inves- tigator, are listed in descending order of frequency in the pembrolizumab group. In addition to specific preferred terms,  related terms are also included.
+n engl j med 375;19 nejm.org November 10, 2016
+1831
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e n e w e n g l a n d j o u r n a l o f m e d i c i n e
+a signif icant ly increased object ive response rate  in this populat ion.2 The preva lence of a tu- mor propor t ion score of 50% or greater in the  KEYNOTE-024 screened populat ion (30.2%) was  consistent with the prevalence obser ved in the  KEYNOTE-001 trial among previously untreated  pat ients (24.9%) and in the KEYNOTE-010 trial  among previously treated pat ients (28%).1,2 On- going phase 3 studies, such as KEYNOTE-042  (ClinicalTrials.gov number, NCT02220894), will  assess the benef it of pembrolizumab over chemo- therapy in previously unt reated pat ients who  have a tumor proport ion score of 1% or greater. In the KEYNOTE-024 trial, pembrolizumab  was administered at a f ixed dose. Pharmacok i- net ic modeling suggested that a 200-mg f ixed  dose of pembrolizumab would provide exposure  similar to the weight-based dosing regimens  used in previous studies of pembrolizumab.11  The progression-free sur viva l, overa ll sur viva l,  object ive response rate, and durat ion of response  obser ved in the pembrolizumab group in this  t ria l are consistent with those obser ved in pa- t ients enrolled in the KEYNOTE-001 trial who  had previously untreated NSCLC with a PD-L1  tumor proport ion score of 50% or greater and  who were treated with pembrolizumab at a dose  of 10 mg per kilogram4; these results suggest  that 200 mg is an appropriate dose of pembroli- zumab for this pat ient populat ion. The safety prof ile of pembrolizumab observed  in this trial was consistent with that seen previ-
+ously with pembrolizumab for the treatment of  advanced NSCLC1,2 and other tumor t ypes.12-16  The safet y prof ile of chemotherapy was a lso as  expected. Immune-mediated adverse events (in- cluding pneumonit is) occurred more frequent ly  in the pembrolizumab group than in the chemo- therapy group, whereas cytopenias occurred more  frequently in the chemotherapy group than in the  pembrolizumab group; these results are consis- tent with the mechanism of act ion for each  therapy. Most immune-mediated events were of  grade 1 or 2 severit y, and none led to death.  However, the overall safet y prof ile appeared to  be better with pembrolizumab than with chemo- therapy. In conclusion, the results of the KEYNOTE-024  trial showed that pembrolizumab was associated  with longer progression-free and overall sur vival  and fewer treatment-related adverse events than  was plat inum-based combinat ion chemotherapy  in pat ients with previously unt reated advanced  NSCLC and a PD-L1 tumor proport ion score of  50% or greater.
+Supported by Merck (Kenilworth, N J). Disclosure forms provided by the authors are available with  the full text of this art icle at NEJM.org. We thank the pat ients and their families and caregivers for  part icipat ing in this study, a long with a ll invest igators and site  personnel; the staf f of LabCorp Clinica l Tria ls, Los Angeles, for  performing the PD-L1 screening; X iaoyun Li, Ziwen Wei, and Jin  Zhang (Merck) for stat ist ica l support; Jessica McClean and Mar- garet Smith (Merck) for study support; Marisa Dolled-Filhart  and Kenneth Emancipator (Merck) for expert ise in PD-L1 immu- nohistochemist r y; and Roger Dansey (Merck) for crit ica l review  of an earlier draf t of the manuscript.
+R e fe r enc e s 1. Herbst RS, Baas P, K im DW, et a l.  Pembrolizumab versus docetaxel for previ- ously treated, PD-L1-positive, advanced non- small-cell lung cancer (KEYNOTE-010): a  randomised cont rolled t ria l. Lancet 2016;  387: 1540-50. 2 . Garon EB, Rizvi NA, Hui R, et a l.  Pembrolizumab for the t reatment of non– small-cell lung cancer. N Engl J Med 2015;  372: 2018-28. 3. Chatter jee M, Turner DC, Felip E, et al.  Systemat ic eva luat ion of pembrolizumab  dosing in pat ients with advanced non- sma ll-cell lung cancer. Ann Oncol 2016;  27: 1291-8. 4. Hui R, Gandhi L, Carcereny E, et a l.  Long-term OS for pat ients with advanced  NSCLC enrol led in the KEYNOTE-001  study of pembrolizumab (pembro). J Clin  Oncol 2016; 34(15 Suppl): 9026. abst ract. 5. Eisenhauer EA, Therasse P, Bogaerts J,  et a l. New response eva luat ion criteria in  solid tumours: revised RECIST guideline  (version 1.1). Eur J Cancer 2009; 45: 228-47. 6. PD-L1 IHC 22C3 pharmDx. Carpinte-
+ria, CA:  Dako North America, 2015 (pack- age insert). 7. Roach C, Zhang N, Corigliano E, et a l.  Development of a companion diagnost ic  PD-L1 immunoh istochem ist r y assay for  pembrolizumab therapy in non-sma ll-cell  lung cancer. Appl Immunohistochem Mol  Morphol 2016; 24: 392-7. 8. Pilk ington G, Boland A, Brown T,  Oyee J, Bagust A, Dickson R. A systemat ic  rev iew of the cl in ica l ef fect iveness of  f irst-line chemotherapy for adult pat ients  with loca lly advanced or metastat ic non- sma ll cell lung cancer. Thorax 2015; 70:  359-67. 9. Tan PS, Lopes G, Achary ya S, Bilger M,  Haa land B. Bayesian network meta-com- parison of maintenance t reatments for  stage IIIb/IV non-sma ll-cell lung cancer  (NSCLC) pat ients with good performance  status not progressing af ter f irst-line in- duct ion chemotherapy: results by perfor- mance status, EGFR mutat ion, histolog y  and response to previous induct ion. Eur J  Cancer 2015; 51: 2330-44.
+10. X iao HQ , Tian RH, Zhang ZH, Du KQ ,  Ni YM. Ef f icacy of pemet rexed plus plat i- num doublet chemotherapy as f irst-line  t reatment for advanced nonsquamous  non-sma l l-cel l-lung cancer: a systemat ic  rev iew and met a-ana lysis. Onco Targets  Ther 2016; 9: 1471-6. 11. Freshwater T, Stone J, de Greef R, et al.  Assessment of pembrolizumab (MK-3475)  dosing st rateg y based on popu lat ion  pharmacok inet ics and exposure-response  models. Presented at the 6th American  Conference on Pharmacomet rics, Arling- ton, VA, October 3–7, 2015. 12 . Ribas A, Puzanov I, Dummer R, et a l.  Pembrolizumab versus invest igator-choice  chemotherapy for ipilimumab-refractor y  melanoma (KEYNOTE-002): a randomised,  cont rolled, phase 2 t ria l. Lancet Oncol  2015; 16: 908-18. 13. Robert C, Schachter J, Long GV, et a l.  Pembrolizumab versus ipilimumab in ad- vanced melanoma. N Engl J Med 2015;  372: 2521-32. 14. Muro K, Chung HC, Shankaran V,  
+1832
+n engl j med 375;19 nejm.org November 10, 2016
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Pembrol i zum a b v s . Chemo ther a p y for PD -L 1– Po si t i v e Lung C ancer
+et a l. Pembrol izumab for pat ients w ith  PD-L1-posit ive advanced gast r ic cancer  (KEYNOTE-012): a multicentre, open-label,  phase 1b t ria l. Lancet Oncol 2016; 17: 717- 26. 15. Nanda R, Chow LQ , Dees EC, et a l.
+Pembrolizumab in pat ients with advanced  t r iple-negat ive breast cancer: phase Ib  KEYNOTE-012 study. J Clin Oncol 2016;  34: 2460-7. 16. Seiwert TY, Burtness B, Mehra R, et al.  Safet y and clinical act ivit y of pembroli-
+zumab for treatment of recurrent or meta- stat ic squamous cell carcinoma of the head  and neck (KEYNOTE-012): an open-label,  mult icentre, phase 1b trial. Lancet Oncol  2016; 17: 956-65.
+Copyright © 2016 Massachusetts Medical Society.
+n engl j med 375;19 nejm.org November 10, 2016
+1833
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 28, 2019. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. 

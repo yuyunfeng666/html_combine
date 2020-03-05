@@ -1,0 +1,1395 @@
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+HHS Public Access
+Author manuscript
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+Published in final edited form as: N Engl J Med. 2015 July 9; 373(2): 123–135. doi:10.1056/NEJMoa1504627.
+Nivolumab versus Docetaxel in Advanced Squamous-Cell Non– Small-Cell Lung Cancer
+Julie Brahmer, M.D., Karen L. Reckamp, M.D., Paul Baas, M.D., Lucio Crinò, M.D. , Wilfried  E.E. Eberhardt, M.D., Elena Poddubskaya, M.D., Scott Antonia, M.D., Ph.D., Adam  Pluzanski, M.D., Ph.D., Everett E. Vokes, M.D., Esther Holgado, M.D., Ph.D., David  Waterhouse, M.D., Neal Ready, M.D., Justin Gainor, M.D., Osvaldo Ar én Frontera, M.D. ,  Libor Havel, M.D., Martin Steins, M.D., Marina C. Garassino, M.D., Joachim G. Aerts, M.D.,  Manuel Domine, M.D., Luis Paz-Ares, M.D., Martin Reck, M.D., Christine Baudelet, Ph.D.,  Christopher T. Harbison, Ph.D., Brian Lestini, M.D., Ph.D., and David R. Spigel, M.D.
+Abstract
+Background— Patients with advanced squamous-cell non–small-cell lung cancer (NSCLC) who  have disease progression during or after first-line chemotherapy have limited treatment options.  This randomized, open-label, international, phase 3 study evaluated the efficacy and safety of  nivolumab, a fully human IgG4 programmed death 1 (PD-1) immune-checkpoint–inhibitor  antibody, as compared with docetaxel in this patient population.
+Methods— We randomly assigned 272 patients to receive nivolumab, at a dose of 3 mg per  kilogram of body weight every 2 weeks, or docetaxel, at a dose of 75 mg per square meter of  body-surface area every 3 weeks. The primary end point was overall survival.
+Results— The median overall survival was 9.2 months (95% confidence interval [CI], 7.3 to  13.3) with nivolumab versus 6.0 months (95% CI, 5.1 to 7.3) with docetaxel. The risk of death  was 41% lower with nivolumab than with docetaxel (hazard ratio, 0.59; 95% CI, 0.44 to 0.79;  P<0.001). At 1 year, the overall survival rate was 42% (95% CI, 34 to 50) with nivolumab versus  24% (95% CI, 17 to 31) with docetaxel. The response rate was 20% with nivolumab versus 9%  with docetaxel (P = 0.008). The median progression-free survival was 3.5 months with nivolumab  versus 2.8 months with docetaxel (hazard ratio for death or disease progression, 0.62; 95% CI,  0.47 to 0.81; P<0.001). The expression of the PD-1 ligand (PD-L1) was neither prognostic nor  predictive of benefit. Treatment-related adverse events of grade 3 or 4 were reported in 7% of the  patients in the nivolumab group as compared with 55% of those in the docetaxel group.
+Conclusions— Among patients with advanced, previously treated squamous-cell NSCLC,  overall survival, response rate, and progression-free survival were significantly better with  nivolumab than with docetaxel, regardless of PD-L1 expression level. (Funded by Bristol-Myers  Squibb; CheckMate 017 ClinicalTrials.gov number, NCT01642004.)
+Address reprint requests to Dr. Brahmer at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Bunting-Blaustein  Cancer Research Bldg., 1650 Orleans St., Rm. G94, Baltimore, MD 21287, or at brahmju@jhmi.edu.  Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+        Brahmer et al.
+Page 2
+Squamous-cell carcinoma represents approximately 30% of all cases of non– small-cell lung  cancer (NSCLC).1 Treatment for advanced squamous-cell NSCLC remains an unmet need;  little therapeutic progress has been made since the approval of docetaxel for second-line  treatment in 1999.2-4 Most new agents for the treatment of NSCLC are not indicated for this  subtype because of their toxicity or lack of efficacy or because their activity is limited to  tumors with specific genetic alterations that are rarely found in squamous-cell NSCLC.5-7  Furthermore, no single-agent therapy has resulted in better survival than that seen with  docetaxel.
+The programmed death 1 (PD-1) receptor, which is expressed on activated T cells, is  engaged by ligands PD-L1 and PD-L2, which are expressed by tumor cells and infiltrating  immune cells.8 Tumor PD-L1 expression is prevalent in NSCLC, and the interaction of  PD-1 with the PD-L1 and PD-L2 ligands inhibits T-cell activation and promotes tumor  immune escape (i.e., the mechanism by which tumor cells escape recognition and  elimination by the immune system).8-10 Nivolumab is a fully human IgG4 PD-1 immune- checkpoint– inhibitor antibody that disrupts PD-1–mediated signaling and restores antitumor  immunity.11-13 Nivolumab has activity across NSCLCs with various histologic  features.11,13-15
+In phase 1 and 2 trials, nivolumab was associated with response rates of 15% and  approximately 17%, with a median overall survival of 8.2 to 9.2 months and survival rates  of 41% at 1 year and 19% at 3 years, among previously treated patients with advanced  squamous-cell NSCLC.14,15 We report the results of a randomized, openlabel, international,  phase 3 study that compared nivolumab monotherapy with docetaxel monotherapy in  patients with advanced squamous-cell NSCLC in whom the disease progressed during or  after one prior platinum-containing chemotherapy regimen.
+Patients with stage IIIB or IV squamous-cell NSCLC who had disease recurrence after one  prior platinum-containing regimen were eligible for participation in the study. Eligible  patients were 18 years of age or older, had an Eastern Cooperative Oncology Group (ECOG)  performance-status score of 0 or 1 (on a scale from 0 to 5, with higher scores indicating  greater disability; a score of 0 indicates no symptoms, and 1 mild symptoms), and had  submitted a pretreatment tumor-tissue specimen for biomarker analyses. Patients with  treated, stable brain metastases were eligible. Key exclusion criteria were autoimmune  disease, symptomatic interstitial lung disease, systemic immunosuppression, prior therapy  with T-cell costimulation or checkpoint-targeted agents, or prior docetaxel therapy. Patients  who had received more than one prior systemic therapy for meta-static disease were  excluded. Prior maintenance therapy, including an epidermal growth factor receptor tyrosine  kinase inhibitor, was allowed. The complete eligibility criteria are provided in the study  protocol, available with the full text of this article at NEJM.org.
+Methods
+Patients
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+Study Design and Treatments
+Page 3
+From October 2012 through December 2013, we enrolled 352 patients, of whom 272  underwent randomization; 135 patients were randomly assigned to receive nivolumab, at a  dose of 3 mg per kilogram of body weight every 2 weeks, and 137 were randomly assigned  to received docetaxel, at a dose of 75 mg per square meter of body-surface area every 3  weeks (Fig. S1A in the Supplementary Appendix, available at NEJM.org). Both drugs were  administered intravenously. Patients were treated until disease progression or  discontinuation of treatment owing to toxic effects or for other reasons (Fig. S1B in the  Supplementary Appendix).
+Randomization was stratified according to prior use of paclitaxel therapy (yes vs. no) and  geographic region (United States or Canada vs. Europe vs. rest of the world [Argentina,  Australia, Chile, Mexico, and Peru]). For patients in the nivolumab group, treatment after  initial disease progression was permitted at the investigator's discretion according to criteria  specified in the protocol. Requirements for treatment delay or discontinuation because of  treatment-related adverse events were specified in the protocol, as were requirements  regarding reductions in the docetaxel dose owing to toxic effects, which conformed with the  prescribing information on the product label. Reductions in the nivolumab dose were not  permitted.
+End Points and Assessments
+The primary end point was overall survival. Patients were followed for survival  continuously while they were receiving the study drugs and then every 3 months after  discontinuation of treatment. Initially, confirmed objective response rate was also a primary  end point, but on the basis of mature data regarding the objective response rate in an  expanded cohort of patients with NSCLC who had been treated in the phase 1b study  MDX-1106-03 (ClinicalTrials.gov number, NCT00730639),13 the current trial was amended  before the planned interim analysis to make overall survival the sole primary end point. The  rate of investigator-assessed confirmed objective response was modified to be the first  secondary end point. Additional end points included progression-free survival, patient- reported outcomes, efficacy according to tumor PD-L1 expression, and safety.
+Tumor response was assessed with the use of the Response Evaluation Criteria in Solid  Tumors (RECIST), version 1.1,16 at week 9 and every 6 weeks thereafter. Patient-reported  outcomes regarding disease-related symptoms and health status were assessed with the use  of the Lung Cancer Symptom Scale and the European Quality of Life–5 Dimensions  questionnaire. Outcome measures included the proportion of patients who had clinically  meaningful improvement in the average Lung Cancer Symptom Scale score by week 12.  Analyses of patient-reported outcomes are ongoing.
+Safety was assessed by means of evaluations of the incidence of adverse events, which were  graded with the use of the National Cancer Institute Common Terminology Criteria for  Adverse Events, version 4.0. Select adverse events (those with potential immunologic  causes) were grouped according to prespecified categories.
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+PD-L1 Biomarker Analysis
+Page 4
+PD-L1 protein expression was evaluated retrospectively in pretreatment (archival or recent)  tumor-biopsy specimens with the use of a validated automated immunohistochemical assay  (Dako North America) that used a rabbit monoclonal antihuman PD-L1 antibody (clone 28– 8, Epitomics). Samples were categorized as positive when staining of the tumor-cell  membrane (at any intensity) was observed at prespecified expression levels of 1%, 5%, or  10% of cells in a section that included at least 100 tumor cells that could be evaluated.
+Study Oversight
+The study was designed by the academic authors in collaboration with the sponsor (Bristol- Myers Squibb); the sponsor also worked jointly with investigators to collect and analyze the  data. The study protocol was approved by an institutional review board at each participating  institution. The study was conducted in accordance with the provisions of the Declaration of  Helsinki and Good Clinical Practice guidelines as defined by the International Conference  on Harmonisation. Written informed consent was obtained from all the patients before  enrollment.
+An independent data and safety monitoring committee provided oversight of safety and  efficacy. On January 10, 2015, the committee recommended early termination of the study  on the basis of a prespecified interim analysis that showed that overall survival among  patients receiving nivolumab was superior to that among those receiving docetaxel. Planned  enrollment was complete before the study was stopped. We report the results of the interim  analysis here, which are based on a December 15, 2014, database lock.
+All the authors attest that the study was conducted in accordance with the protocol and  vouch for the accuracy and completeness of the data and analyses. The first draft of this  manuscript was written by the first and last authors; all the authors contributed to subsequent  drafts and made the decision to submit the manuscript for publication. All the authors signed  a confidentiality agreement with the sponsor. Medical-writing support, funded by the  sponsor, was provided by StemScientific.
+Statistical Analysis
+Overall survival and progression-free survival were analyzed with the use of a two-sided  log-rank test stratified according to prior or no prior paclitaxel use and geographic region.  Hazard ratios and corresponding confidence intervals were estimated with the use of a  stratified Cox proportional-hazards model, with randomized group as a single covariate.  Survival curves for each treatment group were estimated with the use of the Kaplan–Meier  method. Survival rates were derived from the Kaplan–Meier estimates. Objective response  rates were compared with the use of a two-sided, stratified Cochran–Mantel– Haenszel test,  with exact 95% confidence intervals calculated with the use of the Clopper–Pearson method.  Nonconventional benefit (i.e., a reduction in the size or number [or both] of target lesions  with the simultaneous appearance of new lesions, initial disease progression followed by  tumor reduction, or no further progression for at least two tumor assessments) in patients  treated beyond initial progression was not included in response-based analyses (objective  response rate or progression-free survival). Prespecified analyses were performed to 
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 5
+evaluate the prognostic and predictive roles of prestudy status with respect to PD-L1  expression.
+Demographic and efficacy analyses included all the patients who underwent randomization  (intention-to-treat population). Safety analyses included all the treated patients (those who  received at least one dose of study drug). At the time of the interim database lock, 199 of the  272 patients who had undergone randomization had died (86% of the 231 deaths required  for the final analysis). The boundary for declaring superiority for overall survival at the  interim analysis was a P value of less than 0.03, which was based on an O'Brien–Fleming  alpha-spending function. If the P value for overall survival indicated statistical significance,  then the key secondary end points of response rate and progression-free survival were tested  hierarchically at the 5% alpha level.
+Results
+Patients and Treatment
+A total of 96% of the patients who underwent randomization (260 of 272 patients) received  treatment with a study drug: 131 with nivolumab and 129 with docetaxel. The minimum  follow-up was approximately 11 months.
+The median age of the patients was 63 years. Most patients were men, had an ECOG  performance-status score of 1, had stage IV cancer, and were current or former smokers  (Table 1, and Table S1 in the Supplementary Appendix). All the patients had received  platinum-based therapy previously; 34% had received paclitaxel previously. The  demographic and clinical characteristics of the patients were generally well balanced  between the groups, with slight between-group imbalances in the percentages of female  patients, patients 75 years of age or older, and patients with an ECOG performance-status  score of 1.
+A median of 8 doses (range, 1 to 48) of nivolumab and 3 doses (range, 1 to 29) of docetaxel  were administered. Among the patients in the nivolumab group, 85% received at least 90%  of their planned dose intensity. Among the patients in the docetaxel group, 69% received at  least 90% of their planned dose intensity, a finding that is consistent with docetaxel dose  reductions (which occurred in 27% of patients). At least one dose delay occurred in 37% of  the patients in the nivolumab group and in 31% of those in the docetaxel group. The  majority of patients in each group had only one dose delay, and the majority of dose delays  were from 4 to 7 days in duration (in 61% of the total cycles delayed in the nivolumab group  and 71% of those in the docetaxel group). Most delays of nivolumab therapy were  attributable to personal or administrative reasons, disease progression, or the administration  of radiotherapy; most delays of docetaxel therapy were due to adverse events.
+At the time of the database lock, 16% of the patients in the nivolumab group and 2% of  those in the docetaxel group were continuing treatment (Table S2 in the Supplementary  Appendix). After discontinuation of treatment, 36% of the patients in the nivolumab group  and 30% of those in the docetaxel group received subsequent systemic cancer therapy. In the  nivolumab group, 24% of the patients received subsequent docetaxel, reflecting the open-
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+label nature of the study; 2% of the patients in the docetaxel group received subsequent  immunotherapy (Table S3 in the Supplementary Appendix).
+Page 6
+Brahmer et al.
+Efficacy
+The median overall survival was 9.2 months (95% confidence interval [CI], 7.3 to 13.3) in  the nivolumab group as compared with 6.0 months (95% CI, 5.1 to 7.3) in the docetaxel  group. Overall survival was significantly longer with nivolumab than with docetaxel (Fig.  1), with the risk of death 41% lower with nivolumab (hazard ratio, 0.59; 95% CI, 0.44 to  0.79; P<0.001). The overall survival rate at 1 year was 42% (95% CI, 34 to 50) in the  nivolumab group versus 24% (95% CI, 17 to 31) in the docetaxel group. The hazard ratios  for death in the analysis of overall survival favored nivolumab across all prespecified  subgroups, except for the subgroups of patients in the rest-of-world geographic region  (Argentina, Australia, Chile, Mexico, and Peru) and those who were 75 years of age or older  (Fig. S2 in the Supplementary Appendix).
+The rate of confirmed objective response was significantly higher with nivolumab than with  docetaxel (20% [95% CI, 14 to 28] vs. 9% [95% CI, 5 to 15]; P = 0.008) (Table 2, and Fig.  S3 in the Supplementary Appendix). The median time to response was 2.2 months (range,  1.6 to 11.8) in the nivolumab group and 2.1 months (range, 1.8 to 9.5) in the docetaxel group  (Fig. 2A). The median duration of response was not reached in the nivolumab group (range,  2.9 to 20.5+ months, with + indicating an ongoing response at the time of analysis), as  compared with 8.4 months in the docetaxel group (range, 1.4+ [with the + indicating  censored data because the patient received subsequent therapy] to 15.2+ [with the +  indicating an ongoing response]).
+The median progression-free survival was 3.5 months (95% CI, 2.1 to 4.9) in the nivolumab  group and 2.8 months (95% CI, 2.1 to 3.5) in the docetaxel group (hazard ratio for death or  disease progression, 0.62; 95% CI, 0.47 to 0.81; P<0.001) (Fig. 2B, and Fig. S4 in the  Supplementary Appendix). The rate of progression-free survival at 1 year was 21% (95%  CI, 14 to 28) in the nivolumab group and 6% (95% CI, 3 to 12) in the docetaxel group.
+A total of 28 patients were treated with nivolumab after initial progression as defined by  RECIST, version 1.1, with 9 patients having a nonconventional pattern of benefit. The  characteristics of the patients who were treated after progression, including the change in  tumor burden over time, are provided in Figure S5 and Table S4 in the Supplementary  Appendix.
+A total of 83% of the patients who underwent randomization (225 of 272 patients) had  quantifiable PD-L1 expression. Rates of PD-L1 positivity were balanced between the two  treatment groups (Table S5 in the Supplementary Appendix). Across the prespecified  expression levels (1%, 5%, and 10%), PD-L1 expression was neither prognostic nor  predictive of any of the efficacy end points (Fig. 2C, and Table S6 in the Supplementary  Appendix). The rates of overall survival and progression-free survival in the PD-L1  subgroups favored nivolumab and were similar to those in the primary population. Similar  rates of objective response were observed among patients with PD-L1–positive tumors and  those with PD-L1–negative tumors and were consistently higher in the nivolumab group 
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+than in the docetaxel group (Table S5 in the Supplementary Appendix). Survival outcomes  according to PD-L1 expression across all the prespecified expression levels are provided in  Figures S6 and S7 in the Supplementary Appendix.
+Page 7
+Brahmer et al.
+Safety
+Treatment-related adverse events, including both hematologic and nonhematologic toxic  events, occurred less frequently with nivolumab than with docetaxel. In the nivolumab  group, 58% of the patients had events of any grade, 7% had events of grade 3 or 4, and none  had grade 5 events; in the docetaxel group, 86% of the patients had events of any grade,  55% had events of grade 3 or 4, and 2% had events of grade 5 (Table 3, and Table S7 in the  Supplementary Appendix). The most frequently reported treatment-related adverse events  with nivolumab were fatigue (in 16% of the patients), decreased appetite (in 11%), and  asthenia (in 10%); docetaxel-treated patients most frequently had neutropenia (33%), fatigue  (33%), alopecia (22%), and nausea (23%).
+Treatment-related serious adverse events occurred less frequently with nivolumab than with  docetaxel. In the nivolumab group, 7% of the patients had serious events of any grade, 2%  had serious events of grade 3 or 4, and none had grade 5 serious events; in the docetaxel  group, 24% of patients had serious events of any grade, 19% had serious events of grade 3  or 4, and 2% had serious events of grade 5 (Table S8 in the Supplementary Appendix). The  higher rates of treatment-related serious adverse events of grade 3 or 4 with docetaxel than  with nivolumab were attributable mainly to hematologic toxic events and infections.
+The most frequently reported (in ≥3% of patients) treatment-related select adverse events of  any grade were hypothyroidism (4% with nivolumab vs. 0% with docetaxel), diarrhea (8%  vs. 20%), pneumonitis (5% vs. 0%), increased blood creatinine level (3% vs. 2%), and rash  (4% vs. 6%) (Table S9 in the Supplementary Appendix). Three treatment-related select  adverse events of grade 3 were reported in the nivolumab group, with one case each of  tubulointerstitial nephritis, colitis, and pneumonitis; no grade 4 events were reported. The  median times to the onset of treatment-related select adverse events in the nivolumab group  ranged from 0.3 to 17.6 weeks across categories (Table S10 in the Supplementary  Appendix).
+Immune-modulating medications, most often systemic glucocorticoids, were administered  for the management of a percentage (18 to 83%) of treatment-related adverse events in each  category. Topical preparations were also used for the management of skin-related events.  The median times to resolution of treatment-related select adverse events ranged from 0.3 to  5.0 weeks in the nivolumab group (Table S10 in the Supplementary Appendix). The median  time to onset of treatment-related pulmonary events was 15.1 weeks (range, 2.6 to 85.1). All  but one patient with pulmonary events received glucocorticoids, and all cases resolved, with  a median time to resolution of 5.0 weeks (range, 0.6 to 12.1). Among the patients with  resolved cases, one patient had a subsequent recurrence of pneumonitis, which was managed  appropriately with glucocorticoid treatment.
+Treatment-related adverse events led to treatment discontinuation less frequently in the  nivolumab group than in the docetaxel group (in 3% vs. 10% of the patients) (Tables S11 
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 8
+and S12 in the Supplementary Appendix). The most common (in ≥1% of patients)  treatment-related events leading to discontinuation were pneumonitis in the nivolumab  group (in 2%) and peripheral neuropathy and fatigue in the docetaxel group (in 3% and 2%,  respectively). Two additional patients in the nivolumab group discontinued treatment owing  to pneumonitis (one for whom the relationship was changed from not treatment-related to  treatment-related after database lock, and one who discontinued >30 days after the most  recent dose). Details of the four patients who discontinued owing to pneumonitis are  provided in the Supplementary Appendix. No deaths were attributed to nivolumab, as  compared with three deaths that were attributed to docetaxel (one each from interstitial lung  disease, pulmonary hemorrhage, and sepsis).
+Discussion
+Previously treated squamous-cell NSCLC represents an area of unmet need, with little  progress made since the approval of docetaxel in 1999. A retrospective review of recent U.S.  Medicare data indicates that survival remains poor among patients receiving second-line  treatment for squamous-cell NSCLC, with a median overall survival of 6.4 months and  survival rates of 22% at 1 year and 5% at 2 years.17 Here we report results of an  international, prospective, randomized, phase 3 trial that showed superior survival and an  improved safety profile with nivolumab versus standard-of-care docetaxel in patients with  advanced, previously treated squamous-cell NSCLC.
+A phase 3 trial comparing docetaxel with docetaxel plus ramucirumab showed a significant  but modest improvement in overall survival (hazard ratio for death, 0.86; 95% CI, 0.75 to  0.98; P = 0.02) when ramucirumab was added to docetaxel for use in patients with  previously treated squamous-cell and non–squamous-cell cancers, but the addition of  ramucirumab was associated with added toxicity.18,19 In contrast, in our trial, nivolumab  monotherapy, as compared with docetaxel, was associated with a 41% lower risk of death, a  3.2-month longer median survival, and nearly twice the 1-year survival rate. Despite the  confounding effects of comparisons with historical data, the outcomes in the docetaxel  group in the current trial were consistent with expectations that were based on previous  studies in which subgroup data were available for patients with squamous-cell tumors.7, 1 8  Early separation of the Kaplan–Meier estimates favoring nivolumab indicates an early  survival benefit with nivolumab.
+Consistent with the finding of superior overall survival, nivolumab was associated with a  significant improvement across secondary efficacy end points. The rate of confirmed  objective response with nivolumab was more than double that with docetaxel. Most patients  in the nivolumab group had a response by the time the first scan was obtained, and responses  were durable. The durability of benefit was reflected further in the significantly longer  progression-free survival than that seen with docetaxel (38% lower risk of progression). The  observed efficacy of nivolumab was similar to that observed in a phase 2, single-group trial  (CheckMate 063) of nivolumab in the context of third-line therapy and beyond for  squamous-cell NSCLC.15 In that study, nivolumab was associated with a response rate of  15%, a median overall survival of 8.2 months, and a 1-year survival rate of 41%.15  Together, these trials formed the basis for the March 2015 approval of nivolumab by the 
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 9
+Food and Drug Administration for the treatment of patients with metastatic squamous-cell  NSCLC who had disease progression during or after platinum-based chemotherapy.20
+A consistent treatment effect favoring nivolumab was observed in prespecified subgroups,  except in the group of patients 75 years of age or older and the group in the rest-of-the-world  geographic region. This result was probably attributable to small sample sizes, a lack of  adjustment of type I error for multiple comparisons, and an imbalance in ECOG  performance-status score that favored the docetaxel group in the subgroup of patients who  were 75 years of age or older (in this subgroup, an ECOG performance-status score of 1 was  assessed in 91% of the patients in the nivolumab group, vs. 61% of those in the docetaxel  group). Further studies that are focused on a larger elderly population than was included in  our trial may more fully characterize the degree of benefit with nivolumab in this subgroup.
+Early-stage trials have suggested that PD-L1 expression on tumor cells or tumor-infiltrating  lymphocytes (or both) may increase the likelihood of response to PD-1–directed or PD-L1– directed therapies.21,22 Depending on the chosen assay and expression levels, response rates  as high as 83% have been reported.23 However, responses are consistently seen in patients  with tumors or tumor-infiltrating lymphocytes that are not positive for PD-L1.
+In this study, the efficacy of nivolumab, including a survival benefit, was observed  regardless of tumor PD-L1 expression levels, with results showing that PD-L1 expression  was neither prognostic nor predictive of efficacy in the population of patients with  squamous-cell NSCLC. Limitations of these analyses were that PD-L1 expression was  assessed in archival tumor tissue, which may not have reflected tumor PD-L1 status at the  time of treatment, and that only 83% of the patients who underwent randomization had  quantifiable PD-L1 expression. We think that the lack of an association between PD-L1  expression and efficacy is probably not related to the performance of the PD-L1 assay but is  rather a function of complex interactions between tumors and the immune system.
+At least two groups of investigators have suggested that mutational burden or combinations  of immune markers might predict which patients would be more likely to benefit from PD-1  checkpoint inhibition.22,24 Data from the current study indicate that PD-L1 testing is not  required in order to inform treatment decisions regarding the use of nivolumab in second- line therapy of squamous-cell NSCLC and that patients may have a survival benefit that is  independent of PD-L1 expression level.
+The safety profile of nivolumab was more favorable than that of docetaxel, with infrequently  reported toxic effects that are expected with cytotoxic chemotherapies used as second-line  therapies. The frequencies of both hematologic and nonhematologic adverse events,  including severe toxic events, were substantially less with nivolumab than with docetaxel, as  were adverse events leading to discontinuation. No new safety concerns were identified, and  no deaths were attributed to nivolumab. Immune-mediated adverse events with  immunotherapies such as nivolumab differ from those seen with traditional cytotoxic  therapies, and particular attention should be given to rapid evaluation and initiation of  treatment. These adverse events, including pneumonitis, were infrequent and of low severity  in this study and were managed with the use of established guidelines.
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+Page 10
+In conclusion, nivolumab is a PD-1 checkpoint inhibitor that showed a clinically meaningful  survival benefit, with an improved safety profile, over that seen with the current standard of  care in patients with advanced, previously treated squamous-cell NSCLC. The benefit was  observed regardless of prestudy PD-L1 expression level. Further research is needed to  identify relevant biomarkers that have sufficient sensitivity and specificity to predict which  patients are most likely to benefit.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Supported by Bristol-Myers Squibb.
+Appendix
+We thank the patients and their families, as well as the study teams involved in the trial, for making this study  possible; the staff of Dako North America for collaborative development of the automated immunohistochemical  assay for assessing the programmed death 1 ligand; Haolan Lu, Ph.D., for serving as lung-indication biostatistics  lead; Konstantina Gialelis, B.S., for serving as the protocol manager; Rosaria Gallucci, B.Sc., for serving as the  study coordinator at Fondazione IRCCS Istituto Nazionale dei Tumori, Milan; and Michel van den Heuvel, M.D.,  Ph.D., of Netherlands Cancer Institute, Amsterdam, for contributions to the conduct of the study. Earlier versions of  the manuscript were prepared with medical-writing and editorial assistance provided by Elyse Mallimo, Ph.D., and  Lisa Sullivan, M.A., of StemScientific, with funding from Bristol-Myers Squibb.
+The authors ' affiliations are as follows: the Sidney Kimmel Comprehensive Cancer Center at  Johns Hopkins, Baltimore (J.B.); the City of Hope Comprehensive Cancer Center, Duarte,  CA (K.L.R.); the Netherlands Cancer Institute and Antoni van Leeuwenhoek Hospital,  Amsterdam (P.B.), Erasmus MC Cancer Institute, Rotterdam (J.G.A.), and Ziekenhuis  Amphia, Breda (J.G.A.) — all in the Netherlands; the University Hospital of Perugia,  Perugia (L.C.), and the Fondazione IRCCS Istituto Nazionale dei Tumori, Milan (M.C.G.)  — both in Italy; the Department of Medical Oncology, West German Cancer Center,  Universitätsklinikum Essen, and the Ruhrlandklinik, Universit ät Duisburg–Essen, Essen  (W.E.E.E.), the Thoraxklinik, Heidelberg University Hospital, Heidelberg (M.S.), and the  LungenClinic Grosshansdorf, Grosshansdorf (M.R.) — all in Germany; the N.N. Blokhin  Russian Cancer Research Center, Moscow (E.P.); the H. Lee Moffitt Cancer Center and  Research Institute, Tampa, FL (S.A.); the Centrum Onkologii-Instytut im. Marii  Skłodowskiej-Curie, Warsaw, Poland (A.P.); the University of Chicago Medicine and  Biological Sciences, Chicago (E.E.V.); the Hospital Madrid Norte Sanchinarro (E.H.), the  Hospital Universitario Fundaci ón Jiménez Díaz, Madrid (M.D.), and the Hospital  Universitario Virgen Del Rocío, Seville (L.P.-A.) — all in Spain; Oncology Hematology  Care, Cincinnati (D.W.); the Duke University Medical Center, Durham, NC (N.R.);  Massachusetts General Hospital, Boston (J.G.); Centro Internacional de Estudios Clinicos,  Santiago, Chile (O.A.F.); Nemocnice Na Bulovce, Prague, Czech Republic (L.H.); Bristol- Myers Squibb, Princeton, NJ (C.B., C.T.H., B.L.); and the Sarah Cannon Research Institute  and Tennessee Oncology, Nashville (D.R.S.).
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+References
+Page 11
+1. Travis WD. Pathology of lung cancer. Clin Chest Med. 2011; 32:669–92. [PubMed: 22054879]  2. Fossella FV, DeVore R, Kerr RN, et al. Randomized phase III trial of docetaxel versus vinorelbine  or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with  platinum-containing chemotherapy regimens: the TAX 320 Non-Small Cell Lung Cancer Study  Group. J Clin Oncol. 2000; 18:2354–62. [PubMed: 10856094]  3. Shepherd FA, Dancey J, Ramlau R, et al. Prospective randomized trial of docetaxel versus best  supportive care in patients with non-small-cell lung cancer previously treated with platinum-based  chemotherapy. J Clin Oncol. 2000; 18:2095–103. [PubMed: 10811675]  4. Taxotere (docetaxel) U S prescribing information. Bridgewater, NJ: Sanofi-Aventis; May 2010.  http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020449s059lbl.pdf 5. National Comprehensive Cancer Network (NCCN). Non-small cell lung cancer guidelines, v4.  2015. http://www.nccn.org/professionals/physician_gls/f_guidelines.asp#nscl 6. Kim ES, Hirsh V, Mok T, et al. Gefitinib versus docetaxel in previously treated non-small-cell lung  cancer (INTEREST): a randomised phase III trial. Lancet. 2008; 372:1809–18. [PubMed:  19027483]  7. Hanna N, Shepherd FA, Fossella FV, et al. Randomized phase III trial of pemetrexed versus  docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin  Oncol. 2004; 22:1589–97. [PubMed: 15117980]  8. Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. Nat Rev Cancer.  2012; 12:252–64. [PubMed: 22437870]  9. Chen YB, Mu CY, Huang JA. Clinical significance of programmed death-1 ligand-1 expression in  patients with non-small cell lung cancer: a 5-year-follow-up study. Tumori. 2012; 98:751–5.  [PubMed: 23389362]  10. Velcheti V, Schalper KA, Carvajal DE, et al. Programmed death ligand-1 expression in non-small  cell lung cancer. Lab Invest. 2014; 94:107–16. [PubMed: 24217091]  11. Brahmer JR, Drake CG, Wollner I, et al. Phase I study of single-agent anti-programmed death-1  (MDX-1106) in refractory solid tumors: safety, clinical activity, pharmacodynamics, and  immunologic correlates. J Clin Oncol. 2010; 28:3167–75. [PubMed: 20516446]  12. Wang C, Thudium KB, Han M, et al. In vitro characterization of the anti-PD-1 antibody  nivolumab, BMS-936558, and in vivo toxicology in non-human primates. Cancer Immunol Res.  2014; 2:846–56. [PubMed: 24872026]  13. Topalian SL, Hodi FS, Brahmer JR, et al. Safety, activity, and immune correlates of anti-PD-1  antibody in cancer. N Engl J Med. 2012; 366:2443–54. [PubMed: 22658127]  14. Gettinger SN, Horn L, Gandhi L, et al. Overall survival and long-term safety of nivolumab (anti- PD-1 antibody, BMS-936558, ONO-4538) in patients with previously treated advanced non-small- cell lung cancer. J Clin Oncol. 2015 Apr 20. Epub ahead of print.  15. Rizvi NA, Mazières J, Planchard D, et al. Activity and safety of nivolumab, an anti-PD-1 immune  checkpoint inhibitor, for patients with advanced, refractory squamous non-small-cell lung cancer  (CheckMate 063): a phase 2, single-arm trial. Lancet Oncol. 2015; 16:257–65. [PubMed:  25704439]  16. Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours:  revised RECIST guideline (version 1.1). Eur J Cancer. 2009; 45:228–47. [PubMed: 19097774]  17. Penrod JR, Korytowsky B, Petrilla A, et al. Survival of U.S. Medicare patients with advanced non  small cell lung cancer by line of therapy. J Clin Oncol. 2014; 32:15. Suppl. abstract.  18. Garon EB, Ciuleanu TE, Arrieta O, et al. Ramucirumab plus docetaxel versus placebo plus  docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease  progression on platinum-based therapy (REVEL): a multicentre, double-blind, randomised phase 3  trial. Lancet. 2014; 384:665–73. [PubMed: 24933332]  19. Cyramza (ramucirumab) U S prescribing information. Indianapolis: Eli Lilly; Dec 2014. http:// pi.lilly.com/us/cyramza-pi.pdf
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+Page 12
+20. FDA expands approved use of Opdivo to treat lung cancer. Press release of the Food and Drug  Administration; Bethesda, MD: Mar 4. 2015 http://www.fda.gov/newsevents/newsroom/ pressannouncements/ucm436534.htm 21. Garon EB, Gandhi L, Rizvi N, et al. Antitumor activity of pembrolizumab (Pembro; MK-3475)  and correlation with programmed death ligand 1 (PD-L1) expression in a pooled analysis of  patients (pts) with advanced non-small cell lung carcinoma (NSCLC). Ann Oncol. 2014; 25 Suppl  5. abstract.  22. Herbst RS, Soria JC, Kowanetz M, et al. Predictive correlates of response to the anti-PD-L1  antibody MPDL3280A in cancer patients. Nature. 2014; 515:563–7. [PubMed: 25428504]  23. Soria JC, Cruz C, Bahleda R, et al. Clinical activity, safety and biomarkers of PD-L1 blockade in  non-small cell lung cancer (NSCLC): additional analyses from a clinical study of the engineered  antibody MPDL3280A (anti-PDL1). Eur J Cancer. 2013; 49 Suppl 2. abstract.  24. Rizvi NA, Hellmann MD, Snyder A, et al. Cancer immunology: mutational landscape determines  sensitivity to PD-1 blockade in non-small cell lung cancer. Science. 2015; 348:124–8. [PubMed:  25765070] 
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+Page 13
+Figure 1. Kaplan –Meier Curves for Overall Survival
+The analysis included all the patients who underwent randomization. Symbols indicate  censored observations, and horizontal lines the rates of overall survival at 1 year.
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 14
+Figure 2. Efficacy of Nivolumab versus Docetaxel in Patients with Advanced Squamous-Cell  Non –Small-Cell Lung Cancer
+Panel A shows the characteristics of response and disease progression as assessed by the  investigator, according to the Response Evaluation Criteria in Solid Tumors, version 1.1.  Bars indicate the duration of response. Arrows indicate ongoing response at the time of data  censoring. Panel B shows the Kaplan–Meier curves for progression-free survival, defined as  the time from randomization to the date of the first documented event of tumor progression,  death, or last tumor assessment that could be evaluated (data-censoring date). The analysis  included all the patients who underwent randomization. Symbols indicate censored  observations, and the horizontal lines the rates of progression-free survival at 1 year. Panel  C shows the plot of hazard ratios for death (in the analysis of overall survival) and death or  disease progression (in the analysis of progression-free survival), according to the level of  expression of the ligand for programmed death 1 (PD-L1) at baseline. The prespecified 
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        Brahmer et al.
+Page 15
+expression levels for the PD-L1 biomarker analysis were 1%, 5%, and 10% of cells in a  section with at least 100 tumor cells that could be evaluated.
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        A
+u h o
+t
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 16
+Table 1
+Baseline Characteristics, Stratification Factors, and Prior Therapy*
+Characteristic
+Nivolumab (N = 135) Docetaxel (N = 137) Total (N = 272)
+Age — yr
+ Median
+62
+64
+63
+ Range
+39–85
+42–84
+39–85
+Age category — no. (%)
+ <65 yr
+79 (59)
+73 (53)
+152 (56)
+≥65 to <75 yr
+45 (33)
+46 (34)
+91 (33)
+≥75 yr
+11 (8)
+18 (13)
+29 (11)
+Sex — no. (%)
+ Male
+111 (82)
+97 (71)
+208 (76)
+ Female
+24 (18)
+40 (29)
+64 (24)
+Race — no. (%)
+ White
+122 (90)
+130 (95)
+252 (93)
+ Black
+6 (4)
+2 (1)
+8 (3)
+ Asian
+4 (3)
+2 (1)
+6 (2)
+ Other
+1 (1)
+2 (1)
+3 (1)
+ Not reported
+2 (1)
+1 (1)
+3 (1)
+Disease stage — no. (%)
+IIIB
+29 (21)
+24 (18)
+53 (19)
+IV
+105 (78)
+112 (82)
+217 (80)
+ Not reported
+1 (1)
+1 (1)
+2 (1)
+ECOG performance-status score — no. (%)
+ 0
+27 (20)
+37 (27)
+64 (24)
+ 1
+106 (79)
+100 (73)
+206 (76)
+ Not reported
+2 (1)
+0
+2 (1)
+Central nervous system metastasis — no. (%)
+ Yes
+9 (7)
+8 (6)
+17 (6)
+ No
+126 (93)
+129 (94)
+255 (94)
+Smoking status — no. (%)
+ Current or former smoker
+121 (90)
+129 (94)
+250 (92)
+ Never smoked
+10 (7)
+7 (5)
+17 (6)
+ Unknown
+4 (3)
+1 (1)
+5 (2)
+Geographic region — no. (%)
+ United States or Canada
+43 (32)
+43 (31)
+86 (32)
+ Europe
+77 (57)
+78 (57)
+155 (57)
+ Rest of world§
+15 (11)
+16 (12)
+31 (11)
+Other systemic cancer therapy — no. (%) ¶
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+            †     ‡ A
+u h o
+t
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 17
+Characteristic
+Nivolumab (N = 135) Docetaxel (N = 137) Total (N = 272)
+ Bevacizumab
+1 (1)
+1 (1)
+2 (1)
+ Cetuximab
+0
+2 (1)
+2 (1)
+ Etoposide
+17 (13)
+11 (8)
+28 (10)
+ Fluorouracil
+1 (1)
+0
+1 (<1)
+ Gemcitabine
+60 (44)
+71 (52)
+131 (48)
+ Paclitaxel
+46 (34)
+46 (34)
+92 (34)
+ Pemetrexed
+3 (2)
+3 (2)
+6 (2)
+ Vinorelbine
+20 (15)
+24 (18)
+44 (16)
+Best response to most recent prior systemic regimen, according to the investigator — no. (%) ‖
+ Complete or partial response
+48 (36)
+43 (31)
+91 (33)
+ Stable disease
+33 (24)
+47 (34)
+80 (29)
+ Progressive disease
+44 (33)
+41 (30)
+85 (31)
+ Unknown or not reported
+10 (7)
+6 (4)
+16 (6)
+Time from completion of most recent prior systemic regimen — no. (%)
+ <3 mo
+64 (47)
+59 (43)
+123 (45)
+ 3–6 mo
+35 (26)
+40 (29)
+75 (28)
+ >6 mo
+35 (26)
+37 (27)
+72 (27)
+ Unknown
+1 (1)
+1 (1)
+2 (1)
+*
+Data from all patients who underwent randomization are included. There were no significant differences between the study groups at baseline.
+Race was self-reported.
+Eastern Cooperative Oncology Group (ECOG) performance-status scores range from 0 to 5, with higher numbers indicating greater disability; a  score of 0 indicates no symptoms, and 1 mild symptoms.
+§
+The countries in the rest-of-the-world geographic region were Argentina, Australia, Chile, Mexico, and Peru.
+¶
+Other systemic cancer therapy includes chemotherapy as part of prior first-line therapy.
+‖
+All but one patient received only one line of prior cancer therapy, which could include multiple agents or a switch of agents within the first-line  regimen.
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        † ‡ A
+u h o
+t
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 18
+Table 2
+Clinical Activity of Nivolumab versus Docetaxel in Patients with Advanced Squamous- Cell Non–Small-Cell Lung Cancer *
+Variable
+Nivolumab (N = 135) Docetaxel (N = 137)
+Objective response†
+ No. of patients
+27
+12
+ % of patients (95% CI)
+20 (14–28)
+9 (5–15)
+ Estimated odds ratio (95% CI)
+2.6 (1.3–5.5)
+ P value
+0.008
+Best overall response — no. (%)
+ Complete response
+1 (1)
+0
+ Partial response
+26 (19)
+12 (9)
+ Stable disease
+39 (29)
+47 (34)
+ Progressive disease
+56 (41)
+48 (35)
+ Could not be determined
+13 (10)
+30 (22)
+Time to response — mo
+‡ §
+ Median
+2.2
+2.1
+ Range
+1.6–11.8
+1.8–9.5
+Duration of response — mo
+‡ ¶
+ Median
+NR
+8.4
+ Range
+2.9 to 20.5+
+1.4+ to 15.2+
+*
+NR denotes not reached.
+Confirmed complete and partial responses were assessed by the investigator according to the Response Evaluation Criteria in Solid Tumors,  version 1.1. The confidence interval is based on the Clopper–Pearson method. The analysis was stratified according to geographic region (United  States or Canada vs. Europe vs. rest of the world) and prior paclitaxel therapy (yes vs. no). The strata-adjusted odds ratio (nivolumab vs. docetaxel)  and the two-sided P value were calculated with the use of the stratified Cochran–Mantel –Haenszel method.
+The analysis was performed with data from all the patients who had a response (27 patients in the nivolumab group and 12 in the docetaxel  group).
+§
+The time to response was defined as the time from randomization to the date of first documented complete or partial response.
+¶
+Results were calculated with the use of the Kaplan–Meier method. The duration of response was defined as the time from the date of first  response to the date of first documented disease progression, death, or last tumor assessment that could be evaluated. The + symbol indicates a  censored value. The value of 1.4 was censored owing to the start of subsequent therapy in one patient, and the other values were censored because  the response was ongoing at the time of the analysis.
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        † ‡ A
+u h o
+t
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+A
+u
+t
+h o
+r
+M
+a n u
+s c
+r
+i
+p
+t
+Brahmer et al.
+Page 19
+Table 3
+Treatment-Related Adverse Events Reported in at Least 5% of Patients*
+Event
+Nivolumab (N = 131)
+Docetaxel (N = 129)
+Any Grade Grade 3 or 4 Any Grade Grade 3 or 4
+number of patients with an event (percent)
+Any event
+76 (58)
+9 (7)
+111 (86)
+71 (55)
+Fatigue
+21 (16)
+1 (1)
+42 (33)
+10 (8)
+Decreased appetite
+14 (11)
+1 (1)
+25 (19)
+1 (1)
+Asthenia
+13 (10)
+0
+18 (14)
+5 (4)
+Nausea
+12 (9)
+0
+30 (23)
+2 (2)
+Diarrhea
+10 (8)
+0
+26 (20)
+3 (2)
+Arthralgia
+7 (5)
+0
+9 (7)
+0
+Pyrexia
+6 (5)
+0
+10 (8)
+1 (1)
+Pneumonitis
+6 (5)
+0
+0
+0
+Rash
+5 (4)
+0
+8 (6)
+2 (2)
+Mucosal inflammation
+3 (2)
+0
+12 (9)
+0
+Myalgia
+2 (2)
+0
+13 (10)
+0
+Anemia
+2 (2)
+0
+28 (22)
+4 (3)
+Peripheral neuropathy
+1 (1)
+0
+15 (12)
+3 (2)
+Leukopenia
+1 (1)
+1 (1)
+8 (6)
+5 (4)
+Neutropenia
+1 (1)
+0
+42 (33)
+38 (30)
+Febrile neutropenia
+0
+0
+14 (11)
+13 (10)
+Alopecia
+0
+0
+29 (22)
+1 (1)
+*
+Safety analyses included all the patients who received at least one dose of study drug. No treatment-related deaths occurred in patients treated  with nivolumab. Treatment-related deaths were reported in three patients treated with docetaxel (one death each from interstitial lung disease,  pulmonary hemorrhage, and sepsis).
+N Engl J Med. Author manuscript; available in PMC 2016 July 09.
+        

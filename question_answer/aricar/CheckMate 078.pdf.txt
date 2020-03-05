@@ -1,0 +1,257 @@
+ORIGINAL ARTICLE
+Nivolumab Versus Docetaxel in a Predominantly Chinese Patient Population With Previously Treated Advanced NSCLC: CheckMate 078 Randomized Phase III Clinical Trial
+Yi-Long Wu, MD,a,* Shun Lu, MD,b Ying Cheng, MD,c Caicun Zhou, MD,d Jie Wang, MD,e Tony Mok, MD,f Li Zhang, MD,g Hai-Yan Tu, MD,a Lin Wu, MD,h Jifeng Feng, MD,i Yiping Zhang, BMed,j Alexander Valerievich Luft, MD,k Jianying Zhou, MMed,l Zhiyong Ma, BMed,m You Lu, MD,n Chengping Hu, MD,o Yuankai Shi, MD,e Christine Baudelet, PhD,p Junliang Cai, MD,q Jianhua Chang, MDr
+aDepartment of Pulmonary Oncology, Guangdong Lung Cancer Institute, Guangdong General Hospital & Guangdong Academy of Medical Sciences, Guangzhou, China bDepartment of Oncology, Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai JiaoTong University, Shanghai, China cDepartment of Thoracic Oncology, Jilin Cancer Hospital, Changchun, China dDepartment of Medical Oncology, Shanghai Pulmonary Hospital, Tongji University, Shanghai, China eDepartment of Medical Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China fDepartment of Clinical Oncology, The Chinese University of Hong Kong, Hong Kong SAR, China gDepartment of Medical Oncology, Sun Yat-Sen University Cancer Center, Guangzhou, China hDepartment II of Thoracic Medicine, Hunan Cancer Hospital, Changsha, China iDepartment of Medical Oncology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, Nanjing Medical University Afﬁliated Cancer Hospital, Nanjing, China jDepartment of Medical Oncology, Zhejiang Cancer Hospital, Hangzhou, China kDepartment of Oncology No 1 (Thoracic Surgery), Leningrad Regional Clinical Hospital, St. Petersburg, Russia lDepartment of Respiratory Diseases, First Afﬁliated Hospital, College of Medicine, Zhejiang University, Hangzhou, China mDepartment of Internal Medicine, The Afﬁliated Cancer Hospital of Zhengzhou University, Henan Cancer Hospital, Zhengzhou, China nDepartment of Thoracic Oncology, West China Hospital, Chengdu, China oDepartment of Respiratory Medicine, Xiangya Hospital, Central South University, Changsha, China pDepartment of Statistics, Bristol-Myers Squibb, Lawrence Township, New Jersey qDepartment of Immuno-oncology, Bristol-Myers Squibb, Lawrence Township, New Jersey rDepartment of Medical Oncology, Fudan University Shanghai Cancer Center, Shanghai, China
+Received 11 October 2018; revised 12 December 2018; accepted 7 January 2019 Available online - 16 January 2019
+ABSTRACT
+Introduction: Data on immuno-oncology agents in Chinese patients are limited despite a need for new therapies. We eval- uated the efﬁcacy and safety of nivolumab in a predominantly Chinese patient population with previously treated NSCLC.
+Methods: CheckMate 078 was a randomized, open-label, phase III clinical trial in patients from China, Russia, and Singapore with squamous or nonsquamous NSCLC that had progressed during/after platinum-based doublet chemo- therapy (ClinicalTrials.gov: NCT02613507). Patients with
+*Corresponding author. Disclosure: Dr. Y. Wu has received grants from Roche; has received personal fees from AstraZeneca, Roche, Eli Lilly, Pﬁzer, and Sanoﬁ; and has received nonﬁnancial support from AstraZeneca. Dr. Wang has received nonﬁnancial support from AstraZeneca. Dr. Mok has received grants from AstraZeneca, Roche/Genentech, Bristol-Myers Squibb, Boehringer Ingelheim, Novartis, Merck Sharp & Dohme, Pﬁzer, Clovis Oncology, SFJ Pharmaceuticals, Taiho, Eisai, Takeda, and XCovery; and has received personal fees from AstraZeneca, Roche/Genentech, Eli Lilly, Bristol-Myers Squibb, Boehringer Ingelheim, Novartis, Merck Sharp & Dohme, Pﬁzer, Merck Serono, Clovis Oncology, Vertex, SFJ Pharmaceuticals, ACEA Biosciences, OncoGenex, Celgene, Ignyta Inc., Taiho, Fishawack Facilitate, Ltd.,
+Takeda, Janssen, and ChiMed. Drs. Baudelet and Cai are full-time employees of Bristol-Myers Squibb. The remaining authors declare no conﬂict of interest. Address for correspondence: Yi-Long Wu, MD, Guangdong Lung Cancer Institute, Guangdong General Hospital & Guangdong Academy of Med- ical Sciences, No 106, Zhongshan Second Road, Guangzhou, 510080, China. E-mail: syylwu@live.cn ª 2019 International Association for the Study of Lung Cancer. Published by Elsevier Inc. All rights reserved. ISSN: 1556-0864 https://doi.org/10.1016/j.jtho.2019.01.006
+Journal of Thoracic Oncology
+Vol. - No. -: ---
+2 Wu et al EGFR/ALK alterations were excluded. Patients (N ¼ 504) were randomized 2:1 to nivolumab (3 mg/kg every 2 weeks) or docetaxel (75 mg/m2 every 3 weeks), stratiﬁed by perfor- mance status, tumor histology, and tumor programmed death ligand 1 expression. The primary endpoint was overall sur- vival (OS); secondary endpoints included objective response rate, progression-free survival, and safety. Results: OS was signiﬁcantly improved with nivolumab (n ¼ 338) versus docetaxel (n ¼ 166); median OS (95% conﬁdence interval): 12.0 (10.4–14.0) versus 9.6 (7.6–11.2) months, respectively; hazard ratio (97.7% conﬁdence in- terval): 0.68 (0.52–0.90); p ¼ 0.0006. Objective response rate was 17% with nivolumab versus 4% with docetaxel; median duration of response was not reached versus 5.3 months. Minimum follow-up was 8.8 months. The frequency of grade 3 or greater treatment-related adverse events was 10% with nivolumab and 48% with docetaxel. Conclusions: This is the ﬁrst phase III study in a predom- inantly Chinese population reporting results with a pro- grammed death 1 inhibitor. In this population with previously treated advanced NSCLC, nivolumab improved OS versus docetaxel. Results were consistent with global CheckMate 017 and 057 studies. Ó 2019 International Association for the Study of Lung Cancer. Published by Elsevier Inc. All rights reserved.
+Keywords: Chinese population; Nivolumab; NSCLC; Phase III clinical study
+Introduction
+Nivolumab is a fully human programmed death 1 (PD-1) immune checkpoint inhibitor antibody approved for the treatment of patients with metastatic NSCLC and disease progression on or after platinum-based chemo- therapy in the United States, the European Union, and many other countries. The approval of nivolumab for squamous and nonsquamous NSCLC was based on the results of two pivotal phase III studies, CheckMate 017 and CheckMate 057.1,2 In these trials, nivolumab showed improved overall survival (OS) and quality of life, and a favorable safety proﬁle compared with docetaxel in pa- tients with previously treated advanced NSCLC.3,4 Nivo- lumab continued to show OS and progression-free survival (PFS) beneﬁts after 3 years of minimum follow- up1; estimated 5-year OS rates were 16% in the phase I CA209-003 study of nivolumab.2 Global estimates indicate that lung cancer is the cause of death for more than 1.5 million people each year, and it remains the leading cause of cancer deaths world- wide.5 In China, the incidence of lung cancer has increased, in large part because of the high prevalence of cigarette smoking and air pollution.5 China accounts for
+Journal of Thoracic Oncology Vol. - No. -
+more than one-third of all patients diagnosed with lung cancer globally, and approximately 600,000 lung cancer– related deaths were reported in 2015.6 The majority (approximately 85%) of lung cancer cases worldwide are categorized as NSCLC.7 Treatment options for patients with NSCLC that progresses after platinum doublet chemotherapy have expanded in many parts of the world to include immune checkpoint in- hibitors and other immunotherapies.8 However, data on immuno-oncology agents in patients from East Asia, including Chinese patients, are limited despite a clear unmet need for new therapies.9 The CheckMate 057 and 017 trials included patients primarily from North America and Europe, and enrolled very few patients from Asia.3,4 Differences between Asian and non-Asian patients in both response and toxicity have been re- ported for targeted therapies, supporting a potential hypothesis that similar differences may apply to immu- notherapies.8 Thus, evaluating safety and efﬁcacy of treatments in Chinese patient populations is crucial. Here we report data from CheckMate 078, the ﬁrst phase III trial that compared the efﬁcacy and safety of nivolu- mab with docetaxel in a predominantly Chinese popu- lation of patients with advanced or metastatic NSCLC.
+Methods
+Study Design
+CheckMate 078 was a randomized, open-label, multinational phase III trial that enrolled patients at 32 hospitals and cancer/medical centers in China, Russia, and Singapore (Supplemental Fig. 1). The study was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonisation guidelines on good clinical practice. The study protocol was approved by an institutional review board or inde- pendent ethics committee at each site. All patients pro- vided written informed consent before the beginning of any study procedures. Patients were randomly assigned 2:1 to receive nivolumab or docetaxel using an interactive voice response system. Randomization was performed via permuted blocks separately within each stratum, with a block size of six, and was stratiﬁed by Eastern Cooper- ative Oncology Group performance status (ECOG PS) (0 versus 1), tumor histology (squamous versus non- squamous), and tumor programmed death ligand 1 (PD- L1) expression (1% versus <1% or not quantiﬁable). The study was open-label; patients and investigators were not masked to treatment allocation.
+Patients
+Patients included in the study had stage IIIB or IV recurrent squamous or nonsquamous NSCLC
+or
+--- 2019
+Nivolumab Versus Docetaxel in CheckMate 078
+3
+progressing during or after one previous platinum- based doublet chemotherapy regimen . Patients were included regardless of tumor PD-L1 expression; pa- tients with EGFR-mutation–positive tumors or known ALK receptor tyrosine kinase (ALK) translocation– positive tumors were excluded. Prior treatment with an EGFR or anaplastic lymphoma kinase inhibitor was not permitted . Eligible patients were 18 years of age or older, had ECOG PS of 0 or 1, and measureable disease per Response Evaluation Criteria in Solid Tumors version 1.1. Tumor tissue samples obtained from patients before treatment were required for use in biomarker analyses. Patients with treated, stable brain metastases were eligible. Key exclusion criteria were active autoimmune disease, symptomatic interstitial lung disease, and sys- temic immunosuppression. Patients previously treated with an antitumor vaccine, immunostimulatory anti- tumor agent, immune checkpoint inhibitor, or docetaxel were also excluded from the trial. All patients provided written informed consent.
+Assessments
+Patients received intravenous nivolumab 3 mg/kg every 2 weeks (Bristol-Myers Squibb , Princeton , New Jersey) or docetaxel 75 mg/m2 every 3 weeks (Sanoﬁ , Bridgewater , New Jersey) until disease progression , discontinuation owing to toxicity , or other reasons . Patients were followed for survival continuously while receiving study treatment and every 3 months after discontinuation . Tumors were assessed by computed tomography or magnetic resonance imaging by in- vestigators per Response Evaluation Criteria in Solid Tumors version 1 .1 at baseline and every 6 weeks for the ﬁrst year of treatment , then every 12 weeks thereafter . Adverse events (AEs) were monitored continuously throughout the study period and at two follow-up visits after treatment discontinuation . Lab- oratory tests were assessed during the study at the beginning of each treatment cycle and at one follow-up visit after treatment discontinuation .
+Endpoints
+The primary endpoint of the study was OS, deﬁned as the time from randomization to the date of death. Sec- ondary endpoints included objective response rate (ORR), PFS, efﬁcacy (OS, ORR, and PFS) in predeﬁned subgroups of Chinese versus non-Chinese patients, tu- tumor PD-L1 expression (1% versus <1% or not mor histology (squamous versus nonsquamous), and quantiﬁable), time-to-treatment failure, rates of select treatment-related AEs and serious treatment-related AEs, and the proportion of patients with disease-
+related symptom deterioration measured by the Lung Cancer Symptom Scale at weeks 12 and 24. A key objective of the trial was to determine if the efﬁcacy of nivolumab in this patient population is consistent with that observed in CheckMate 017 and CheckMate 057. Overall safety and tolerability was assessed as an exploratory endpoint. The severity of AEs was graded according to the National Cancer Institute Common Terminology Criteria for AEs, version 4.0. Tumor PD-L1 expression was prospectively assessed from archived tumor tissue or recent biopsy in a central laboratory before patient randomization.
+Statistical Analysis
+Sample size determination was based on the efﬁcacy results in CheckMate 017 and 057 for patients with squamous and nonsquamous NSCLC, respectively. In the docetaxel treatment group, exponential distribution with a median OS of 10 months for squamous NSCLC and 12 months for nonsquamous NSCLC was assumed, as per historical data in Asian patients.10-15 For the patients with squamous NSCLC in the nivolumab treatment group, exponential distribution with a 16.7-month median OS was assumed providing a hazard ratio (HR) of 0.6. Treatment effect assumption was based on the efﬁcacy results in CheckMate 017 (HR for OS: 0.59; 95% conﬁdence interval [CI]: 0.44–0.79). For the patients with nonsquamous NSCLC in the nivolumab treatment group, nonproportional hazard models were assumed based on the efﬁcacy results in CheckMate 057. For the patients with nonsquamous NSCLC and 1% or greater tumor PD-L1 expression, a two- piece exponential distribution providing an overall 20- month median OS was used. For the patients with non- squamous NSCLC and less than 1% tumor PD-L1 expres- sion, a two-piece exponential distribution was also assumed, providing an overall 13-month median OS. A total sample size of approximately 500 patients randomly assigned to the nivolumab and docetaxel groups in a 2:1 ratio was estimated to provide sufﬁcient power to detect signiﬁcant differences in OS between treatment groups in both a weighted and a standard log-rank test. An inde- pendent data monitoring committee oversaw the efﬁcacy and safety of nivolumab versus docetaxel throughout the study. An interim analysis of OS was planned for the time at least 291 deaths had been observed (76% of the number of deaths required for ﬁnal analysis). Using a weighted log- rank test that accounted for heterogeneity in treatment effects by tumor histology and PD-L1 status (using G [rho ¼ 0, gamma ¼ 1] weights in the terminology of Harrington and Fleming16 and Fleming and Harrington17), the current sample size was estimated to have 86% power in the interim analysis and 98% in the ﬁnal analysis of OS to detect HRs of 0.70 and 0.67, respectively, in favor of nivolumab versus docetaxel; the corresponding power
+4 Wu et al
+Journal of Thoracic Oncology Vol. - No. -
+estimated with a standard log-rank test was 73% for the interim and 96% for the ﬁnal analysis. Based on the results of the interim OS analysis showing superiority of nivolu- mab over docetaxel in OS, the independent data monitoring committee recommended stopping the trial to provide patients on docetaxel with the opportunity to switch to nivolumab in the absence of disease progression. Efﬁcacy was assessed in all randomized patients, and safety was assessed in all patients who received at least one dose of study drug. The database lock for the current analyses was October 27, 2017. Hierarchical testing for the primary endpoint included an initial check of consistency in OS beneﬁt with CheckMate 017 and 057 followed by a test of superiority of nivolumab versus docetaxel . To main- tain at least 50% reduction in the risk of death , an HR of 0 .855 was set as the threshold for consistency . Su- periority of nivolumab over docetaxel in OS was tested using a two-sided Fleming-Harrington weighted log- rank test stratiﬁed by tumor histology , tumor PD-L1 expression , and ECOG PS .16 ,17 The alpha level for the primary endpoint was adjusted at the interim analysis of OS using Lan-DeMets alpha spending function with O ’Brien-Fleming boundaries. Based on 301 deaths at the interim analysis (78 .8% of the number of deaths required for ﬁnal analysis), the boundary for statistical signiﬁcance required the p value to be less than 0 .0231. A hierarchical testing procedure was used for the comparisons of the secondary endpoints ORR and PFS to preserve the study-wise type I error rate at 0 .05 . ORR was to be tested ﬁrst , followed by PFS . A stratiﬁed two-sided Cochran-Mantel-Haenszel test was used to compare ORR between treatment groups . PFS was compared between treatment groups using a two- sided stratiﬁed standard log-rank test . HRs for OS/PFS were estimated using a stratiﬁed Cox proportional hazards model with treatment arm as randomized as a single covariate. Curves for OS/PFS were estimated using the Kaplan-Meier product limit method. Two-sided 95% CIs for the median of OS/PFS were constructed based on a log-log transformed CI for the survivor function S(t). Analyses were conducted using SAS (version 9 .2 , SAS Institute , Cary , North Carolina) . CheckMate 078 is registered on ClinicalTrials .gov , number NCT02613507 .
+Results
+Patients were enrolled between December 2015 and November 2016. Of all randomized patients (N ¼ 504), 338 were assigned to receive nivolumab and 166 were assigned to receive docetaxel. One patient in the nivo- lumab group and 10 patients in the docetaxel group did
+not receive study treatment (Supplemental Fig. 2). The minimum follow-up for this analysis was 8.8 months; median follow-up was 10.4 (range: 0.2 to 21.1) months in the nivolumab arm and 8.8 (range: 0 to 18.7) months in the docetaxel arm. Baseline characteristics of all randomized patients were generally well balanced between treatment groups (Table 1). Overall, 89% of patients were from China, 79% were male, 30% were never smokers, and 60% had nonsquamous NSCLC; 55% of patients with quantiﬁable PD-L1 had 1% or greater tumor PD-L1 expression. Tu- mor PD-L1 expression was not quantiﬁable in 9% of all randomized patients. A median of six doses of nivolumab (range: 1 to 44 doses) and two doses of docetaxel (range: 1 to 17 doses) were administered. The median duration of therapy was 2.5 months with nivolumab and 1.3 months with doce- taxel; 31% and 10% of patients, respectively, were treated for more than 6 months. Among treated patients, 86% in the nivolumab group and 78% in the docetaxel group received at least 90% of their planned dose in- tensity. At least one dose delay occurred in 28% of
+Table 1. Baseline Characteristics
+Characteristic
+Age, median (range), years 75 years, n (%) Male, n (%) Country, n (%) China Russia Singapore ECOG PS, n (%) 0 1 Not reported Smoking status, n (%) Current/former smoker Never smoker Prior maintenance therapy, n (%) Number of lines of prior systemic cancer therapy, n (%)
+0 1 2 Tumor histology, n (%) Squamous Nonsquamous CNS metastasis, n (%) Tumor PD-L1 expression, n (%) <1% 1% Not quantiﬁable
+Nivolumab (n ¼ 338)
+60 (27 to 78) 8 (2) 263 (78)
+Docetaxel (n ¼ 166)
+60 (38 to 78) 4 (2) 134 (81)
+302 (89) 30 (9) 6 (2)
+47 (14) 291 (86) 0
+236 (70) 102 (30) 77 (23)
+1 (<1) 337 (>99) 0
+133 (39) 205 (61) 45 (13)
+138 (41) 168 (50) 32 (9)
+149 (90) 15 (9) 2 (1)
+21 (13) 144 (87) 1 (1)
+118 (71) 48 (29) 39 (23)
+0 165 (99) 1 (1)
+67 (40) 99 (60) 27 (16)
+67 (40) 84 (51) 15 (9)
+CNS, central nervous system; ECOG PS, Eastern Cooperative Oncology Group performance status; PD-L1, programmed death ligand 1.
+Nivolumab Versus Docetaxel in CheckMate 078
+5
+Nivolumab (n = 338)
+12.0 (10.4–14.0)
+Docetaxel (n = 166)
+9.6 (7.6–11.2)
+0.68 (0.52–0.90)
+0.0006
+Median OS, mo (95% CI)
+HR (97.7% CI)a
+     p value
+12-mo OSb = 50%
+6-mo OS = 72% 
+6-mo OS = 65% 
+12-mo OSb = 39%
+--- 2019
+A
+l
+a v
+i
+v
+r
+u s
+f
+o y
+t i l i
+b a b o
+r
+P
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+338 166
+3
+295 130
+6
+240 102
+9
+189 82
+12
+Months
+132 45
+15
+72 18
+18
+21 5
+No. at risk Nivolumab Docetaxel
+B
+Nivolumab
+Docetaxel
+21
+1 0
+24
+0 0
+Subgroup
+Nivolumab, n
+Docetaxel, n
+Unstratified HR
+Unstratified HR  (95% CI)
+Overall Age <65 years Age ≥65 years Male Female Chinese Non-Chinese ECOG PS 0 ECOG PS 1 Current/former smoker Never smoker Squamous Non-squamous CNS metastases No CNS metastases PD-L1 <1%c PD-L1 ≥1%
+338 251 87
+263 75
+302 36
+47 291
+236 102
+133 205
+45 293
+138 168
+166 126 40
+134 32
+149 17
+21 144
+118 48
+67 99
+27 139
+67 84
+0.71 0.76 0.50
+0.71 0.74
+0.68 1.13
+1.01 0.69
+0.73 0.67
+0.61 0.76
+0.82 0.70
+0.75 0.62
+Figure 1. Overall survival (OS) (A) in all randomized patients and (B) by subgroup. aBoundary for statistical signiﬁcance requires the p value to be less than 0.0231; statistical model for hazard ratio (HR) and p value: Cox proportional hazard model and weighted log-rank test, stratiﬁed by histology (squamous versus nonsquamous), tumor programmed death ligand 1 (PD- L1) expression (1% versus <1%/not quantiﬁable), and Eastern Cooperative Oncology Group performance status (ECOG PS) (0 versus 1). bMinimum follow-up was 8.8 months. cHR (95% conﬁdence interval [CI]) for PD-L1 not quantiﬁable ¼ 0.95 (0.37– 2.41). CNS, central nervous system.
+0.5
+1.0
+2.0
+Nivolumab Docetaxel
+    6 Wu et al
+Journal of Thoracic Oncology Vol. - No. -
+patients in the nivolumab group and 23% of patients in the docetaxel group, and approximately half of the delays in each group were 4 to 7 days in duration. At the time of this analysis, 15% of patients treated in the nivolumab group and 1% treated in the docetaxel group were continuing the assigned treatment. Overall, 70% of all treated patients in either treatment group discontinued owing to disease progression (Supplemental Table 1). Of all randomized patients, 42% in either treatment group received subsequent systemic therapy (Supplemental Table 2); 5% in the docetaxel group received subse- quent immunotherapy, including nivolumab (3%) and pembrolizumab (1%). Nivolumab showed superior OS compared with doce- taxel (Fig. 1A). In all randomized patients, the median OS was 12.0 months with nivolumab versus 9.6 months with docetaxel (HR: 0.68; 97.7% CI: 0.52–0.90; p ¼ 0.0006), and estimated 1-year OS rates were 50% and 39% with nivo- lumab and docetaxel, respectively. HR for death was less than 0.855, thus meeting the criterion for consistency in OS beneﬁt with CheckMate 017 and 057. Improved OS with nivolumab was observed across most pre-speciﬁed subgroups, including patients from China (Fig . 1B) . Among those with squamous histology , median OS was 12 .3 months with nivolumab versus 7 .9 months with docetaxel (HR: 0 .61; 95% CI: 0 .42– 0 .89) (Supplemental Fig . 3); for patients with non- squamous histology , median OS was 11 .9 months with nivolumab and 10 .2 months with docetaxel (HR: 0.76; 95% CI: 0 .56–1 .04). In the subgroup of patients with 1% or greater tumor PD-L1 expression , median OS was 12 .3 months with nivolumab and 7 .9 months with docetaxel (HR: 0 .62; 95% CI: 0.45–0.87); in the sub- group with less than 1% tumor PD-L1 expression , median OS was 11.4 months with nivolumab and 10.2 months with docetaxel (HR: 0 .75; 95% CI: 0 .52–1 .09) (Supplemental Fig . 4) . The ORR among all randomized patients was 16 .6% for nivolumab compared with 4 .2% for docetaxel (odds ratio: 4 .4; p < 0 .0001) (Table 2) , with similar results in patients with squamous and nonsquamous histology (Supplemental Table 3) . Response could not be determined in 9.8% of patients in the nivolumab arm and in 15 .7% of patients in the docetaxel arm , owing to death prior to disease assessment (n ¼ 29), patients never receiving treatment (n ¼ 11) , or other reasons (n ¼ 19) . The median time to response was 2.6 months with nivolumab and 1 .4 months with doce- taxel . The median duration of response was not reached with nivolumab and 5 .3 months with doce- taxel (Table 2); 37 of 56 (66 .1%) and three of seven (42.9%) patients with an objective response to nivo- lumab and docetaxel , respectively , had an ongoing response at the time of database lock .
+Although the median PFS in all randomized patients was identical for nivolumab and docetaxel (2.8 months), the PFS curves began to separate at 3 months, resulting nivolumab (HR: 0.77; 95% CI: 0.62–0.95; p ¼ 0.0147) in a signiﬁcant PFS advantage for patients treated with (Fig. 2). The estimated 6-month PFS rate was 29% in the nivolumab arm and 23% in the docetaxel arm. PFS was more favorable with nivolumab than docetaxel regard- less of tumor histology or PD-L1 expression. PFS in pre- speciﬁed subgroups is detailed in Supplemental Figure 5. Treatment-related AEs of any grade were less frequent with nivolumab (64%) than docetaxel (83%). The most common treatment-related AEs were rash (12%) and fatigue (10%) among patients treated with nivolumab, and anemia and decreased white blood cell count (26% each) among those treated with docetaxel (Table 3). The percentage of patients with grade 3 or greater treatment-related AEs was 10% with nivolumab and 48% with docetaxel, including one patient with a grade 5 treatment-related event (circulatory collapse) in the docetaxel group. Any-grade and grade 3 or greater treatment-related serious events were reported in 9% and 5% of patients, respectively, in the nivolumab group and in 16% and 15% of patients, respectively, in the docetaxel group (Supplemental Table 4). The majority of select AEs (deﬁned as AEs of poten- tial immunologic causes) were grade 1 to 2, and most were considered drug-related by the investigator. The most frequently reported any-grade, treatment-related, select AE categories with nivolumab treatment were skin (21%), hepatic (18%), and endocrine (9%) (Supplemental Table 5).
+Table 2. Tumor Response in All Randomized Patients
+Objective response rate (95% CI), %a Odds ratio (95% CI) p valueb Best overall response, n (%) Complete response Partial response Stable disease Progressive disease Unable to determine Median time to response (range), months Median duration of response (range), monthsc
+Nivolumab (n ¼ 338)
+Docetaxel (n ¼ 166)
+16.6 (12.8–21.0)
+4.2 (1.7–8.5)
+4.4 (2.0–9.8) <0.0001
+1 (0.3) 55 (16.3) 121 (35.8) 128 (37.9) 33 (9.8) 2.6 (1.1 to 9.5) NR (2.3 to 19.2þ)
+0 7 (4.2) 77 (46.4) 56 (33.7) 26 (15.7) 1.4 (1.3 to 2.8) 5.3 (2.2þ to 8.6þ)
+aCI computed using the Clopper and Pearson method. bp value per stratiﬁed Cochran-Mantel-Haenszel test. cKaplan-Meier estimate. þ denotes ongoing response. CI, conﬁdence interval; NR, not reached.
+--- 2019
+Nivolumab Versus Docetaxel in CheckMate 078
+7
+S F P
+f
+o y
+t i l i
+b a b o
+r
+P
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+Nivolumab (n = 338) 2.8 (2.4–3.4)
+Docetaxel (n = 166) 2.8 (1.6–2.9)
+0.77 (0.62–0.95) 0.0147
+Median PFS, mo (95% CI)
+HR (95% CI)
+     p valuea
+6-mo PFS = 29% 
+6-mo PFS = 23% 
+Nivolumab
+Docetaxel
+0
+338 166
+No. at risk Nivolumab Docetaxel
+3
+145 57
+6
+89 27
+9
+62 8
+Months
+21
+42 2
+51
+20 1
+81
+5 0
+12
+0 0
+Figure 2. Progression-free survival (PFS) in all randomized patients. aLog-rank test stratiﬁed by histology (squamous versus nonsquamous), tumor programmed death ligand 1 (PD-L1) expression (1% versus <1%/not quantiﬁable), and Eastern Cooperative Oncology Group performance status (ECOG PS) (0 versus 1). CI, conﬁdence interval; HR, hazard ratio.
+Treatment-related AEs led to discontinuation in 4% of patients in the nivolumab group and 8% of patients in the docetaxel group . The most common treatment- related AE leading to discontinuation was interstitial lung disease (1%) in the nivolumab group and fatigue (3%) in the docetaxel group (Supplemental Tables 6 and 7). Seven patient deaths that occurred between the time of initial study drug dose and 100 days after the last dose were attributed to study drug toxicity; four (1%) in the nivolumab group (three from pneumonitis and one from myopathy/rhabdomyolysis) and three (2%) in the
+docetaxel group (one each from shock, circulatory collapse, and respiratory failure).
+Discussion
+CheckMate 078 evaluated the efﬁcacy and safety of nivolumab compared with docetaxel in predominantly East Asian patients with advanced NSCLC who were previously treated with platinum-based chemotherapy. Patients with EGFR-mutation–positive or ALK translocation–positive disease were excluded from this trial; notably, the prevalence of EGFR mutations is generally high among East Asian patients with lung
+Table 3. Treatment-Related Adverse Events Reported in 10% of Patients Treated With Nivolumab or Docetaxela Nivolumab (n ¼ 337) Docetaxel (n ¼ 156)
+Patients, n (%)
+Any event Rash Fatigue Decreased appetite Anemia Leukopenia WBC count decreased Neutropenia Neutrophil count decreased Alopecia
+Any Grade
+Grade 3–4
+Any Grade
+Grade 3–4
+216 (64) 39 (12) 33 (10) 25 (7) 14 (4) 11 (3) 10 (3) 7 (2) 4 (1) 1 (<1)
+35 (10) 3 (1) 3 (1) 0 1 (<1) 1 (<1) 1 (<1) 1 (<1) 0 NA
+130 (83) 4 (3) 39 (25) 36 (23) 41 (26) 27 (17) 40 (26) 31 (20) 36 (23) 35 (22)
+74 (47) 0 5 (3) 0 3 (2) 17 (11) 22 (14) 23 (15) 29 (19) NA
+aIncludes events reported between the ﬁrst dose and 30 days after last dose of study drug. NA, not applicable; WBC, white blood cell.
+    8 Wu et al
+Journal of Thoracic Oncology Vol. - No. -
+cancer compared with non–East Asian populations.18-20 Results demonstrated signiﬁcantly prolonged OS with nivolumab compared with docetaxel; the median OS was 12.0 months with nivolumab versus 9.6 months with docetaxel (HR: 0.68; 97.7% CI: 0.52–0.90; p ¼ 0.0006). Estimated 1-year OS rates were 50% with nivolumab and 39% with docetaxel, with a minimum follow-up of 8.8 months. Patients were stratiﬁed by tumor histology, and median OS with nivolumab was 12.3 and 11.9 months in those with squamous and nonsquamous NSCLC, respectively. To our knowledge, this is the ﬁrst report of a second-line treatment demonstrating a me- dian OS longer than 12 months in patients with squa- mous NSCLC. The survival beneﬁt with nivolumab was observed regardless of PD-L1 expression level, which was prospectively evaluated and used as a stratiﬁcation factor. HRs favored nivolumab in patients with 1% or greater and less than 1% tumor PD-L1 expression (0.62 and 0.75, respectively). Nivolumab was associated with a signiﬁcantly higher ORR and increased PFS beneﬁt compared with docetaxel. Responses in the nivolumab group were durable; median duration of response with nivolumab was not yet reached at the time of data cutoff. In the docetaxel group, the median duration of response was 5.3 months. The global phase III CheckMate 017 and 057 trials ﬁrst established the efﬁcacy and safety of nivolumab in patients with squamous and nonsquamous NSCLC, respectively, that had progressed on the ﬁrst platinum- based chemotherapy.3,4 Consistent with CheckMate 017 and 057, HRs for OS in CheckMate 078 favored nivolu- mab in patients with squamous (HR: 0.61) and non- squamous (HR: 0.76) histology, compared with 0.59 in CheckMate 017 and 0.73 in CheckMate 057. While the response rates for docetaxel in CheckMate 078 were lower than those observed in the global trials, response to docetaxel in Chinese patients with previously treated NSCLC is notably low.14 In contrast, response rates with nivolumab were comparable between the global trials and CheckMate 078, irrespective of tumor histology. The safety proﬁle of nivolumab in CheckMate 078 was also consistent with CheckMate 017 and 057, and was favorable compared with docetaxel. The most frequent treatment-related select AEs were related to skin and liver function, and were generally grade 1 or 2. There are no studies that have systematically evalu- ated potential differences between Asian and non-Asian patients in AE proﬁles with immune-checkpoint in- hibitors. However, it has been noted previously that the rate of treatment-related pulmonary AEs associated with nivolumab was higher (8%) in a phase II study in Japa- NSCLC (N ¼ 76) than in CheckMate 057 (3%).21,22 The nese patients with advanced or recurrent nonsquamous corresponding rates in CheckMate 017 and CheckMate
+078 were 5% and 7%, respectively. In CheckMate 078, three patients died owing to nivolumab-related pneu- monitis. It remains unclear how much of the differences in AE rates could be attributable to a potentially higher propensity of Asian patients to experience pulmonary AEs of nivolumab. In study CA209-003, three deaths owing to pneumonitis were reported with nivolumab, but this was not observed in the later CheckMate 017 and 057 studies. The frequency of treatment-related diarrhea in CheckMate 078 was notably low in both nivolumab and docetaxel groups (2% and 6%, respec- tively), suggesting that Asian patients may be less sus- ceptible to gastrointestinal toxicities of cancer therapy than the global population. It is also possible that these lower rates may be owing to underreporting in this pa- tient population. In CheckMate 017 and 057, rates of treatment-related diarrhea of any grade were 8% in patients treated with nivolumab and 20% to 23% in those treated with docetaxel.3,4 However, it is also un- known how much random statistical variation and small sample sizes contributed to the differences in pulmonary and gastrointestinal AE rates observed in CheckMate 078. CheckMate 078 is the third phase III study demon- strating an OS beneﬁt with nivolumab versus docetaxel in patients with advanced NSCLC who were previously treated with platinum-based chemotherapy. Moreover, it is the ﬁrst phase III study of a programmed death 1 checkpoint inhibitor for treatment of advanced NSCLC in a predominantly East Asian population. The results reported here establish the efﬁcacy and safety of nivo- lumab in this population, regardless of tumor PD-L1 expression or histology. CheckMate 078 conﬁrms nivo- lumab as a standard of care for patients with previously treated NSCLC in China, where lung cancer remains the leading cause of cancer deaths and few therapies are currently available.6,23
+Acknowledgments
+The study was supported by Bristol-Myers Squibb. Bristol-Myers Squibb was involved in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. BMS policy on data sharing may be found at https://www.bms.com/researchers- and-partners/independent-research/data-sharing-request- process.html. The authors thank the patients and families who made this trial possible and the clinical study teams who participated in the trial (see Supplemental Appendix for a full list of investigators); the protocol manager for this study, Sophieanne Prevot; the staff of Dako for collaborative development of the PD-L1 IHC 28-8 pharmDx assay; Bristol-Myers Squibb (Princeton,
+--- 2019
+Nivolumab Versus Docetaxel in CheckMate 078
+9
+New Jersey); and ONO Pharmaceutical Company Ltd. (Osaka, Japan). Writing and editorial assistance was provided by Leah Bernstein, PhD, of Evidence Scientiﬁc Solutions, Inc., funded by Bristol-Myers Squibb.
+Supplementary Data
+Note: To access the supplementary material accompa- nying this article, visit the online version of the Journal of Thoracic Oncology at www.jto.org and at https://doi. org/10.1016/j.jtho.2019.01.006.
+References
+1. Vokes EE, Ready N, Felip E, et al. Nivolumab versus docetaxel in previously treated advanced non–small-cell lung cancer (CheckMate 017 and CheckMate 057): 3-year update and outcomes in patients with liver metastases. Ann Oncol. 2018;29:959–965. 2. Gettinger S, Horn L, Jackman D, et al. Five-year follow- up of nivolumab in previously treated advanced non– small-cell lung cancer: results from the CA209-003 study. J Clin Oncol. 2018;36:1675–1684. 3. Borghaei H, Paz-Ares L, Horn L, et al. Nivolumab versus docetaxel in advanced nonsquamous non–small-cell lung cancer. N Engl J Med. 2015;373:1627–1639. 4. Brahmer J, Reckamp KL, Baas P, et al. Nivolumab versus docetaxel in advanced squamous-cell non–small-cell lung cancer. N Engl J Med. 2015;373:123–135. 5. Cheng TY, Cramb SM, Baade PD, et al. The international epidemiology of lung cancer: latest trends, disparities, and tumor characteristics. J Thorac Oncol. 2016;11:1653–1671. 6. Chen W, Zheng R, Baade PD, et al. Cancer statistics in China, 2015. CA Cancer J Clin. 2016;66:115–132. 7. Fan H, Shao ZY, Xiao YY, et al. Incidence and survival of non–small cell lung cancer in Shanghai: a population- based cohort study. BMJ Open. 2015;5:e009419. 8. Sekine I, Yamamoto N, Nishio K, et al. Emerging ethnic differences in lung cancer therapy. Br J Cancer. 2008;99:1757–1762. 9. Liu SY, Wu YL. Ongoing clinical trials of PD-1 and PD-L1 inhibitors for lung cancer in China. J Hematol Oncol. 2017;10:136. 10. Kawaguchi T, Ando M, Asami K, et al. Randomized phase III trial of erlotinib versus docetaxel as second- or third- line therapy in patients with advanced non–small-cell lung cancer: Docetaxel and Erlotinib Lung Cancer Trial (DELTA). J Clin Oncol. 2014;32:1902–1908. 11. Kim ES, Hirsh V, Mok T, et al. Geﬁtinib versus docetaxel in previously treated non–small-cell lung cancer
+trial. Lancet.
+(INTEREST): a randomised phase III 2008;372:1809–1818. 12. Lee DH, Park K, Kim JH, et al. Randomized Phase III trial of geﬁtinib versus docetaxel in non–small cell lung cancer patients who have previously received platinum- based chemotherapy. Clin Cancer Res. 2010;16: 1307–1314. 13. Maruyama R, Nishiwaki Y, Tamura T, et al. Phase III study, V-15-32, of geﬁtinib versus docetaxel in previously treated Japanese patients with non–small- cell lung cancer. J Clin Oncol. 2008;26:4244–4252. 14. Sun Y, Wu YL, Zhou CC, et al. Second-line pemetrexed versus docetaxel in Chinese patients with locally advanced or metastatic non–small cell lung cancer: a randomized, open-label study. Lung Cancer. 2013;79:143–150. 15. Yu YF, Chen ZW, Zhou Z, et al. A cost-effectiveness analysis of docetaxel versus pemetrexed in second- line chemotherapy for stage IIIb or IV non–small cell lung cancer in China. Chemotherapy. 2010;56:472– 477. 16. Harrington DP, Fleming TR. A class of rank test proced- ures for censored survival data. Biometrika. 1982;69:553–566. 17. Fleming TR, Harrington DP. Weighted Logrank sta- tistics. Counting Processes and Survival Analysis. New York, New York: John Wiley & Sons; 1991:255– 285. 18. Shigematsu H, Lin L, Takahashi T, et al. Clinical and biological features associated with epidermal growth factor receptor gene mutations in lung cancers. J Natl Cancer Inst. 2005;97:339–346. 19. Zhang YL, Yuan JQ, Wang KF, et al. The prevalence of EGFR mutation in patients with non–small cell lung cancer: a systematic review and meta-analysis. Oncotarget. 2016;7:78985–78993. 20. Zhou W, Christiani DC. East meets West: ethnic differ- ences in epidemiology and clinical behaviors of lung cancer between East Asians and Caucasians. Chin J Cancer. 2011;30:287–292. 21. Nishio M, Hida T, Atagi S, et al. Multicentre phase II study of nivolumab in Japanese patients with advanced or recurrent non-squamous non–small cell lung cancer. ESMO Open. 2016;1:e000108. 22. Vansteenkiste J. Nivolumab for NSCLC in Japanese pa- tients: similar beneﬁts, but beware of pneumonitis. ESMO Open. 2017;2:e000119. 23. Zhang L. Lung cancer in China: challenges and perspec- tives. J Thorac Oncol. 2017;12(suppl 1):S113–S114 (abstr SC117.102).
+

@@ -1,0 +1,49 @@
+1) Overall Survival£¨OS£©
+2) Median Overall Survival£¨mOS£©
+3) Disease Free Survival£¨DFS£©
+4) Median Disease Free Survival£¨mDFS£©
+5) Progress Free Survival£¨PFS£©
+6) Time To Progress£¨TTP£©
+7) Objective Response Rate£¨ORR£©
+8) Complete Response£¨CR£©
+9) Partial Response£¨PR£©
+10) Stable Disease£¨SD£©
+11) Disease Control Rate£¨DCR£©
+12) Duration of Response£¨DOR£©
+13) Time To Failure£¨TTF£©
+14) Duration of Disease Control£¨DDC£©
+1) reactive capillary hemangiomas
+2) thyroid related adverse events
+3) Hypophysitis
+4) Adrenal insufficiency
+5) Hyperglycemia
+6) Immune associated pneumonia
+7) Immune associated diarrhea
+8) Immune associated colitis
+9) Immune associated hepatitis
+10) Immune associated glomerulonephritis
+11) Immune associated pancreatitis
+12) Immune associated thrombocytopenia
+13) Immune related myocarditis
+14) Immune related skin adverse reactions
+15) anemia
+16) fever
+17) fatigue
+18) proteinuria
+19) cough
+20) loss of appetite
+21) hyponatremia
+22) pulmonary infection
+23) increase of aspartate aminotransferase
+24) increase of ¦Ã¨Cglutamyltransferase
+25) increase of blood bilirubin
+26) increase of conjugated bilirubin
+27) abnormal liver function
+28) decrease of neutrophil count
+29) decrease of leukocyte count
+30) decrease of platelet count
+31) decrease of lymphocyte count
+32) hypokalemia
+33) increase of alanine aminotransferase
+34) increase of blood alkaline phosphatase
+35) increase of lipase
