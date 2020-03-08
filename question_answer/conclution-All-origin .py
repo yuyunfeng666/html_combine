@@ -8,7 +8,7 @@ from docx import Document
 # 获取文件路径
 path = "aricar"
 files= os.listdir(path)
-print(files)
+#print(files)
 
 
 
@@ -59,7 +59,7 @@ def search_medicine(txt):
     # h = open('drugbank_main.txt', encoding='utf-8')
     # res = h.read().splitlines()
     #
-    # # print(res)
+    # #print(res)
     # res2 = []
     # for i in res:
     #     newi = re.search('\t(.*)', i)
@@ -73,12 +73,12 @@ def search_medicine(txt):
         # a = re.search('.*?' + '\s?' + i + '\s?' + '.*?\.', txt, re.I | re.IGNORECASE) #版本1，废弃
         a = re.search('.*?' + '\s?' + i + '\s?', txt)
         if a:
-            print(i)
+            #print(i)
             searchtxt = a
-            print(searchtxt.group())
+            #print(searchtxt.group())
             medcine.append(i)
             reason.append(searchtxt.group())
-        print('\r'+str(num / len(res) * 100) + '%',end='')
+        #print('\r'+str(num / len(res) * 100) + '%',end='')
         num += 1
     return [medcine,reason]
 
@@ -145,7 +145,7 @@ def search_con(txt):
 def search_disscussion(txt):
     h = open('discussion.txt', encoding='gbk')
     res = h.read().splitlines()
-    # print(res)
+    #print(res)
     temp = []
     for i in res:
         a = re.search('[)](.*)([(])?', i)
@@ -161,7 +161,7 @@ def search_disscussion(txt):
             searchtxt = a
             keyword.append(i)
             reason.append(searchtxt.group())
-        print('\r'+str(num / len(res) * 100) + '%',end='')
+        #print('\r'+str(num / len(res) * 100) + '%',end='')
         num += 1
     return [keyword,reason]
 
@@ -174,9 +174,9 @@ for i in files:
     f = open(path+'/'+i,'r',encoding='utf-8')
     txt = f.read()
     f.close()
-    print('\n'+i+'-----------------------------------------')
+    #print('\n'+i+'-----------------------------------------')
 
-    # print('搜寻相关药物')
+    #print('搜寻相关药物')
     # medcine_reason = search_medicine(txt)
     #
     # document.add_heading(u'研究相关药物',1)
@@ -210,7 +210,7 @@ for i in files:
     document.add_heading(u'研究结论', 1)
     document.add_paragraph(conclution)
 
-    # print('搜寻讨论')
+    #print('搜寻讨论')
     # discussion =search_disscussion(txt)
     # document.add_heading(u'讨论关键词及讨论内容', 1)
     # document.add_paragraph(str(discussion))
@@ -225,16 +225,16 @@ for i in files:
 
 
 
-    # print('--------样本量-----------')
-    # print(num)
-    # print('------ 基线特征-----')
-    # print(characteristics)
-    # print('-----试验设计------')
-    # print(phase)
-    # print('------结果-----')
-    # print(result)
-    # print('------结论-----')
-    # print(conclution)
-    # print('------讨论-----')
-    # print(discussion)
+    #print('--------样本量-----------')
+    #print(num)
+    #print('------ 基线特征-----')
+    #print(characteristics)
+    #print('-----试验设计------')
+    #print(phase)
+    #print('------结果-----')
+    #print(result)
+    #print('------结论-----')
+    #print(conclution)
+    #print('------讨论-----')
+    #print(discussion)
 

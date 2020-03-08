@@ -20,7 +20,7 @@ def page_handle_text(content, n_page, height, *args, **kwargs):
     :return:
     '''
     # Figure 匹配
-    rc = re.compile(r'^(Figure|Fig)')
+    rc = re.compile(r'^(Figure|Fig|FIGURE)')
     # rc = re.compile('Figure\s*\d+\s*:\s*[\s\S]*|Figure\s*\d+\s*.\s*[\s\S]*|Fig\s*\d+\s*:\s*[\s\S]*|Fig\s*\d+\s*:\s*[\s\S]*')
     fig_tabel = rc.findall(content.lstrip())
     if fig_tabel:
@@ -32,7 +32,7 @@ def page_handle_text(content, n_page, height, *args, **kwargs):
             pass
         write_csv(args[0], args[1], n_page, 'figure', height ,result)
     # Table 匹配
-    rc = re.compile('^(Table|Tab)')
+    rc = re.compile('^(Table|Tab|TABLE)')
     # rc = re.compile('Table\s*\d+\s*:\s*|Table\s*\d+\s*.\s*')
     fig_tabel = rc.findall(content)
     if fig_tabel:

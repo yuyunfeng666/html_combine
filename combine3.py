@@ -3,6 +3,7 @@
 # @Author  : Yyf
 # @FileName: combine.py
 # @Software: PyCharm
+import os
 
 from pdf_to_txt import get_content, get_files
 from question_answer.conclution import Qurey_answer
@@ -10,9 +11,6 @@ from docx import Document
 from pdf_to_txt import write_result_in_csv
 from pdf_to_txt import pdf_title
 from pdf_to_txt import get_pdf_filename
-import re
-import sys
-
 
 def combine(input_path='./stactic', output_path='res', *args, **kwargs):
     '''
@@ -23,12 +21,13 @@ def combine(input_path='./stactic', output_path='res', *args, **kwargs):
     :param kwargs: 保留参数
     :return:
     '''
-    if re.search('.pdf', input_path, re.I):
+
+    if input_path.endswith('.pdf'):
+        if not os.path.exists(output_path):
+            os.mkdir(output_path)
         head_name = pdf_title(input_path)
         img_dir_name = get_pdf_filename(input_path)
-
         pdf_content = get_content(input_path)  # pdf提取文字，参数为pdf路径（变量）
-        print(pdf_content)
         print('现在处理文档'+input_path)
         query_ans = Qurey_answer(pdf_content)  # 实例化
         document = Document()
@@ -39,7 +38,6 @@ def combine(input_path='./stactic', output_path='res', *args, **kwargs):
         for file in get_files(input_path):
             combine(file,'res')
 
-
-if __name__ == '__main__':
-    combine("./stactic/IMpower150.pdf")
+if __name__ =='__main__':
+    combine()
 

@@ -185,15 +185,15 @@ def extract_subimgs(fname, imgs_dir, n_page, type, appendix_height=0.0, *agrs, *
                 break
 
         current_img = os.path.join(imgs_dir, 'page_%s.png' % n_page)  # 当前图片的内容
-        print(current_img)
+        #print(current_img)
         save_dir = os.path.join(imgs_dir, type)  # 保存图表的文件夹
         makedir_if_not_exist(save_dir)  # 检查文件夹是否存在
         count = 0  # 计数
         history_array = []
         for sublayout in my_layout:
             if isinstance(sublayout, LTRect) or isinstance(sublayout, LTFigure):
-                print(current_img)
-                print(sublayout.height, appendix_height)
+                #print(current_img)
+                #print(sublayout.height, appendix_height)
                 crop_array = (int(sublayout.x0), int(sublayout.y0), int(sublayout.x1), int(sublayout.y1))  # 截取的图表位置
                 if int(sublayout.width) >= 118 \
                         and (crop_array not in history_array)\
