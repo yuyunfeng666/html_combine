@@ -15,7 +15,7 @@ test2 = '. Grade 3 or  4 adverse events occurred in 163 (62%) patients in the  d
 t3 = 'The median age of the patients was 63 years. Most patients were men, had an ECOG  performance-status score of 1, had stage IV cancer, and were current or former smokers  (Table 1, and Table S1 in the Supplementary Appendix)'
 
 table = re.search('\(table\s([1-9]).*?\)',t3,re.I).group(1)
-print(table)
+#print(table)
 
 
 def a() -> str:
@@ -25,4 +25,4 @@ def a() -> str:
     return a_s+b
 
 
-print(a())
+#print(a())

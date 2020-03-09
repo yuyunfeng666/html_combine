@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>upload sucess</title>
-</head>
-<body>
-<h1>成功提交！</h1>
-<form>
-    {% csrf_token %}
-    <input name="file" value='{{ filename }}'  readonly="on">
-    <input type="submit" name="sub" value="下载文件对应结果">
-</form>
-</body>
-</html>
+{% extends "base.html" %}
+{% block title %}
+    <title>解读结果下载</title>
+{% endblock %}
+{% block download %}
+    <form>
+        {% csrf_token %}
+        <input name="file" value='{{ filename }}' readonly="on" style="display:none">
+        <input type="submit" id="sub" name="sub" style="display:none">
+    </form>
+    <button type="button" class="btn btn-primary form-control" onclick="$('#sub').click();">下载文件对应结果
+    </button>
+{% endblock %}

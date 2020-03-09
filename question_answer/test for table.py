@@ -10,13 +10,13 @@ txt = f.read()
 # # b = re.findall('table'+ '\s?' + '.*?\.', txt, re.I | re.IGNORECASE)
 #
 # for i,j in enumerate(table):
-#     print(i,j)
+#     #print(i,j)
 # for i,j in enumerate(chart):
-#     print(i,j)
+#     #print(i,j)
 
 # table1 = re.findall('Table' + '\s?\d' + '.*?\n.*?\.', txt,re.DOTALL)
 # table2 = re.findall('.*?\(Table' + '\s? ' + '.*?\)', txt,re.I)
 figure2 = re.findall('.*?\(figure' + '\s? ' + '.*?\)', txt,re.I)
-# print(table1)
-# print(table2)
-print(figure2)
+#print(table1)
+#print(table2)
+#print(figure2)

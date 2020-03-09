@@ -3,14 +3,17 @@ import re
 from docx import Document
 from docx.shared import Inches
 from pdf_to_txt import pdf_title
+
 # 获取文件路径
 path = "./question_answer/aricar"
-files= os.listdir(path)
+files = os.listdir(path)
+
+
 # print(files)
 
 class Qurey_answer(object):
 
-    def __init__(self,txt):
+    def __init__(self, txt):
         self.txt = txt
 
     # 患者
@@ -21,7 +24,7 @@ class Qurey_answer(object):
         # c = re.search(('patients with'  +'.*?stage?'+ '.*?\D\.')+'.*?eligible.*?\D\.', txt,re.I | re.IGNORECASE)
         c = re.search('patients with' + '.*?stage?' + '.*?\D\.', txt, re.I | re.IGNORECASE)
         c1 = re.search('\.(.*?patients with' + '.*?tumours' + '.*?\D\.)', txt, re.I | re.IGNORECASE)
-        d = re.search('Patients who had' + '\s' + '.*?\D\.', txt,re.I | re.IGNORECASE)'''# 版本1，弃用
+        d = re.search('Patients who had' + '\s' + '.*?\D\.', txt,re.I | re.IGNORECASE)'''  # 版本1，弃用
 
         searcha = re.search('.*?' + '\s' + 'eligible' + '\s?' + '.*?\.', self.txt, re.I | re.IGNORECASE)
         strict1 = re.search('.*?' + '\s' + 'patients who had' + '\s?' + '.*?\.', self.txt, re.I | re.IGNORECASE)
@@ -48,17 +51,17 @@ class Qurey_answer(object):
         else:
             return 'No Match'
 
-
     # 基线特征
     def search_characteristics(self):
         try:
-            if re.search('.*?'+'\s'+'characteristics'+'\s?'+'.*?\.',self.txt,re.I |re.IGNORECASE):
-                searchtxt = re.search('.*?'+'\s'+'characteristics'+'\s?'+'.*?\.',self.txt,re.I |re.IGNORECASE)
+            if re.search('.*?' + '\s' + 'characteristics' + '\s?' + '.*?\.', self.txt, re.I | re.IGNORECASE):
+                searchtxt = re.search('.*?' + '\s' + 'characteristics' + '\s?' + '.*?\.', self.txt,
+                                      re.I | re.IGNORECASE)
             else:
-                searchtxt =re.search('.*?'+'\s'+'characteristics',self.txt,re.I |re.IGNORECASE)
+                searchtxt = re.search('.*?' + '\s' + 'characteristics', self.txt, re.I | re.IGNORECASE)
             return searchtxt.group()
         except Exception as e:
-            print(e)
+            # print(e)
             return []
 
     # 药物
@@ -71,7 +74,7 @@ class Qurey_answer(object):
         # h = open('drugbank_main.txt', encoding='utf-8')
         # res = h.read().splitlines()
         #
-        # # print(res)
+        # #print(res)
         # res2 = []
         # for i in res:
         #     newi = re.search('\t(.*)', i)
@@ -85,14 +88,14 @@ class Qurey_answer(object):
             # a = re.search('.*?' + '\s?' + i + '\s?' + '.*?\.', txt, re.I | re.IGNORECASE) #版本1，废弃
             a = re.search('.*?' + '\s?' + i + '\s?', self.txt)
             if a:
-                print(i)
+                # print(i)
                 searchtxt = a
-                print(searchtxt.group())
+                # print(searchtxt.group())
                 medcine.append(i)
                 reason.append(searchtxt.group())
-            print('\r'+str(num / len(res) * 100) + '%',end='')
+            # print('\r'+str(num / len(res) * 100) + '%',end='')
             num += 1
-        return [medcine,reason]
+        return [medcine, reason]
 
     # 样本量
     def search_num(self):
@@ -106,7 +109,7 @@ class Qurey_answer(object):
 
     # 线数
     def search_phase(self):
-        a = re.search('.*?' + '\s' + 'phase I' + '\s?' + '.*?\D\.', self.txt,  re.IGNORECASE)
+        a = re.search('.*?' + '\s' + 'phase I' + '\s?' + '.*?\D\.', self.txt, re.IGNORECASE)
         if a:
             searchtxt = a
             return searchtxt.group()
@@ -115,7 +118,7 @@ class Qurey_answer(object):
 
     # 实验目的
     def search_purpose(self):
-        a = re.search('.*?' + '\s' + 'background' + '\s?' + '.*?\..*?\.', self.txt,  re.I | re.IGNORECASE)
+        a = re.search('.*?' + '\s' + 'background' + '\s?' + '.*?\..*?\.', self.txt, re.I | re.IGNORECASE)
         b = re.search('background' + '\s' + '.*?\..*?\.', self.txt, re.I | re.IGNORECASE)
         if b:
             searchtxt = b
@@ -173,10 +176,9 @@ class Qurey_answer(object):
                 searchtxt = a
                 keyword.append(i)
                 reason.append(searchtxt.group())
-            print('\r'+str(num / len(res) * 100) + '%',end='')
+            # print('\r'+str(num / len(res) * 100) + '%',end='')
             num += 1
-        return [keyword,reason]
-
+        return [keyword, reason]
 
     def table_chart(self):
         # table = re.findall('.*?' + '\s' + 'table' + '\s?' + '.*?\.', self.txt, re.I | re.IGNORECASE)
@@ -184,7 +186,7 @@ class Qurey_answer(object):
         # table2 = re.findall('.*?' + '\s' + 'table' + '\s\d' + '.*\n',self.txt,re.I | re.DOTALL)
         # table.extend(chart)
         # table.extend(table2) #版本1弃用
-        #table = re.findall('Table' + '\s?\d' + '.*?\n.*?\.', txt, re.DOTALL) #版本2弃用
+        # table = re.findall('Table' + '\s?\d' + '.*?\n.*?\.', txt, re.DOTALL) #版本2弃用
 
         # table = re.findall('.*?\(.*?\s?Table' + '\s? ' + '.*?\)', self.txt)
         # if len(table) ==0:
@@ -195,7 +197,7 @@ class Qurey_answer(object):
         table = re.findall('.*?\(Table' + '\s? ' + '.*?\)', self.txt, re.I)
         for i in table:
             try:
-                table_num = re.search('\(table.*?([1-9])[\s,\,,\),A,B,C]', i,re.I).group(1)
+                table_num = re.search('\(table.*?([1-9])[\s,\,,\),A,B,C]', i, re.I).group(1)
                 # res_table.append((table_num,i))
                 res_table.append(i)
             except Exception:
@@ -205,7 +207,7 @@ class Qurey_answer(object):
         figure = re.findall('.*?\(figure' + '\s? ' + '.*?\)', self.txt, re.I)
         for i in figure:
             try:
-                figure_num = re.search('\(figure.*?([1-9])[\s,\,,\),A,B,C]', i,re.I).group(1)
+                figure_num = re.search('\(figure.*?([1-9])[\s,\,,\),A,B,C]', i, re.I).group(1)
                 # res_figure.append((figure_num,i))
                 res_figure.append(i)
             except Exception:
@@ -227,8 +229,7 @@ class Qurey_answer(object):
         table.extend(table2)
         return table
 
-
-    def docx_write(self,document,filename,output_dir,image_name):
+    def docx_write(self, document, filename, output_dir, image_name):
 
         # print('搜寻相关药物')
         # medcine_reason = self.search_medicine(txt)
@@ -270,30 +271,29 @@ class Qurey_answer(object):
         # document.add_paragraph(str(discussion))
 
         new_table = self.table_chart_new()
-        document.add_heading(u'表格及图片陈述',1)
+        document.add_heading(u'表格及图片陈述', 1)
         for i in new_table:
             document.add_paragraph(u'>>>>>>>>>>>>>>>>>>')
             # document.add_paragraph(i)
             try:
                 newi = i.replace('', '')
                 document.add_paragraph(newi)
-
             except Exception as e:
                 print(str(e))
                 print(i)
 
-        tableandchart = self.table_chart() #table_chart为二位列表，0位为table，1位为figure
+        tableandchart = self.table_chart()  # table_chart为二位列表，0位为table，1位为figure
 
         document.add_heading(u'表格及图片', 1)
-        path = 'tmp/'+ image_name +'/table'
-        path2 = 'tmp/'+ image_name +'/figure'
+        path = 'tmp/' + image_name + '/table'
+        path2 = 'tmp/' + image_name + '/figure'
         files = os.listdir(path)
         files2 = os.listdir(path2)
         f1_num = 1
         f2_num = 1
         document.add_heading(u'表格', 2)
         for i in files:
-            document.add_picture(path+'/'+i,width=Inches(6))
+            document.add_picture(path + '/' + i, width=Inches(6))
             # for j in tableandchart[0]:
             #     if j[0]==str(f1_num):
             #         try:
@@ -301,8 +301,8 @@ class Qurey_answer(object):
             #             document.add_paragraph(newi)
             #             document.add_paragraph(u'>>>>>>>>>>>>>>>>>>')
             #         except Exception as e:
-            #             print(str(e))
-            #             print(j[1])
+            #             #print(str(e))
+            #             #print(j[1])
             #         else:
             #             pass
             f1_num += 1
@@ -316,8 +316,8 @@ class Qurey_answer(object):
             #             document.add_paragraph(newi)
             #             document.add_paragraph(u'>>>>>>>>>>>>>>>>>>')
             #         except Exception as e:
-            #             print(str(e))
-            #             print(j[1])
+            #             #print(str(e))
+            #             #print(j[1])
             #         else:
             #             pass
             # f2_num += 1
@@ -327,13 +327,14 @@ class Qurey_answer(object):
         #         document.add_paragraph(newi)
         #         document.add_paragraph(u'>>>>>>>>>>>>>>>>>>')
         #     except Exception as e:
-        #         print(str(e))
-        #         print(i)
+        #         #print(str(e))
+        #         #print(i)
         #     else:
         #         pass
 
-        document.save(output_dir+'/result_for_'+filename+'.docx')
+        document.save(output_dir + '/result_for_' + filename + '.docx')
         # document.save(filename)
+
 
 if __name__ == '__main__':
     # 遍历文件
@@ -341,12 +342,9 @@ if __name__ == '__main__':
         document = Document()
         filename = i
         document.add_heading(i, 0)
-        f = open(path+'/'+i,'r',encoding='utf-8')
+        f = open(path + '/' + i, 'r', encoding='utf-8')
         txt = f.read()
         query_ans = Qurey_answer(txt)
         f.close()
-        print('\n'+i+'-----------------------------------------')
+        # print('\n'+i+'-----------------------------------------')
         query_ans.docx_write(document)
-
-
-

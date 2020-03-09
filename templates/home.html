@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>全文解读测试网页</title>
-    <h1>您好，请上传文件进行解读</h1>
-</head>
-<body>
-    <form action="/upload.html" method="post" enctype="multipart/form-data">
-        {% csrf_token %}
-{#        <input type="text" name="fileName" >#}
-        <br>
-        <input type="file" name="fileContent">
-        <br>
-        <input type="submit" value="提交">
-    </form>
-</body>
-</html>
+{% extends "base.html" %}

@@ -63,7 +63,7 @@ def pdf2imgs(pdf_path, imgs_dir, zoom=3.0):
         raise ValueError('%s must be a dictionary rather a file.' % imgs_dir)
     pdf_img_dir = os.path.join(imgs_dir, pdf_name)
     if os.path.exists(pdf_img_dir):
-        print('文件已经存在！')
+        #print('文件已经存在！')
         return pdf_img_dir
     else:
         os.mkdir(pdf_img_dir)
@@ -77,7 +77,7 @@ def pdf2imgs(pdf_path, imgs_dir, zoom=3.0):
         pm = page.getPixmap(matrix=trans, alpha=False)
         img_tmp = os.path.join(pdf_img_dir, 'page_%s.png' % str(pg + 1))
         pm.writePNG(img_tmp)  # 最终存储路径
-        print('提取图片保存成功：', img_tmp)
+        #print('提取图片保存成功：', img_tmp)
     return pdf_img_dir
 
 def _judge_words(content):
